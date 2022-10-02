@@ -1,0 +1,5104 @@
+districtid,monthid,dose1,dose2
+AN_Nicobars,1,360,0
+AN_Nicobars,2,387,304
+AN_Nicobars,3,5522,236
+AN_Nicobars,4,2090,1365
+AN_Nicobars,5,696,2
+AN_Nicobars,6,9560,4962
+AN_Nicobars,7,3481,1269
+AN_North and Middle Andaman,1,1114,0
+AN_North and Middle Andaman,2,1020,944
+AN_North and Middle Andaman,3,17819,660
+AN_North and Middle Andaman,4,10097,1664
+AN_North and Middle Andaman,5,4220,24
+AN_North and Middle Andaman,6,17211,21829
+AN_North and Middle Andaman,7,17118,4247
+AN_South Andaman,1,1866,104
+AN_South Andaman,2,6975,1492
+AN_South Andaman,3,26253,2583
+AN_South Andaman,4,26532,5778
+AN_South Andaman,5,13537,264
+AN_South Andaman,6,34597,32724
+AN_South Andaman,7,34097,17356
+AP_Anantapur,1,17062,2210
+AP_Anantapur,2,40107,11627
+AP_Anantapur,3,242760,19514
+AP_Anantapur,4,145138,138742
+AP_Anantapur,5,259562,31186
+AP_Anantapur,6,332364,127278
+AP_Anantapur,7,381008,287385
+AP_Chittoor,1,31542,1406
+AP_Chittoor,2,57235,21421
+AP_Chittoor,3,295939,29482
+AP_Chittoor,4,140617,139320
+AP_Chittoor,5,299662,46037
+AP_Chittoor,6,344889,91024
+AP_Chittoor,7,412832,322212
+AP_East Godavari,1,41195,1461
+AP_East Godavari,2,65770,25409
+AP_East Godavari,3,277388,40371
+AP_East Godavari,4,113682,138184
+AP_East Godavari,5,461574,49718
+AP_East Godavari,6,483399,128566
+AP_East Godavari,7,486969,174094
+AP_Guntur,1,25620,3327
+AP_Guntur,2,54865,16462
+AP_Guntur,3,259959,35042
+AP_Guntur,4,158602,117649
+AP_Guntur,5,381743,60232
+AP_Guntur,6,472904,122809
+AP_Guntur,7,431088,249454
+AP_Krishna,1,26275,1445
+AP_Krishna,2,52543,20545
+AP_Krishna,3,284173,24986
+AP_Krishna,4,135131,165430
+AP_Krishna,5,443129,46213
+AP_Krishna,6,376048,145908
+AP_Krishna,7,455939,162880
+AP_Kurnool,1,24490,2433
+AP_Kurnool,2,31783,14008
+AP_Kurnool,3,236201,19681
+AP_Kurnool,4,97077,117798
+AP_Kurnool,5,269017,25723
+AP_Kurnool,6,298836,89139
+AP_Kurnool,7,293353,226687
+AP_Prakasam,1,22706,620
+AP_Prakasam,2,29821,10697
+AP_Prakasam,3,220336,23308
+AP_Prakasam,4,105082,117108
+AP_Prakasam,5,288550,43988
+AP_Prakasam,6,338448,72415
+AP_Prakasam,7,239035,255056
+AP_S.P.S. Nellore,1,35241,3169
+AP_S.P.S. Nellore,2,41913,21755
+AP_S.P.S. Nellore,3,207303,33296
+AP_S.P.S. Nellore,4,107900,120750
+AP_S.P.S. Nellore,5,263828,22518
+AP_S.P.S. Nellore,6,268104,163540
+AP_S.P.S. Nellore,7,251314,167067
+AP_Srikakulam,1,28124,2715
+AP_Srikakulam,2,33171,18243
+AP_Srikakulam,3,176438,17415
+AP_Srikakulam,4,79529,76444
+AP_Srikakulam,5,284229,17425
+AP_Srikakulam,6,256183,88819
+AP_Srikakulam,7,175460,117451
+AP_Visakhapatnam,1,30831,2377
+AP_Visakhapatnam,2,56059,22166
+AP_Visakhapatnam,3,285003,33166
+AP_Visakhapatnam,4,139272,129818
+AP_Visakhapatnam,5,470799,46947
+AP_Visakhapatnam,6,449459,120154
+AP_Visakhapatnam,7,487122,281826
+AP_Vizianagaram,1,16959,2355
+AP_Vizianagaram,2,22909,10567
+AP_Vizianagaram,3,161468,14895
+AP_Vizianagaram,4,63939,71987
+AP_Vizianagaram,5,228803,12033
+AP_Vizianagaram,6,214722,50129
+AP_Vizianagaram,7,218850,58931
+AP_West Godavari,1,22292,1143
+AP_West Godavari,2,49882,16621
+AP_West Godavari,3,218351,35002
+AP_West Godavari,4,102970,132115
+AP_West Godavari,5,399410,32857
+AP_West Godavari,6,492883,63075
+AP_West Godavari,7,389602,156214
+AP_Y.S.R. Kadapa,1,17593,2073
+AP_Y.S.R. Kadapa,2,38126,10811
+AP_Y.S.R. Kadapa,3,223820,23029
+AP_Y.S.R. Kadapa,4,91349,115001
+AP_Y.S.R. Kadapa,5,257799,32561
+AP_Y.S.R. Kadapa,6,271169,89622
+AP_Y.S.R. Kadapa,7,148716,125166
+AR_Anjaw,1,440,48
+AR_Anjaw,2,340,257
+AR_Anjaw,3,1070,339
+AR_Anjaw,4,1222,597
+AR_Anjaw,5,2504,26
+AR_Anjaw,6,4265,364
+AR_Anjaw,7,1099,951
+AR_Changlang,1,998,0
+AR_Changlang,2,2394,840
+AR_Changlang,3,7638,1450
+AR_Changlang,4,7955,1970
+AR_Changlang,5,16427,405
+AR_Changlang,6,30392,5734
+AR_Changlang,7,9926,6845
+AR_Upper Dibang Valley,1,214,0
+AR_Upper Dibang Valley,2,511,162
+AR_Upper Dibang Valley,3,562,338
+AR_Upper Dibang Valley,4,324,376
+AR_Upper Dibang Valley,5,425,11
+AR_Upper Dibang Valley,6,1450,148
+AR_Upper Dibang Valley,7,429,199
+AR_East Kameng,1,319,64
+AR_East Kameng,2,650,214
+AR_East Kameng,3,2585,543
+AR_East Kameng,4,3055,1000
+AR_East Kameng,5,5459,54
+AR_East Kameng,6,6086,1668
+AR_East Kameng,7,2469,2804
+AR_East Siang,1,959,76
+AR_East Siang,2,1810,918
+AR_East Siang,3,8553,1762
+AR_East Siang,4,6218,5714
+AR_East Siang,5,6168,35
+AR_East Siang,6,25571,3484
+AR_East Siang,7,2074,4219
+AR_Papum Pare,1,1808,79
+AR_Papum Pare,2,1695,1233
+AR_Papum Pare,3,8686,1830
+AR_Papum Pare,4,17702,4452
+AR_Papum Pare,5,31155,82
+AR_Papum Pare,6,23902,8106
+AR_Papum Pare,7,10369,13133
+AR_Kamle,1,168,0
+AR_Kamle,2,123,162
+AR_Kamle,3,511,117
+AR_Kamle,4,911,256
+AR_Kamle,5,936,2
+AR_Kamle,6,2161,322
+AR_Kamle,7,1405,738
+AR_Kra Daadi,1,220,0
+AR_Kra Daadi,2,163,241
+AR_Kra Daadi,3,812,61
+AR_Kra Daadi,4,635,415
+AR_Kra Daadi,5,1548,12
+AR_Kra Daadi,6,1733,308
+AR_Kra Daadi,7,727,736
+AR_Kurung Kumey,1,467,0
+AR_Kurung Kumey,2,348,305
+AR_Kurung Kumey,3,2000,217
+AR_Kurung Kumey,4,934,1415
+AR_Kurung Kumey,5,1015,12
+AR_Kurung Kumey,6,2406,407
+AR_Kurung Kumey,7,1404,501
+AR_Lepa Rada,1,791,79
+AR_Lepa Rada,2,933,539
+AR_Lepa Rada,3,2086,625
+AR_Lepa Rada,4,1083,1270
+AR_Lepa Rada,5,1836,8
+AR_Lepa Rada,6,5302,1366
+AR_Lepa Rada,7,935,1101
+AR_Lohit,1,535,0
+AR_Lohit,2,1378,396
+AR_Lohit,3,2198,689
+AR_Lohit,4,3036,911
+AR_Lohit,5,4267,45
+AR_Lohit,6,12866,2061
+AR_Lohit,7,3682,2718
+AR_Longding,1,512,64
+AR_Longding,2,1077,220
+AR_Longding,3,829,673
+AR_Longding,4,1758,595
+AR_Longding,5,4301,166
+AR_Longding,6,7197,446
+AR_Longding,7,2293,1110
+AR_Lower Dibang Valley,1,225,0
+AR_Lower Dibang Valley,2,1326,280
+AR_Lower Dibang Valley,3,4021,1059
+AR_Lower Dibang Valley,4,3359,1215
+AR_Lower Dibang Valley,5,4132,32
+AR_Lower Dibang Valley,6,13361,3419
+AR_Lower Dibang Valley,7,3435,2216
+AR_Lower Siang,1,296,117
+AR_Lower Siang,2,443,177
+AR_Lower Siang,3,1305,355
+AR_Lower Siang,4,2429,438
+AR_Lower Siang,5,2328,18
+AR_Lower Siang,6,5917,1549
+AR_Lower Siang,7,3037,1939
+AR_Lower Subansiri,1,774,250
+AR_Lower Subansiri,2,970,507
+AR_Lower Subansiri,3,3709,850
+AR_Lower Subansiri,4,2805,2450
+AR_Lower Subansiri,5,5338,11
+AR_Lower Subansiri,6,8177,1520
+AR_Lower Subansiri,7,3083,2700
+AR_Namsai,1,839,87
+AR_Namsai,2,2337,784
+AR_Namsai,3,3888,1211
+AR_Namsai,4,7818,2430
+AR_Namsai,5,8544,30
+AR_Namsai,6,29282,3191
+AR_Namsai,7,5182,4979
+AR_Pakke Kessang,1,248,0
+AR_Pakke Kessang,2,541,172
+AR_Pakke Kessang,3,1150,412
+AR_Pakke Kessang,4,1676,760
+AR_Pakke Kessang,5,1181,68
+AR_Pakke Kessang,6,1535,628
+AR_Pakke Kessang,7,1350,1035
+AR_Shi Yomi,1,225,0
+AR_Shi Yomi,2,300,260
+AR_Shi Yomi,3,1133,296
+AR_Shi Yomi,4,655,871
+AR_Shi Yomi,5,684,8
+AR_Shi Yomi,6,2963,206
+AR_Shi Yomi,7,771,688
+AR_Siang,1,263,0
+AR_Siang,2,421,199
+AR_Siang,3,2737,249
+AR_Siang,4,1249,1126
+AR_Siang,5,1152,7
+AR_Siang,6,6711,1674
+AR_Siang,7,1382,1097
+AR_Tawang,1,862,85
+AR_Tawang,2,2215,748
+AR_Tawang,3,3409,1269
+AR_Tawang,4,3156,2130
+AR_Tawang,5,6476,57
+AR_Tawang,6,9105,2182
+AR_Tawang,7,2501,2945
+AR_Tirap,1,701,0
+AR_Tirap,2,1856,596
+AR_Tirap,3,1172,1090
+AR_Tirap,4,1965,852
+AR_Tirap,5,6444,78
+AR_Tirap,6,14389,1078
+AR_Tirap,7,2523,2007
+AR_Upper Siang,1,523,94
+AR_Upper Siang,2,464,386
+AR_Upper Siang,3,3837,423
+AR_Upper Siang,4,2168,1761
+AR_Upper Siang,5,2808,14
+AR_Upper Siang,6,5575,2031
+AR_Upper Siang,7,2137,1772
+AR_Upper Subansiri,1,252,12
+AR_Upper Subansiri,2,606,130
+AR_Upper Subansiri,3,3110,639
+AR_Upper Subansiri,4,4894,2297
+AR_Upper Subansiri,5,5483,61
+AR_Upper Subansiri,6,4258,1252
+AR_Upper Subansiri,7,4568,3016
+AR_West Kameng,1,1116,304
+AR_West Kameng,2,5197,636
+AR_West Kameng,3,5710,2820
+AR_West Kameng,4,3886,2919
+AR_West Kameng,5,7893,130
+AR_West Kameng,6,18990,3630
+AR_West Kameng,7,7532,3473
+AR_West Siang,1,1133,150
+AR_West Siang,2,2081,868
+AR_West Siang,3,5565,1258
+AR_West Siang,4,3596,1837
+AR_West Siang,5,5092,63
+AR_West Siang,6,12888,5146
+AR_West Siang,7,2313,3083
+AS_Baksa,1,2194,65
+AS_Baksa,2,5043,1206
+AS_Baksa,3,20192,3676
+AS_Baksa,4,25192,7502
+AS_Baksa,5,18652,3414
+AS_Baksa,6,59165,11520
+AS_Baksa,7,146121,16939
+AS_Barpeta,1,4199,180
+AS_Barpeta,2,13761,2762
+AS_Barpeta,3,51807,8466
+AS_Barpeta,4,67487,23878
+AS_Barpeta,5,33686,56781
+AS_Barpeta,6,129776,26999
+AS_Barpeta,7,229431,18144
+AS_Biswanath,1,2000,60
+AS_Biswanath,2,6932,1491
+AS_Biswanath,3,12737,3277
+AS_Biswanath,4,35036,9954
+AS_Biswanath,5,29358,4071
+AS_Biswanath,6,104861,9657
+AS_Biswanath,7,154627,23919
+AS_Bongaigaon,1,2385,198
+AS_Bongaigaon,2,13987,1655
+AS_Bongaigaon,3,19549,6732
+AS_Bongaigaon,4,30456,14016
+AS_Bongaigaon,5,22445,3286
+AS_Bongaigaon,6,73486,11071
+AS_Bongaigaon,7,122399,21781
+AS_Cachar,1,7304,111
+AS_Cachar,2,16572,4506
+AS_Cachar,3,26829,9996
+AS_Cachar,4,55020,16047
+AS_Cachar,5,105628,9366
+AS_Cachar,6,160850,21671
+AS_Cachar,7,144865,41976
+AS_Charaideo,1,1489,115
+AS_Charaideo,2,3005,1131
+AS_Charaideo,3,11749,2092
+AS_Charaideo,4,20282,5884
+AS_Charaideo,5,17431,1338
+AS_Charaideo,6,44585,7943
+AS_Charaideo,7,106214,13837
+AS_Chirang,1,1263,71
+AS_Chirang,2,7785,1129
+AS_Chirang,3,5408,4739
+AS_Chirang,4,19047,5821
+AS_Chirang,5,14134,3412
+AS_Chirang,6,44858,6357
+AS_Chirang,7,66009,11938
+AS_Darrang,1,3296,142
+AS_Darrang,2,14851,2167
+AS_Darrang,3,16115,5828
+AS_Darrang,4,38158,13229
+AS_Darrang,5,31025,4070
+AS_Darrang,6,73606,8877
+AS_Darrang,7,119874,25486
+AS_Dhemaji,1,3174,127
+AS_Dhemaji,2,7376,1769
+AS_Dhemaji,3,21566,3746
+AS_Dhemaji,4,35490,11767
+AS_Dhemaji,5,25663,4189
+AS_Dhemaji,6,89562,10125
+AS_Dhemaji,7,109803,27266
+AS_Dhubri,1,3627,274
+AS_Dhubri,2,16336,2523
+AS_Dhubri,3,33549,7179
+AS_Dhubri,4,31887,18483
+AS_Dhubri,5,21228,2531
+AS_Dhubri,6,99103,18214
+AS_Dhubri,7,134126,25640
+AS_Dibrugarh,1,8590,341
+AS_Dibrugarh,2,16911,6651
+AS_Dibrugarh,3,42518,11527
+AS_Dibrugarh,4,79431,17100
+AS_Dibrugarh,5,88808,7061
+AS_Dibrugarh,6,140503,38217
+AS_Dibrugarh,7,209153,62908
+AS_Dima Hasao,1,1100,123
+AS_Dima Hasao,2,5366,723
+AS_Dima Hasao,3,6117,2623
+AS_Dima Hasao,4,12871,4278
+AS_Dima Hasao,5,7501,2785
+AS_Dima Hasao,6,36489,4894
+AS_Dima Hasao,7,13106,6427
+AS_Goalpara,1,4943,105
+AS_Goalpara,2,9617,3101
+AS_Goalpara,3,19651,4660
+AS_Goalpara,4,31586,11639
+AS_Goalpara,5,20817,2823
+AS_Goalpara,6,85856,9198
+AS_Goalpara,7,132079,23228
+AS_Golaghat,1,4048,231
+AS_Golaghat,2,12316,2631
+AS_Golaghat,3,25188,6381
+AS_Golaghat,4,44195,15662
+AS_Golaghat,5,33089,2845
+AS_Golaghat,6,147813,15866
+AS_Golaghat,7,239877,47813
+AS_Hailakandi,1,2935,66
+AS_Hailakandi,2,6681,2073
+AS_Hailakandi,3,15778,3315
+AS_Hailakandi,4,25664,9021
+AS_Hailakandi,5,26874,3746
+AS_Hailakandi,6,68294,10993
+AS_Hailakandi,7,103859,16545
+AS_Hojai,1,2265,210
+AS_Hojai,2,11691,1249
+AS_Hojai,3,28351,3618
+AS_Hojai,4,29245,14278
+AS_Hojai,5,31162,13565
+AS_Hojai,6,94209,17013
+AS_Hojai,7,125363,20256
+AS_Jorhat,1,4231,188
+AS_Jorhat,2,14963,3001
+AS_Jorhat,3,31541,6898
+AS_Jorhat,4,53090,16659
+AS_Jorhat,5,35729,7031
+AS_Jorhat,6,119554,24603
+AS_Jorhat,7,268020,43489
+AS_Kamrup Metropolitan,1,13034,365
+AS_Kamrup Metropolitan,2,34397,9346
+AS_Kamrup Metropolitan,3,69569,18431
+AS_Kamrup Metropolitan,4,196882,49530
+AS_Kamrup Metropolitan,5,268984,29425
+AS_Kamrup Metropolitan,6,262089,65517
+AS_Kamrup Metropolitan,7,185159,152612
+AS_Kamrup,1,5988,157
+AS_Kamrup,2,15922,4293
+AS_Kamrup,3,54503,8344
+AS_Kamrup,4,100752,30297
+AS_Kamrup,5,80705,9353
+AS_Kamrup,6,89385,26942
+AS_Kamrup,7,287964,70008
+AS_Karbi Anglong,1,2317,86
+AS_Karbi Anglong,2,8608,1396
+AS_Karbi Anglong,3,15062,4159
+AS_Karbi Anglong,4,19463,7572
+AS_Karbi Anglong,5,16210,2663
+AS_Karbi Anglong,6,38922,9853
+AS_Karbi Anglong,7,53356,12323
+AS_Karimganj,1,2889,46
+AS_Karimganj,2,12081,1530
+AS_Karimganj,3,22153,3522
+AS_Karimganj,4,31893,15182
+AS_Karimganj,5,30577,5011
+AS_Karimganj,6,86052,13538
+AS_Karimganj,7,107709,23508
+AS_Kokrajhar,1,3499,137
+AS_Kokrajhar,2,11588,2417
+AS_Kokrajhar,3,12755,8432
+AS_Kokrajhar,4,31915,7615
+AS_Kokrajhar,5,21249,1481
+AS_Kokrajhar,6,63639,8421
+AS_Kokrajhar,7,127880,23684
+AS_Lakhimpur,1,4883,277
+AS_Lakhimpur,2,9796,2192
+AS_Lakhimpur,3,23037,6355
+AS_Lakhimpur,4,45359,17333
+AS_Lakhimpur,5,31724,4356
+AS_Lakhimpur,6,125246,11134
+AS_Lakhimpur,7,208175,38177
+AS_Majuli,1,1223,185
+AS_Majuli,2,2438,722
+AS_Majuli,3,10910,1568
+AS_Majuli,4,14716,6552
+AS_Majuli,5,11889,1442
+AS_Majuli,6,32341,4718
+AS_Majuli,7,30846,14100
+AS_Morigaon,1,3811,144
+AS_Morigaon,2,8621,1927
+AS_Morigaon,3,24090,3587
+AS_Morigaon,4,29184,10814
+AS_Morigaon,5,27053,3415
+AS_Morigaon,6,105434,11031
+AS_Morigaon,7,164070,22805
+AS_Nagaon,1,9016,288
+AS_Nagaon,2,20473,5494
+AS_Nagaon,3,47499,11467
+AS_Nagaon,4,70350,20988
+AS_Nagaon,5,77993,11461
+AS_Nagaon,6,167683,27718
+AS_Nagaon,7,234227,57418
+AS_Nalbari,1,3549,226
+AS_Nalbari,2,5727,2215
+AS_Nalbari,3,16188,4224
+AS_Nalbari,4,32823,7470
+AS_Nalbari,5,27506,2898
+AS_Nalbari,6,60887,10719
+AS_Nalbari,7,130710,24631
+AS_Sivasagar,1,3698,130
+AS_Sivasagar,2,10327,2596
+AS_Sivasagar,3,21169,5706
+AS_Sivasagar,4,36530,12741
+AS_Sivasagar,5,26715,4518
+AS_Sivasagar,6,98668,16176
+AS_Sivasagar,7,159183,25572
+AS_Sonitpur,1,5436,107
+AS_Sonitpur,2,15399,3367
+AS_Sonitpur,3,28675,10542
+AS_Sonitpur,4,69592,19659
+AS_Sonitpur,5,50677,34411
+AS_Sonitpur,6,191530,32479
+AS_Sonitpur,7,221719,38601
+AS_South Salmara Mankachar,1,561,36
+AS_South Salmara Mankachar,2,1855,171
+AS_South Salmara Mankachar,3,2889,836
+AS_South Salmara Mankachar,4,3506,2047
+AS_South Salmara Mankachar,5,11347,318
+AS_South Salmara Mankachar,6,36431,1550
+AS_South Salmara Mankachar,7,100397,3938
+AS_Tinsukia,1,5051,180
+AS_Tinsukia,2,11150,3328
+AS_Tinsukia,3,34264,4942
+AS_Tinsukia,4,38480,13929
+AS_Tinsukia,5,73415,3401
+AS_Tinsukia,6,113744,15886
+AS_Tinsukia,7,136596,41616
+AS_Udalguri,1,2508,86
+AS_Udalguri,2,6204,1672
+AS_Udalguri,3,17085,4995
+AS_Udalguri,4,24213,8642
+AS_Udalguri,5,22246,1727
+AS_Udalguri,6,56390,6563
+AS_Udalguri,7,102744,21727
+AS_West Karbi Anglong,1,870,112
+AS_West Karbi Anglong,2,3006,530
+AS_West Karbi Anglong,3,5930,1473
+AS_West Karbi Anglong,4,7324,4334
+AS_West Karbi Anglong,5,6913,594
+AS_West Karbi Anglong,6,25529,2309
+AS_West Karbi Anglong,7,25862,4034
+BR_Araria,1,9593,1
+BR_Araria,2,19258,4885
+BR_Araria,3,64550,5374
+BR_Araria,4,59179,12760
+BR_Araria,5,68103,7137
+BR_Araria,6,143562,32400
+BR_Araria,7,213162,42851
+BR_Arwal,1,3951,205
+BR_Arwal,2,3833,2709
+BR_Arwal,3,22990,2503
+BR_Arwal,4,10290,7114
+BR_Arwal,5,19055,376
+BR_Arwal,6,59715,7258
+BR_Arwal,7,98266,8864
+BR_Aurangabad,1,9014,145
+BR_Aurangabad,2,11092,5789
+BR_Aurangabad,3,53259,7319
+BR_Aurangabad,4,52121,13716
+BR_Aurangabad,5,80310,3889
+BR_Aurangabad,6,157973,14375
+BR_Aurangabad,7,186743,27342
+BR_Banka,1,6777,50
+BR_Banka,2,25543,3966
+BR_Banka,3,77822,11738
+BR_Banka,4,33486,21483
+BR_Banka,5,52027,1254
+BR_Banka,6,152853,13064
+BR_Banka,7,149438,27555
+BR_Begusarai,1,11691,612
+BR_Begusarai,2,16789,8489
+BR_Begusarai,3,128992,10628
+BR_Begusarai,4,80105,29678
+BR_Begusarai,5,88292,1260
+BR_Begusarai,6,159503,20958
+BR_Begusarai,7,242342,44226
+BR_Bhagalpur,1,15500,789
+BR_Bhagalpur,2,36696,9767
+BR_Bhagalpur,3,122078,13325
+BR_Bhagalpur,4,77140,33792
+BR_Bhagalpur,5,124415,6176
+BR_Bhagalpur,6,275200,45593
+BR_Bhagalpur,7,255721,65061
+BR_Bhojpur,1,10221,214
+BR_Bhojpur,2,11363,6377
+BR_Bhojpur,3,92061,6402
+BR_Bhojpur,4,64787,30135
+BR_Bhojpur,5,79620,1753
+BR_Bhojpur,6,127473,17695
+BR_Bhojpur,7,225100,39261
+BR_Buxar,1,7000,100
+BR_Buxar,2,13684,4640
+BR_Buxar,3,65264,5382
+BR_Buxar,4,40278,21114
+BR_Buxar,5,57447,1516
+BR_Buxar,6,97070,12712
+BR_Buxar,7,141162,33194
+BR_Darbhanga,1,18129,857
+BR_Darbhanga,2,23874,12141
+BR_Darbhanga,3,138757,11887
+BR_Darbhanga,4,117900,51979
+BR_Darbhanga,5,150753,2809
+BR_Darbhanga,6,209320,39727
+BR_Darbhanga,7,333090,69615
+BR_East Champaran,1,20183,693
+BR_East Champaran,2,15729,11017
+BR_East Champaran,3,114102,8622
+BR_East Champaran,4,151458,35651
+BR_East Champaran,5,191879,4191
+BR_East Champaran,6,310569,39008
+BR_East Champaran,7,408663,113995
+BR_Gaya,1,26227,506
+BR_Gaya,2,27054,16864
+BR_Gaya,3,147806,17503
+BR_Gaya,4,81110,32408
+BR_Gaya,5,120051,37248
+BR_Gaya,6,282711,48751
+BR_Gaya,7,287536,53551
+BR_Gopalganj,1,9829,275
+BR_Gopalganj,2,17292,6334
+BR_Gopalganj,3,78692,7207
+BR_Gopalganj,4,61201,24551
+BR_Gopalganj,5,84179,2685
+BR_Gopalganj,6,132474,9016
+BR_Gopalganj,7,161096,37217
+BR_Jamui,1,6872,90
+BR_Jamui,2,16169,4671
+BR_Jamui,3,62165,6536
+BR_Jamui,4,36720,15589
+BR_Jamui,5,51017,1463
+BR_Jamui,6,95803,10113
+BR_Jamui,7,125367,22162
+BR_Jehanabad,1,5972,112
+BR_Jehanabad,2,4138,3838
+BR_Jehanabad,3,42710,3039
+BR_Jehanabad,4,25720,8429
+BR_Jehanabad,5,39342,2183
+BR_Jehanabad,6,65593,16332
+BR_Jehanabad,7,104862,20596
+BR_Kaimur,1,6746,33
+BR_Kaimur,2,8347,4164
+BR_Kaimur,3,59209,3645
+BR_Kaimur,4,34070,12507
+BR_Kaimur,5,44735,1814
+BR_Kaimur,6,76549,9094
+BR_Kaimur,7,118797,15272
+BR_Katihar,1,13529,503
+BR_Katihar,2,14628,8795
+BR_Katihar,3,65992,8216
+BR_Katihar,4,55764,20965
+BR_Katihar,5,98969,1213
+BR_Katihar,6,165469,17907
+BR_Katihar,7,223983,34074
+BR_Khagaria,1,7361,370
+BR_Khagaria,2,10135,4758
+BR_Khagaria,3,49084,4758
+BR_Khagaria,4,37719,12607
+BR_Khagaria,5,41997,1217
+BR_Khagaria,6,67760,9709
+BR_Khagaria,7,164390,24837
+BR_Kishanganj,1,8889,159
+BR_Kishanganj,2,11091,5641
+BR_Kishanganj,3,43787,6967
+BR_Kishanganj,4,28711,14112
+BR_Kishanganj,5,50013,661
+BR_Kishanganj,6,86067,6056
+BR_Kishanganj,7,114482,17578
+BR_Lakhisarai,1,3866,157
+BR_Lakhisarai,2,5546,2367
+BR_Lakhisarai,3,24894,3300
+BR_Lakhisarai,4,19257,7013
+BR_Lakhisarai,5,26852,616
+BR_Lakhisarai,6,58394,6635
+BR_Lakhisarai,7,87942,14483
+BR_Madhepura,1,9978,370
+BR_Madhepura,2,13316,6172
+BR_Madhepura,3,64365,5416
+BR_Madhepura,4,51299,15294
+BR_Madhepura,5,53099,1607
+BR_Madhepura,6,73023,12174
+BR_Madhepura,7,155445,30590
+BR_Madhubani,1,15256,736
+BR_Madhubani,2,32124,11484
+BR_Madhubani,3,135551,13551
+BR_Madhubani,4,111866,51037
+BR_Madhubani,5,139388,1954
+BR_Madhubani,6,234392,19932
+BR_Madhubani,7,303133,92337
+BR_Munger,1,8147,60
+BR_Munger,2,8502,5348
+BR_Munger,3,53721,5739
+BR_Munger,4,29476,16972
+BR_Munger,5,47663,775
+BR_Munger,6,112086,14738
+BR_Munger,7,130302,22391
+BR_Muzaffarpur,1,21421,456
+BR_Muzaffarpur,2,17446,13028
+BR_Muzaffarpur,3,134762,8483
+BR_Muzaffarpur,4,117104,35198
+BR_Muzaffarpur,5,171145,5351
+BR_Muzaffarpur,6,291964,64180
+BR_Muzaffarpur,7,337590,70779
+BR_Nalanda,1,15156,581
+BR_Nalanda,2,20037,10974
+BR_Nalanda,3,157029,12015
+BR_Nalanda,4,73113,34658
+BR_Nalanda,5,79550,3134
+BR_Nalanda,6,232081,45827
+BR_Nalanda,7,201957,65120
+BR_Nawada,1,8411,384
+BR_Nawada,2,16286,5148
+BR_Nawada,3,85382,8606
+BR_Nawada,4,39305,24224
+BR_Nawada,5,55704,1607
+BR_Nawada,6,100207,16263
+BR_Nawada,7,192110,29609
+BR_Patna,1,49905,892
+BR_Patna,2,83425,31777
+BR_Patna,3,280850,40738
+BR_Patna,4,192377,110665
+BR_Patna,5,412804,126748
+BR_Patna,6,700481,203564
+BR_Patna,7,813290,353779
+BR_Purnia,1,12654,384
+BR_Purnia,2,15933,7900
+BR_Purnia,3,126329,7782
+BR_Purnia,4,107975,33389
+BR_Purnia,5,132583,4366
+BR_Purnia,6,208590,39617
+BR_Purnia,7,239671,77530
+BR_Rohtas,1,12259,627
+BR_Rohtas,2,18199,7673
+BR_Rohtas,3,105535,9803
+BR_Rohtas,4,59860,27093
+BR_Rohtas,5,96707,1330
+BR_Rohtas,6,147873,19377
+BR_Rohtas,7,248273,47491
+BR_Saharsa,1,7465,237
+BR_Saharsa,2,11554,4636
+BR_Saharsa,3,63140,4843
+BR_Saharsa,4,63308,21131
+BR_Saharsa,5,63451,1622
+BR_Saharsa,6,89781,12311
+BR_Saharsa,7,135270,34229
+BR_Samastipur,1,19334,738
+BR_Samastipur,2,31448,13618
+BR_Samastipur,3,140602,12216
+BR_Samastipur,4,100580,51440
+BR_Samastipur,5,112443,2484
+BR_Samastipur,6,197942,30291
+BR_Samastipur,7,390720,70423
+BR_Saran,1,18385,249
+BR_Saran,2,21089,12440
+BR_Saran,3,178786,13284
+BR_Saran,4,121277,54453
+BR_Saran,5,127177,4356
+BR_Saran,6,227613,50557
+BR_Saran,7,356669,81025
+BR_Sheikhpura,1,3251,240
+BR_Sheikhpura,2,5336,2234
+BR_Sheikhpura,3,28561,3302
+BR_Sheikhpura,4,11744,7705
+BR_Sheikhpura,5,16475,334
+BR_Sheikhpura,6,44001,5850
+BR_Sheikhpura,7,60197,10674
+BR_Sheohar,1,2831,91
+BR_Sheohar,2,5063,1795
+BR_Sheohar,3,39483,1544
+BR_Sheohar,4,16121,8994
+BR_Sheohar,5,18833,1462
+BR_Sheohar,6,46102,11856
+BR_Sheohar,7,43321,12838
+BR_Sitamarhi,1,12410,298
+BR_Sitamarhi,2,19124,7239
+BR_Sitamarhi,3,110936,9613
+BR_Sitamarhi,4,63988,26646
+BR_Sitamarhi,5,77396,676
+BR_Sitamarhi,6,146581,26851
+BR_Sitamarhi,7,306592,52094
+BR_Siwan,1,12097,380
+BR_Siwan,2,18824,8777
+BR_Siwan,3,192511,12891
+BR_Siwan,4,89143,58231
+BR_Siwan,5,113217,5116
+BR_Siwan,6,203564,37320
+BR_Siwan,7,297180,61317
+BR_Supaul,1,10550,328
+BR_Supaul,2,9899,6621
+BR_Supaul,3,58740,4621
+BR_Supaul,4,58442,10513
+BR_Supaul,5,75649,1840
+BR_Supaul,6,125685,18454
+BR_Supaul,7,127883,39439
+BR_Vaishali,1,14246,246
+BR_Vaishali,2,21162,8286
+BR_Vaishali,3,134594,11162
+BR_Vaishali,4,71654,27399
+BR_Vaishali,5,88724,16921
+BR_Vaishali,6,170884,22895
+BR_Vaishali,7,307896,53356
+BR_West Champaran,1,14142,350
+BR_West Champaran,2,10932,6625
+BR_West Champaran,3,85650,8906
+BR_West Champaran,4,83430,18986
+BR_West Champaran,5,108072,1535
+BR_West Champaran,6,248051,21924
+BR_West Champaran,7,273697,43271
+CH_Chandigarh,1,7716,182
+CH_Chandigarh,2,32534,6242
+CH_Chandigarh,3,74430,17922
+CH_Chandigarh,4,97460,49340
+CH_Chandigarh,5,136944,2605
+CH_Chandigarh,6,182536,56315
+CH_Chandigarh,7,214849,119446
+CT_Balod,1,9637,390
+CT_Balod,2,18711,7298
+CT_Balod,3,116402,5828
+CT_Balod,4,26209,19932
+CT_Balod,5,5825,2757
+CT_Balod,6,100456,36133
+CT_Balod,7,70653,36385
+CT_Baloda Bazar,1,10205,276
+CT_Baloda Bazar,2,9613,7995
+CT_Baloda Bazar,3,160226,7022
+CT_Baloda Bazar,4,12331,14212
+CT_Baloda Bazar,5,2192,576
+CT_Baloda Bazar,6,101252,28397
+CT_Baloda Bazar,7,53212,27799
+CT_Balrampur,1,5697,47
+CT_Balrampur,2,11806,3538
+CT_Balrampur,3,77001,5645
+CT_Balrampur,4,42005,10201
+CT_Balrampur,5,2637,685
+CT_Balrampur,6,43810,11283
+CT_Balrampur,7,12168,8933
+CT_Bastar,1,11059,336
+CT_Bastar,2,14538,7488
+CT_Bastar,3,97508,10166
+CT_Bastar,4,33087,17309
+CT_Bastar,5,4762,1898
+CT_Bastar,6,77756,15048
+CT_Bastar,7,32108,19764
+CT_Bametara,1,6659,303
+CT_Bametara,2,8210,5324
+CT_Bametara,3,75876,3614
+CT_Bametara,4,6974,7169
+CT_Bametara,5,867,694
+CT_Bametara,6,50021,12818
+CT_Bametara,7,30322,15262
+CT_Bijapur,1,7937,166
+CT_Bijapur,2,10249,3407
+CT_Bijapur,3,23913,8221
+CT_Bijapur,4,10524,6708
+CT_Bijapur,5,861,610
+CT_Bijapur,6,18128,4803
+CT_Bijapur,7,7985,4485
+CT_Bilaspur,1,17260,599
+CT_Bilaspur,2,28922,14375
+CT_Bilaspur,3,254783,12052
+CT_Bilaspur,4,38424,40513
+CT_Bilaspur,5,6177,10708
+CT_Bilaspur,6,127187,47772
+CT_Bilaspur,7,112961,74464
+CT_Dakshin Bastar Dantewada,1,6099,96
+CT_Dakshin Bastar Dantewada,2,10312,3366
+CT_Dakshin Bastar Dantewada,3,35325,6911
+CT_Dakshin Bastar Dantewada,4,17956,13918
+CT_Dakshin Bastar Dantewada,5,637,908
+CT_Dakshin Bastar Dantewada,6,28935,3604
+CT_Dakshin Bastar Dantewada,7,12785,6975
+CT_Dhamtari,1,6618,187
+CT_Dhamtari,2,21257,4893
+CT_Dhamtari,3,116208,8843
+CT_Dhamtari,4,32957,28364
+CT_Dhamtari,5,1930,1803
+CT_Dhamtari,6,82416,24464
+CT_Dhamtari,7,53629,25126
+CT_Durg,1,20448,521
+CT_Durg,2,36893,15655
+CT_Durg,3,274288,26172
+CT_Durg,4,31603,60010
+CT_Durg,5,10535,6390
+CT_Durg,6,124200,59471
+CT_Durg,7,126434,102414
+CT_Gariaband,1,6108,243
+CT_Gariaband,2,6808,4364
+CT_Gariaband,3,82723,4542
+CT_Gariaband,4,9333,6176
+CT_Gariaband,5,892,241
+CT_Gariaband,6,36962,12237
+CT_Gariaband,7,26060,12354
+CT_Gaurela Pendra Marwahi,1,2484,161
+CT_Gaurela Pendra Marwahi,2,5490,1258
+CT_Gaurela Pendra Marwahi,3,41316,2419
+CT_Gaurela Pendra Marwahi,4,17687,4531
+CT_Gaurela Pendra Marwahi,5,1931,469
+CT_Gaurela Pendra Marwahi,6,23760,5347
+CT_Gaurela Pendra Marwahi,7,18255,9020
+CT_Janjgir Champa,1,11955,235
+CT_Janjgir Champa,2,19503,9669
+CT_Janjgir Champa,3,177602,8942
+CT_Janjgir Champa,4,63714,32960
+CT_Janjgir Champa,5,4244,2666
+CT_Janjgir Champa,6,93321,31598
+CT_Janjgir Champa,7,79533,45798
+CT_Jashpur,1,11702,167
+CT_Jashpur,2,14287,8010
+CT_Jashpur,3,108199,8329
+CT_Jashpur,4,34519,17997
+CT_Jashpur,5,2664,2477
+CT_Jashpur,6,57774,12839
+CT_Jashpur,7,35349,17206
+CT_Uttar Bastar Kanker,1,10170,196
+CT_Uttar Bastar Kanker,2,36912,6452
+CT_Uttar Bastar Kanker,3,79779,13880
+CT_Uttar Bastar Kanker,4,27407,17088
+CT_Uttar Bastar Kanker,5,1816,4356
+CT_Uttar Bastar Kanker,6,57302,16152
+CT_Uttar Bastar Kanker,7,33985,15152
+CT_Kabeerdham,1,8476,183
+CT_Kabeerdham,2,6297,6203
+CT_Kabeerdham,3,80257,3709
+CT_Kabeerdham,4,29616,12146
+CT_Kabeerdham,5,9870,4176
+CT_Kabeerdham,6,84072,17222
+CT_Kabeerdham,7,38436,20190
+CT_Kondagaon,1,6071,135
+CT_Kondagaon,2,15292,3960
+CT_Kondagaon,3,50824,5747
+CT_Kondagaon,4,41165,10368
+CT_Kondagaon,5,3926,1126
+CT_Kondagaon,6,35629,4329
+CT_Kondagaon,7,17541,7219
+CT_Korba,1,11478,219
+CT_Korba,2,29185,9094
+CT_Korba,3,183745,7750
+CT_Korba,4,45285,28710
+CT_Korba,5,18336,5727
+CT_Korba,6,83377,32493
+CT_Korba,7,49221,41628
+CT_Koriya,1,6842,139
+CT_Koriya,2,11412,3762
+CT_Koriya,3,67398,4433
+CT_Koriya,4,23483,10977
+CT_Koriya,5,6816,2618
+CT_Koriya,6,43746,13472
+CT_Koriya,7,22461,12463
+CT_Mahasamund,1,9988,210
+CT_Mahasamund,2,25041,8467
+CT_Mahasamund,3,194744,16257
+CT_Mahasamund,4,16935,36952
+CT_Mahasamund,5,3804,3973
+CT_Mahasamund,6,118856,40537
+CT_Mahasamund,7,97910,42158
+CT_Mungeli,1,3683,185
+CT_Mungeli,2,10715,2578
+CT_Mungeli,3,106806,3053
+CT_Mungeli,4,8847,10119
+CT_Mungeli,5,468,546
+CT_Mungeli,6,34714,15867
+CT_Mungeli,7,29465,17967
+CT_Narayanpur,1,2434,32
+CT_Narayanpur,2,3706,1004
+CT_Narayanpur,3,11075,3500
+CT_Narayanpur,4,5144,1692
+CT_Narayanpur,5,531,1326
+CT_Narayanpur,6,8401,2951
+CT_Narayanpur,7,3607,1578
+CT_Raigarh,1,17585,420
+CT_Raigarh,2,28895,13681
+CT_Raigarh,3,279872,17920
+CT_Raigarh,4,49163,74123
+CT_Raigarh,5,2328,6306
+CT_Raigarh,6,335685,72811
+CT_Raigarh,7,190247,85972
+CT_Raipur,1,32813,348
+CT_Raipur,2,36481,21491
+CT_Raipur,3,273501,30328
+CT_Raipur,4,35570,64696
+CT_Raipur,5,14601,15491
+CT_Raipur,6,420244,110211
+CT_Raipur,7,351850,160531
+CT_Rajnandgaon,1,17661,226
+CT_Rajnandgaon,2,14287,13859
+CT_Rajnandgaon,3,254942,9114
+CT_Rajnandgaon,4,10124,17898
+CT_Rajnandgaon,5,2563,2215
+CT_Rajnandgaon,6,277545,66132
+CT_Rajnandgaon,7,110325,63865
+CT_Sukma,1,5541,252
+CT_Sukma,2,16786,2729
+CT_Sukma,3,33017,11725
+CT_Sukma,4,14442,9203
+CT_Sukma,5,1215,1616
+CT_Sukma,6,28279,4248
+CT_Sukma,7,7023,3803
+CT_Surajpur,1,8885,172
+CT_Surajpur,2,6439,6018
+CT_Surajpur,3,105080,2417
+CT_Surajpur,4,53895,14372
+CT_Surajpur,5,1179,2181
+CT_Surajpur,6,38279,11919
+CT_Surajpur,7,15869,12463
+CT_Surguja,1,10885,377
+CT_Surguja,2,26495,6174
+CT_Surguja,3,145687,12083
+CT_Surguja,4,43693,22735
+CT_Surguja,5,3744,6173
+CT_Surguja,6,66430,27854
+CT_Surguja,7,38122,27109
+DN_Dadra and Nagar Haveli,1,3115,70
+DN_Dadra and Nagar Haveli,2,4915,2252
+DN_Dadra and Nagar Haveli,3,27951,4080
+DN_Dadra and Nagar Haveli,4,9574,5503
+DN_Dadra and Nagar Haveli,5,76427,218
+DN_Dadra and Nagar Haveli,6,160136,18935
+DN_Dadra and Nagar Haveli,7,68889,11874
+DN_Daman,1,889,94
+DN_Daman,2,2870,648
+DN_Daman,3,21412,1573
+DN_Daman,4,10588,6184
+DN_Daman,5,69608,246
+DN_Daman,6,81563,16227
+DN_Daman,7,24281,11535
+DN_Diu,1,563,0
+DN_Diu,2,2666,463
+DN_Diu,3,6224,1668
+DN_Diu,4,3969,3352
+DN_Diu,5,17460,257
+DN_Diu,6,5797,3655
+DN_Diu,7,1263,4797
+DL_Central Delhi,1,22826,790
+DL_Central Delhi,2,34902,14471
+DL_Central Delhi,3,149363,32749
+DL_Central Delhi,4,168265,62799
+DL_Central Delhi,5,133362,48576
+DL_Central Delhi,6,230532,67790
+DL_Central Delhi,7,91334,83920
+DL_East Delhi,1,12367,467
+DL_East Delhi,2,20944,6911
+DL_East Delhi,3,104505,17130
+DL_East Delhi,4,97711,34625
+DL_East Delhi,5,91962,23557
+DL_East Delhi,6,211007,56242
+DL_East Delhi,7,110422,104127
+DL_New Delhi,1,16625,594
+DL_New Delhi,2,27319,10720
+DL_New Delhi,3,132734,35267
+DL_New Delhi,4,118896,66007
+DL_New Delhi,5,89951,55849
+DL_New Delhi,6,156015,62806
+DL_New Delhi,7,114486,92297
+DL_North Delhi,1,11427,164
+DL_North Delhi,2,21456,5852
+DL_North Delhi,3,102090,20256
+DL_North Delhi,4,131032,41407
+DL_North Delhi,5,63385,35850
+DL_North Delhi,6,243133,48418
+DL_North Delhi,7,100369,78800
+DL_North East Delhi,1,13265,170
+DL_North East Delhi,2,23735,9039
+DL_North East Delhi,3,75604,19900
+DL_North East Delhi,4,87366,36441
+DL_North East Delhi,5,79991,22159
+DL_North East Delhi,6,192232,34661
+DL_North East Delhi,7,57597,44419
+DL_North West Delhi,1,28680,1155
+DL_North West Delhi,2,36287,16102
+DL_North West Delhi,3,184116,27058
+DL_North West Delhi,4,182051,75771
+DL_North West Delhi,5,122505,55478
+DL_North West Delhi,6,245301,87885
+DL_North West Delhi,7,175896,129541
+DL_Shahdara,1,12366,357
+DL_Shahdara,2,14878,8222
+DL_Shahdara,3,128848,25329
+DL_Shahdara,4,102039,35000
+DL_Shahdara,5,62893,18892
+DL_Shahdara,6,153460,47167
+DL_Shahdara,7,97248,90553
+DL_South Delhi,1,21992,764
+DL_South Delhi,2,34893,12673
+DL_South Delhi,3,148258,41588
+DL_South Delhi,4,134169,62292
+DL_South Delhi,5,217811,51373
+DL_South Delhi,6,241920,68490
+DL_South Delhi,7,114092,110634
+DL_South East Delhi,1,18151,785
+DL_South East Delhi,2,22084,11630
+DL_South East Delhi,3,140372,27793
+DL_South East Delhi,4,125819,55703
+DL_South East Delhi,5,162284,57906
+DL_South East Delhi,6,210024,58536
+DL_South East Delhi,7,118266,102214
+DL_South West Delhi,1,21449,575
+DL_South West Delhi,2,32458,12880
+DL_South West Delhi,3,164017,27052
+DL_South West Delhi,4,172468,64561
+DL_South West Delhi,5,125377,36661
+DL_South West Delhi,6,239454,77715
+DL_South West Delhi,7,158477,152706
+DL_West Delhi,1,27407,1005
+DL_West Delhi,2,37364,15988
+DL_West Delhi,3,222021,32940
+DL_West Delhi,4,159339,85388
+DL_West Delhi,5,61877,42802
+DL_West Delhi,6,206743,71062
+DL_West Delhi,7,138934,135578
+GA_North Goa,1,7476,215
+GA_North Goa,2,23811,6339
+GA_North Goa,3,56990,15335
+GA_North Goa,4,74033,23297
+GA_North Goa,5,117594,3802
+GA_North Goa,6,176275,51582
+GA_North Goa,7,75041,61072
+GA_South Goa,1,6597,125
+GA_South Goa,2,22876,5611
+GA_South Goa,3,64774,14767
+GA_South Goa,4,88008,28577
+GA_South Goa,5,130510,1182
+GA_South Goa,6,196888,49995
+GA_South Goa,7,77813,76010
+GJ_Ahmedabad,1,35796,384
+GJ_Ahmedabad,2,18978,18556
+GJ_Ahmedabad,3,247409,5305
+GJ_Ahmedabad,4,61961,53489
+GJ_Ahmedabad,5,111361,21859
+GJ_Ahmedabad,6,177576,24967
+GJ_Ahmedabad,7,259664,84534
+GJ_Amreli,1,17009,176
+GJ_Amreli,2,35411,13945
+GJ_Amreli,3,181313,16567
+GJ_Amreli,4,18252,51783
+GJ_Amreli,5,40320,27936
+GJ_Amreli,6,106731,42380
+GJ_Amreli,7,230322,71836
+GJ_Anand,1,23024,432
+GJ_Anand,2,53825,14877
+GJ_Anand,3,255593,31488
+GJ_Anand,4,66749,85828
+GJ_Anand,5,123286,32777
+GJ_Anand,6,172655,56117
+GJ_Anand,7,308353,86356
+GJ_Aravalli,1,15294,323
+GJ_Aravalli,2,43360,11893
+GJ_Aravalli,3,148393,21601
+GJ_Aravalli,4,34027,52309
+GJ_Aravalli,5,45219,32045
+GJ_Aravalli,6,79289,21489
+GJ_Aravalli,7,130572,45944
+GJ_Banaskantha,1,35787,56
+GJ_Banaskantha,2,61750,13804
+GJ_Banaskantha,3,412335,45066
+GJ_Banaskantha,4,120450,76053
+GJ_Banaskantha,5,109830,62995
+GJ_Banaskantha,6,118901,99412
+GJ_Banaskantha,7,547375,229714
+GJ_Bharuch,1,22180,202
+GJ_Bharuch,2,24255,14246
+GJ_Bharuch,3,147180,17215
+GJ_Bharuch,4,65593,64580
+GJ_Bharuch,5,174462,18518
+GJ_Bharuch,6,197121,47875
+GJ_Bharuch,7,219098,64412
+GJ_Bhavnagar,1,19434,247
+GJ_Bhavnagar,2,15378,9798
+GJ_Bhavnagar,3,180059,11899
+GJ_Bhavnagar,4,46101,54846
+GJ_Bhavnagar,5,83043,11233
+GJ_Bhavnagar,6,140416,44785
+GJ_Bhavnagar,7,193670,71614
+GJ_Botad,1,6621,100
+GJ_Botad,2,6784,4869
+GJ_Botad,3,38479,4183
+GJ_Botad,4,11117,16225
+GJ_Botad,5,37306,7602
+GJ_Botad,6,87136,12425
+GJ_Botad,7,117445,17990
+GJ_Chhota Udaipur,1,15605,57
+GJ_Chhota Udaipur,2,4594,5112
+GJ_Chhota Udaipur,3,124282,7718
+GJ_Chhota Udaipur,4,21778,23021
+GJ_Chhota Udaipur,5,28225,44675
+GJ_Chhota Udaipur,6,112029,24104
+GJ_Chhota Udaipur,7,133273,51726
+GJ_Dahod,1,27974,826
+GJ_Dahod,2,101058,21818
+GJ_Dahod,3,132457,30830
+GJ_Dahod,4,78435,75150
+GJ_Dahod,5,66451,52457
+GJ_Dahod,6,99214,57465
+GJ_Dahod,7,269267,122499
+GJ_Dang,1,4338,269
+GJ_Dang,2,2033,3504
+GJ_Dang,3,25278,1483
+GJ_Dang,4,3568,4202
+GJ_Dang,5,6915,268
+GJ_Dang,6,14203,4122
+GJ_Dang,7,14357,4224
+GJ_Devbhumi Dwarka,1,11550,155
+GJ_Devbhumi Dwarka,2,17258,6989
+GJ_Devbhumi Dwarka,3,66594,8452
+GJ_Devbhumi Dwarka,4,24556,34499
+GJ_Devbhumi Dwarka,5,52699,17536
+GJ_Devbhumi Dwarka,6,100114,25264
+GJ_Devbhumi Dwarka,7,138961,44897
+GJ_Gandhinagar,1,18922,337
+GJ_Gandhinagar,2,23725,13253
+GJ_Gandhinagar,3,119220,14193
+GJ_Gandhinagar,4,32150,54572
+GJ_Gandhinagar,5,79955,8120
+GJ_Gandhinagar,6,151754,26794
+GJ_Gandhinagar,7,185363,42638
+GJ_Gir Somnath,1,12145,75
+GJ_Gir Somnath,2,20645,8660
+GJ_Gir Somnath,3,98536,11724
+GJ_Gir Somnath,4,50681,31585
+GJ_Gir Somnath,5,65874,18298
+GJ_Gir Somnath,6,114436,19958
+GJ_Gir Somnath,7,197418,58161
+GJ_Jamnagar,1,13577,119
+GJ_Jamnagar,2,21630,7314
+GJ_Jamnagar,3,111594,15951
+GJ_Jamnagar,4,45267,44103
+GJ_Jamnagar,5,66988,3086
+GJ_Jamnagar,6,78086,25052
+GJ_Jamnagar,7,130683,51472
+GJ_Junagadh,1,14341,314
+GJ_Junagadh,2,19644,9130
+GJ_Junagadh,3,134950,9709
+GJ_Junagadh,4,21873,35224
+GJ_Junagadh,5,67779,10113
+GJ_Junagadh,6,105806,78749
+GJ_Junagadh,7,236476,54565
+GJ_Kheda,1,25883,533
+GJ_Kheda,2,36071,18431
+GJ_Kheda,3,221985,20759
+GJ_Kheda,4,57558,74302
+GJ_Kheda,5,129202,42326
+GJ_Kheda,6,182619,41044
+GJ_Kheda,7,262867,87130
+GJ_Kutch,1,29011,262
+GJ_Kutch,2,59077,21780
+GJ_Kutch,3,157065,35268
+GJ_Kutch,4,63652,59459
+GJ_Kutch,5,144924,15608
+GJ_Kutch,6,208411,52936
+GJ_Kutch,7,302972,84986
+GJ_Mahisagar,1,15355,355
+GJ_Mahisagar,2,24601,8770
+GJ_Mahisagar,3,172181,22596
+GJ_Mahisagar,4,43541,44240
+GJ_Mahisagar,5,41824,36421
+GJ_Mahisagar,6,83815,17267
+GJ_Mahisagar,7,65976,101407
+GJ_Mehsana,1,24010,502
+GJ_Mehsana,2,48264,16502
+GJ_Mehsana,3,241244,34090
+GJ_Mehsana,4,89484,97570
+GJ_Mehsana,5,193739,17134
+GJ_Mehsana,6,203271,89730
+GJ_Mehsana,7,179310,109038
+GJ_Morbi,1,8403,232
+GJ_Morbi,2,13130,4679
+GJ_Morbi,3,75345,7224
+GJ_Morbi,4,23069,36276
+GJ_Morbi,5,55068,10830
+GJ_Morbi,6,103975,18113
+GJ_Morbi,7,164420,27393
+GJ_Narmada,1,9192,100
+GJ_Narmada,2,6358,6956
+GJ_Narmada,3,92174,4697
+GJ_Narmada,4,27382,25449
+GJ_Narmada,5,22174,20494
+GJ_Narmada,6,63759,9932
+GJ_Narmada,7,76896,58079
+GJ_Navsari,1,16693,500
+GJ_Navsari,2,27693,15244
+GJ_Navsari,3,183004,19334
+GJ_Navsari,4,48386,77080
+GJ_Navsari,5,75255,21059
+GJ_Navsari,6,140161,38974
+GJ_Navsari,7,167577,60242
+GJ_Panchmahal,1,21859,445
+GJ_Panchmahal,2,35168,14792
+GJ_Panchmahal,3,179568,19480
+GJ_Panchmahal,4,59894,81276
+GJ_Panchmahal,5,72166,27209
+GJ_Panchmahal,6,121683,20933
+GJ_Panchmahal,7,205669,70877
+GJ_Patan,1,16807,218
+GJ_Patan,2,23851,12787
+GJ_Patan,3,109450,11184
+GJ_Patan,4,43002,44695
+GJ_Patan,5,91739,16014
+GJ_Patan,6,132155,39467
+GJ_Patan,7,166220,63587
+GJ_Porbandar,1,7989,296
+GJ_Porbandar,2,27902,6927
+GJ_Porbandar,3,98533,19964
+GJ_Porbandar,4,14911,47933
+GJ_Porbandar,5,29326,4886
+GJ_Porbandar,6,61672,15044
+GJ_Porbandar,7,89669,35071
+GJ_Rajkot,1,16868,266
+GJ_Rajkot,2,30899,12205
+GJ_Rajkot,3,170530,14966
+GJ_Rajkot,4,34436,67262
+GJ_Rajkot,5,107629,11241
+GJ_Rajkot,6,202470,62256
+GJ_Rajkot,7,261777,48487
+GJ_Sabarkantha,1,22696,602
+GJ_Sabarkantha,2,48667,16225
+GJ_Sabarkantha,3,145315,34524
+GJ_Sabarkantha,4,61294,55845
+GJ_Sabarkantha,5,93654,16019
+GJ_Sabarkantha,6,132685,29666
+GJ_Sabarkantha,7,210254,71646
+GJ_Surat,1,18154,345
+GJ_Surat,2,23994,11983
+GJ_Surat,3,140176,17859
+GJ_Surat,4,33535,63518
+GJ_Surat,5,103590,8662
+GJ_Surat,6,214064,38013
+GJ_Surat,7,240519,51544
+GJ_Surendranagar,1,15096,114
+GJ_Surendranagar,2,33292,10646
+GJ_Surendranagar,3,86182,8408
+GJ_Surendranagar,4,24283,36360
+GJ_Surendranagar,5,125303,19775
+GJ_Surendranagar,6,205774,33137
+GJ_Surendranagar,7,280223,39394
+GJ_Tapi,1,10968,180
+GJ_Tapi,2,13952,7687
+GJ_Tapi,3,81982,3336
+GJ_Tapi,4,25792,22288
+GJ_Tapi,5,68441,7685
+GJ_Tapi,6,85011,32211
+GJ_Tapi,7,77338,37813
+GJ_Vadodara,1,22156,234
+GJ_Vadodara,2,46868,15927
+GJ_Vadodara,3,187407,25080
+GJ_Vadodara,4,46125,50187
+GJ_Vadodara,5,125271,17180
+GJ_Vadodara,6,185613,40287
+GJ_Vadodara,7,252988,87703
+GJ_Valsad,1,21430,455
+GJ_Valsad,2,30255,16839
+GJ_Valsad,3,179038,21501
+GJ_Valsad,4,37350,75352
+GJ_Valsad,5,106628,21942
+GJ_Valsad,6,164853,54480
+GJ_Valsad,7,256254,82916
+HR_Ambala,1,9418,185
+HR_Ambala,2,30151,6390
+HR_Ambala,3,152940,19076
+HR_Ambala,4,77829,56776
+HR_Ambala,5,117387,21628
+HR_Ambala,6,149655,82577
+HR_Ambala,7,118637,73922
+HR_Bhiwani,1,6528,0
+HR_Bhiwani,2,11677,4569
+HR_Bhiwani,3,88617,5056
+HR_Bhiwani,4,50087,19579
+HR_Bhiwani,5,62715,2456
+HR_Bhiwani,6,97818,28750
+HR_Bhiwani,7,110723,45840
+HR_Charkhi Dadri,1,2555,0
+HR_Charkhi Dadri,2,4571,1973
+HR_Charkhi Dadri,3,52893,2717
+HR_Charkhi Dadri,4,36823,17335
+HR_Charkhi Dadri,5,50578,1821
+HR_Charkhi Dadri,6,99676,26430
+HR_Charkhi Dadri,7,62778,39942
+HR_Faridabad,1,20582,541
+HR_Faridabad,2,29815,9238
+HR_Faridabad,3,199126,18680
+HR_Faridabad,4,121888,56281
+HR_Faridabad,5,204756,21030
+HR_Faridabad,6,260106,89017
+HR_Faridabad,7,216200,121800
+HR_Fatehabad,1,4596,42
+HR_Fatehabad,2,9941,2812
+HR_Fatehabad,3,55869,4559
+HR_Fatehabad,4,39548,14602
+HR_Fatehabad,5,52755,1489
+HR_Fatehabad,6,86459,21511
+HR_Fatehabad,7,83896,39426
+HR_Gurugram,1,34820,138
+HR_Gurugram,2,37457,21103
+HR_Gurugram,3,285330,28357
+HR_Gurugram,4,140115,97689
+HR_Gurugram,5,405295,33307
+HR_Gurugram,6,402628,145333
+HR_Gurugram,7,257647,203618
+HR_Hisar,1,10172,731
+HR_Hisar,2,11446,7171
+HR_Hisar,3,98671,5112
+HR_Hisar,4,62826,15803
+HR_Hisar,5,69922,6329
+HR_Hisar,6,133661,31690
+HR_Hisar,7,123200,57435
+HR_Jhajjar,1,5741,57
+HR_Jhajjar,2,10346,2749
+HR_Jhajjar,3,83647,8700
+HR_Jhajjar,4,47785,23123
+HR_Jhajjar,5,56398,6237
+HR_Jhajjar,6,97203,24575
+HR_Jhajjar,7,96208,44880
+HR_Jind,1,4832,62
+HR_Jind,2,4265,2859
+HR_Jind,3,76466,2058
+HR_Jind,4,49578,13631
+HR_Jind,5,49054,2729
+HR_Jind,6,78905,22187
+HR_Jind,7,79482,40098
+HR_Kaithal,1,5467,106
+HR_Kaithal,2,5762,3027
+HR_Kaithal,3,62224,4294
+HR_Kaithal,4,48198,16497
+HR_Kaithal,5,52831,4583
+HR_Kaithal,6,84964,18790
+HR_Kaithal,7,81298,37870
+HR_Karnal,1,10434,305
+HR_Karnal,2,21016,6473
+HR_Karnal,3,115630,12130
+HR_Karnal,4,98282,35155
+HR_Karnal,5,72067,13432
+HR_Karnal,6,131079,50702
+HR_Karnal,7,110102,79243
+HR_Kurukshetra,1,5062,28
+HR_Kurukshetra,2,8662,2904
+HR_Kurukshetra,3,84331,4702
+HR_Kurukshetra,4,43899,19228
+HR_Kurukshetra,5,60216,4196
+HR_Kurukshetra,6,73088,29469
+HR_Kurukshetra,7,78141,49681
+HR_Mahendragarh,1,3860,0
+HR_Mahendragarh,2,9054,2928
+HR_Mahendragarh,3,85338,4591
+HR_Mahendragarh,4,50388,20649
+HR_Mahendragarh,5,65048,4266
+HR_Mahendragarh,6,81558,27131
+HR_Mahendragarh,7,68851,48970
+HR_Nuh,1,4056,187
+HR_Nuh,2,2094,1721
+HR_Nuh,3,20452,1211
+HR_Nuh,4,21283,3678
+HR_Nuh,5,31722,783
+HR_Nuh,6,37641,6322
+HR_Nuh,7,40058,11368
+HR_Palwal,1,4739,0
+HR_Palwal,2,6305,2241
+HR_Palwal,3,61350,2430
+HR_Palwal,4,59295,14232
+HR_Palwal,5,89810,6316
+HR_Palwal,6,66813,24314
+HR_Palwal,7,67068,26459
+HR_Panchkula,1,7835,194
+HR_Panchkula,2,18504,4809
+HR_Panchkula,3,71290,11294
+HR_Panchkula,4,38778,30667
+HR_Panchkula,5,62980,4839
+HR_Panchkula,6,68862,31785
+HR_Panchkula,7,73278,46369
+HR_Panipat,1,5798,13
+HR_Panipat,2,8353,3149
+HR_Panipat,3,75014,5332
+HR_Panipat,4,63017,20576
+HR_Panipat,5,56731,6415
+HR_Panipat,6,81838,26411
+HR_Panipat,7,78497,52707
+HR_Rewari,1,5562,117
+HR_Rewari,2,10234,3934
+HR_Rewari,3,93039,7244
+HR_Rewari,4,46007,25845
+HR_Rewari,5,66993,2628
+HR_Rewari,6,81204,34413
+HR_Rewari,7,55971,55087
+HR_Rohtak,1,8798,63
+HR_Rohtak,2,10085,4426
+HR_Rohtak,3,74374,7935
+HR_Rohtak,4,56491,20081
+HR_Rohtak,5,61199,9353
+HR_Rohtak,6,95181,29438
+HR_Rohtak,7,87486,50345
+HR_Sirsa,1,5818,113
+HR_Sirsa,2,23392,3718
+HR_Sirsa,3,104983,16082
+HR_Sirsa,4,55229,31700
+HR_Sirsa,5,56669,3744
+HR_Sirsa,6,96567,22457
+HR_Sirsa,7,100345,47452
+HR_Sonipat,1,10002,564
+HR_Sonipat,2,15041,5238
+HR_Sonipat,3,126071,7253
+HR_Sonipat,4,87925,38715
+HR_Sonipat,5,97776,18229
+HR_Sonipat,6,127115,51129
+HR_Sonipat,7,124130,75402
+HR_Yamunanagar,1,7534,212
+HR_Yamunanagar,2,13980,4974
+HR_Yamunanagar,3,101776,8579
+HR_Yamunanagar,4,66231,26892
+HR_Yamunanagar,5,57155,6942
+HR_Yamunanagar,6,105549,30335
+HR_Yamunanagar,7,78287,66317
+HP_Bilaspur,1,4140,144
+HP_Bilaspur,2,7035,3216
+HP_Bilaspur,3,66604,3230
+HP_Bilaspur,4,46657,28551
+HP_Bilaspur,5,23712,279
+HP_Bilaspur,6,79139,35776
+HP_Bilaspur,7,64961,29773
+HP_Chamba,1,6058,108
+HP_Chamba,2,4705,4231
+HP_Chamba,3,60470,3749
+HP_Chamba,4,39873,15842
+HP_Chamba,5,37785,399
+HP_Chamba,6,67663,27482
+HP_Chamba,7,91016,31694
+HP_Hamirpur,1,4927,89
+HP_Hamirpur,2,6883,4184
+HP_Hamirpur,3,95089,6072
+HP_Hamirpur,4,55068,24119
+HP_Hamirpur,5,22656,174
+HP_Hamirpur,6,80972,67534
+HP_Hamirpur,7,94600,34627
+HP_Kangra,1,14507,818
+HP_Kangra,2,16620,11337
+HP_Kangra,3,182848,12264
+HP_Kangra,4,164071,62039
+HP_Kangra,5,108752,733
+HP_Kangra,6,271159,106775
+HP_Kangra,7,315401,142895
+HP_Kinnaur,1,1977,30
+HP_Kinnaur,2,2992,1522
+HP_Kinnaur,3,15210,1188
+HP_Kinnaur,4,5142,5947
+HP_Kinnaur,5,8205,76
+HP_Kinnaur,6,36765,10635
+HP_Kinnaur,7,3904,3672
+HP_Kullu,1,5227,238
+HP_Kullu,2,4728,4001
+HP_Kullu,3,58992,3896
+HP_Kullu,4,37984,20098
+HP_Kullu,5,24496,190
+HP_Kullu,6,75563,31286
+HP_Kullu,7,94215,28337
+HP_Lahaul and Spiti,1,481,101
+HP_Lahaul and Spiti,2,1550,427
+HP_Lahaul and Spiti,3,5147,222
+HP_Lahaul and Spiti,4,1449,2599
+HP_Lahaul and Spiti,5,2572,23
+HP_Lahaul and Spiti,6,8607,4266
+HP_Lahaul and Spiti,7,7205,1023
+HP_Mandi,1,13897,268
+HP_Mandi,2,16119,11398
+HP_Mandi,3,148474,9655
+HP_Mandi,4,100540,52140
+HP_Mandi,5,54153,438
+HP_Mandi,6,171743,85517
+HP_Mandi,7,189864,76398
+HP_Shimla,1,13384,489
+HP_Shimla,2,15089,9671
+HP_Shimla,3,107360,9006
+HP_Shimla,4,89205,34346
+HP_Shimla,5,58213,411
+HP_Shimla,6,139418,73179
+HP_Shimla,7,149204,63936
+HP_Sirmaur,1,6104,106
+HP_Sirmaur,2,7248,4866
+HP_Sirmaur,3,46335,5283
+HP_Sirmaur,4,30117,13589
+HP_Sirmaur,5,33792,288
+HP_Sirmaur,6,74230,24803
+HP_Sirmaur,7,133404,26001
+HP_Solan,1,5588,58
+HP_Solan,2,6216,4773
+HP_Solan,3,62285,3639
+HP_Solan,4,58948,14912
+HP_Solan,5,66794,286
+HP_Solan,6,126144,45593
+HP_Solan,7,260379,53955
+HP_Una,1,5419,358
+HP_Una,2,5523,3997
+HP_Una,3,87303,4221
+HP_Una,4,46152,29790
+HP_Una,5,33823,504
+HP_Una,6,104550,52456
+HP_Una,7,118593,36929
+JK_Anantnag,1,8168,65
+JK_Anantnag,2,13676,4753
+JK_Anantnag,3,59197,5579
+JK_Anantnag,4,64059,12416
+JK_Anantnag,5,82642,1106
+JK_Anantnag,6,85327,29686
+JK_Anantnag,7,63512,44123
+JK_Bandipora,1,3607,37
+JK_Bandipora,2,2695,1372
+JK_Bandipora,3,24397,3421
+JK_Bandipora,4,42663,5744
+JK_Bandipora,5,19823,1804
+JK_Bandipora,6,35124,11449
+JK_Bandipora,7,21928,16548
+JK_Baramulla,1,11648,47
+JK_Baramulla,2,19023,4099
+JK_Baramulla,3,110860,13244
+JK_Baramulla,4,57452,28191
+JK_Baramulla,5,89823,3233
+JK_Baramulla,6,73069,23849
+JK_Baramulla,7,59623,47360
+JK_Budgam,1,11498,68
+JK_Budgam,2,10656,4783
+JK_Budgam,3,68968,8991
+JK_Budgam,4,61769,15079
+JK_Budgam,5,59162,2190
+JK_Budgam,6,49497,22083
+JK_Budgam,7,48233,46304
+JK_Doda,1,5362,86
+JK_Doda,2,11765,2721
+JK_Doda,3,23264,7497
+JK_Doda,4,27517,12671
+JK_Doda,5,28863,923
+JK_Doda,6,42683,6158
+JK_Doda,7,65661,13503
+JK_Ganderbal,1,4254,66
+JK_Ganderbal,2,4058,1057
+JK_Ganderbal,3,35223,2979
+JK_Ganderbal,4,32205,9651
+JK_Ganderbal,5,11826,414
+JK_Ganderbal,6,24958,11665
+JK_Ganderbal,7,27016,17211
+JK_Jammu,1,25216,247
+JK_Jammu,2,52084,13039
+JK_Jammu,3,197462,32064
+JK_Jammu,4,163629,84244
+JK_Jammu,5,91036,20049
+JK_Jammu,6,77322,64428
+JK_Jammu,7,111866,116657
+JK_Kathua,1,6311,36
+JK_Kathua,2,13606,3719
+JK_Kathua,3,55660,5246
+JK_Kathua,4,56555,21275
+JK_Kathua,5,54748,901
+JK_Kathua,6,51186,17230
+JK_Kathua,7,74334,35879
+JK_Kishtwar,1,2728,91
+JK_Kishtwar,2,5544,1191
+JK_Kishtwar,3,14232,4500
+JK_Kishtwar,4,22134,5658
+JK_Kishtwar,5,11685,635
+JK_Kishtwar,6,36060,5913
+JK_Kishtwar,7,12024,12577
+JK_Kulgam,1,4328,106
+JK_Kulgam,2,7611,1775
+JK_Kulgam,3,26991,5001
+JK_Kulgam,4,46100,4920
+JK_Kulgam,5,27389,1056
+JK_Kulgam,6,60718,15992
+JK_Kulgam,7,41560,32758
+JK_Kupwara,1,7259,27
+JK_Kupwara,2,10635,2591
+JK_Kupwara,3,23619,7049
+JK_Kupwara,4,33641,7325
+JK_Kupwara,5,59099,2173
+JK_Kupwara,6,111766,13366
+JK_Kupwara,7,115663,29834
+JK_Punch,1,4657,155
+JK_Punch,2,6586,2709
+JK_Punch,3,32087,3915
+JK_Punch,4,37447,9998
+JK_Punch,5,34366,728
+JK_Punch,6,72456,7942
+JK_Punch,7,67497,20163
+JK_Pulwama,1,7906,33
+JK_Pulwama,2,14467,2775
+JK_Pulwama,3,30407,7372
+JK_Pulwama,4,43959,11333
+JK_Pulwama,5,41823,2335
+JK_Pulwama,6,66466,17086
+JK_Pulwama,7,46705,30504
+JK_Rajouri,1,7031,206
+JK_Rajouri,2,11442,2856
+JK_Rajouri,3,37013,6458
+JK_Rajouri,4,40623,12757
+JK_Rajouri,5,78621,1024
+JK_Rajouri,6,90650,14859
+JK_Rajouri,7,46061,20619
+JK_Ramban,1,3150,139
+JK_Ramban,2,2946,1195
+JK_Ramban,3,27938,3435
+JK_Ramban,4,24989,13494
+JK_Ramban,5,14141,970
+JK_Ramban,6,60592,11163
+JK_Ramban,7,31359,18818
+JK_Reasi,1,4224,161
+JK_Reasi,2,5975,2108
+JK_Reasi,3,23424,4245
+JK_Reasi,4,27994,7451
+JK_Reasi,5,26052,164
+JK_Reasi,6,54161,8138
+JK_Reasi,7,41904,15504
+JK_Samba,1,5035,242
+JK_Samba,2,10906,2871
+JK_Samba,3,35252,4438
+JK_Samba,4,40027,13697
+JK_Samba,5,7076,355
+JK_Samba,6,39252,16348
+JK_Samba,7,58233,27126
+JK_Shopiyan,1,2860,106
+JK_Shopiyan,2,4266,1240
+JK_Shopiyan,3,28039,3040
+JK_Shopiyan,4,32543,5882
+JK_Shopiyan,5,3123,475
+JK_Shopiyan,6,24590,11966
+JK_Shopiyan,7,25722,20051
+JK_Srinagar,1,15996,25
+JK_Srinagar,2,22888,7781
+JK_Srinagar,3,30613,15699
+JK_Srinagar,4,93167,12614
+JK_Srinagar,5,106880,15155
+JK_Srinagar,6,138865,30443
+JK_Srinagar,7,84933,48281
+JK_Udhampur,1,6319,324
+JK_Udhampur,2,12720,4213
+JK_Udhampur,3,45828,7101
+JK_Udhampur,4,51190,16375
+JK_Udhampur,5,59747,475
+JK_Udhampur,6,64980,18883
+JK_Udhampur,7,67815,32699
+JH_Bokaro,1,15117,209
+JH_Bokaro,2,18665,10659
+JH_Bokaro,3,96829,11674
+JH_Bokaro,4,46980,22107
+JH_Bokaro,5,67419,14717
+JH_Bokaro,6,114858,47446
+JH_Bokaro,7,114200,40140
+JH_Chatra,1,6526,293
+JH_Chatra,2,5441,4234
+JH_Chatra,3,61304,3212
+JH_Chatra,4,13211,6086
+JH_Chatra,5,30601,1754
+JH_Chatra,6,50125,13276
+JH_Chatra,7,105872,17433
+JH_Deoghar,1,8375,225
+JH_Deoghar,2,7416,4976
+JH_Deoghar,3,55965,7773
+JH_Deoghar,4,21872,12532
+JH_Deoghar,5,100993,12719
+JH_Deoghar,6,99740,17568
+JH_Deoghar,7,93297,24942
+JH_Dhanbad,1,21460,256
+JH_Dhanbad,2,12878,15088
+JH_Dhanbad,3,165659,9556
+JH_Dhanbad,4,57594,34693
+JH_Dhanbad,5,82286,11091
+JH_Dhanbad,6,130592,67354
+JH_Dhanbad,7,146162,68090
+JH_Dumka,1,8298,220
+JH_Dumka,2,15925,4628
+JH_Dumka,3,82229,8188
+JH_Dumka,4,14452,12835
+JH_Dumka,5,60486,4839
+JH_Dumka,6,74173,14709
+JH_Dumka,7,111284,28578
+JH_East Singhbhum,1,12833,367
+JH_East Singhbhum,2,23395,9674
+JH_East Singhbhum,3,165742,19050
+JH_East Singhbhum,4,75814,39110
+JH_East Singhbhum,5,151826,24770
+JH_East Singhbhum,6,196024,92355
+JH_East Singhbhum,7,151519,90437
+JH_Garhwa,1,10636,204
+JH_Garhwa,2,9909,6225
+JH_Garhwa,3,58198,6536
+JH_Garhwa,4,17884,9599
+JH_Garhwa,5,60469,5497
+JH_Garhwa,6,72006,18022
+JH_Garhwa,7,68377,14235
+JH_Giridih,1,12805,310
+JH_Giridih,2,19663,9140
+JH_Giridih,3,117818,8546
+JH_Giridih,4,24632,17768
+JH_Giridih,5,76715,3485
+JH_Giridih,6,164661,26771
+JH_Giridih,7,171912,34407
+JH_Godda,1,7416,254
+JH_Godda,2,8500,4253
+JH_Godda,3,58359,6159
+JH_Godda,4,11218,8818
+JH_Godda,5,79563,4510
+JH_Godda,6,119567,19581
+JH_Godda,7,101201,22675
+JH_Gumla,1,7524,240
+JH_Gumla,2,5890,4784
+JH_Gumla,3,71555,3441
+JH_Gumla,4,11963,5786
+JH_Gumla,5,56979,7231
+JH_Gumla,6,64826,14910
+JH_Gumla,7,62653,27100
+JH_Hazaribagh,1,11184,349
+JH_Hazaribagh,2,15277,7223
+JH_Hazaribagh,3,105679,9666
+JH_Hazaribagh,4,27770,16191
+JH_Hazaribagh,5,93057,11342
+JH_Hazaribagh,6,127713,33922
+JH_Hazaribagh,7,125487,36064
+JH_Jamtara,1,3818,165
+JH_Jamtara,2,5187,3336
+JH_Jamtara,3,50250,3905
+JH_Jamtara,4,13188,9296
+JH_Jamtara,5,39440,2644
+JH_Jamtara,6,55095,11450
+JH_Jamtara,7,75870,22272
+JH_Khunti,1,6273,98
+JH_Khunti,2,7589,3358
+JH_Khunti,3,42605,5557
+JH_Khunti,4,7023,3841
+JH_Khunti,5,28590,4069
+JH_Khunti,6,40513,9978
+JH_Khunti,7,21199,18650
+JH_Koderma,1,4162,291
+JH_Koderma,2,2783,3121
+JH_Koderma,3,52006,1892
+JH_Koderma,4,7956,6639
+JH_Koderma,5,55145,1978
+JH_Koderma,6,82226,12969
+JH_Koderma,7,63255,23749
+JH_Latehar,1,6403,274
+JH_Latehar,2,5644,4765
+JH_Latehar,3,38966,3797
+JH_Latehar,4,10833,4880
+JH_Latehar,5,30159,1349
+JH_Latehar,6,48864,8792
+JH_Latehar,7,31177,10979
+JH_Lohardaga,1,3319,207
+JH_Lohardaga,2,4675,2166
+JH_Lohardaga,3,37101,2673
+JH_Lohardaga,4,5706,4551
+JH_Lohardaga,5,29697,1533
+JH_Lohardaga,6,37942,8611
+JH_Lohardaga,7,18824,8564
+JH_Pakur,1,4590,134
+JH_Pakur,2,15030,3410
+JH_Pakur,3,33872,3243
+JH_Pakur,4,13851,8734
+JH_Pakur,5,46331,6123
+JH_Pakur,6,67814,7776
+JH_Pakur,7,55677,11018
+JH_Palamu,1,11141,365
+JH_Palamu,2,12504,8761
+JH_Palamu,3,132687,8671
+JH_Palamu,4,28669,17109
+JH_Palamu,5,80571,10946
+JH_Palamu,6,127315,33536
+JH_Palamu,7,120511,32887
+JH_Ramgarh,1,6832,266
+JH_Ramgarh,2,5327,4522
+JH_Ramgarh,3,53067,4041
+JH_Ramgarh,4,26323,11684
+JH_Ramgarh,5,49174,6488
+JH_Ramgarh,6,61487,20633
+JH_Ramgarh,7,79090,26041
+JH_Ranchi,1,25133,121
+JH_Ranchi,2,38815,16165
+JH_Ranchi,3,164159,25264
+JH_Ranchi,4,61505,46420
+JH_Ranchi,5,165226,24304
+JH_Ranchi,6,177542,75788
+JH_Ranchi,7,206752,79330
+JH_Sahibganj,1,6816,166
+JH_Sahibganj,2,7390,3602
+JH_Sahibganj,3,31343,2943
+JH_Sahibganj,4,12388,7133
+JH_Sahibganj,5,57298,2886
+JH_Sahibganj,6,73812,12040
+JH_Sahibganj,7,77303,15416
+JH_Saraikela-Kharsawan,1,6824,231
+JH_Saraikela-Kharsawan,2,5644,5002
+JH_Saraikela-Kharsawan,3,61940,4898
+JH_Saraikela-Kharsawan,4,23924,11598
+JH_Saraikela-Kharsawan,5,48370,5601
+JH_Saraikela-Kharsawan,6,61561,16397
+JH_Saraikela-Kharsawan,7,72325,25486
+JH_Simdega,1,4777,200
+JH_Simdega,2,5917,3244
+JH_Simdega,3,37495,3389
+JH_Simdega,4,7160,2865
+JH_Simdega,5,41732,2514
+JH_Simdega,6,62989,9950
+JH_Simdega,7,39613,12564
+JH_West Singhbhum,1,10377,130
+JH_West Singhbhum,2,12347,12614
+JH_West Singhbhum,3,81895,5633
+JH_West Singhbhum,4,25657,15577
+JH_West Singhbhum,5,55245,6763
+JH_West Singhbhum,6,108551,20818
+JH_West Singhbhum,7,83154,23318
+KA_Bagalkote,1,7915,530
+KA_Bagalkote,2,16954,5105
+KA_Bagalkote,3,167063,6019
+KA_Bagalkote,4,56705,47136
+KA_Bagalkote,5,108218,37105
+KA_Bagalkote,6,177358,49346
+KA_Bagalkote,7,140413,42512
+KA_Bengaluru Rural,1,7496,311
+KA_Bengaluru Rural,2,13585,4622
+KA_Bengaluru Rural,3,69415,7011
+KA_Bengaluru Rural,4,58762,31345
+KA_Bengaluru Rural,5,94438,9056
+KA_Bengaluru Rural,6,126131,23851
+KA_Bengaluru Rural,7,79289,44493
+KA_Bengaluru Urban,1,21524,183
+KA_Bengaluru Urban,2,31767,13391
+KA_Bengaluru Urban,3,92601,11222
+KA_Bengaluru Urban,4,89521,59248
+KA_Bengaluru Urban,5,245298,9691
+KA_Bengaluru Urban,6,346909,58829
+KA_Bengaluru Urban,7,177141,76805
+KA_Belagavi,1,29454,412
+KA_Belagavi,2,35106,24806
+KA_Belagavi,3,308403,14288
+KA_Belagavi,4,186773,94350
+KA_Belagavi,5,178697,14035
+KA_Belagavi,6,466432,109420
+KA_Belagavi,7,449035,194136
+KA_Ballari,1,14869,1097
+KA_Ballari,2,31675,9698
+KA_Ballari,3,230535,11838
+KA_Ballari,4,106801,77316
+KA_Ballari,5,147063,29884
+KA_Ballari,6,245201,57788
+KA_Ballari,7,215562,102797
+KA_Bidar,1,7444,166
+KA_Bidar,2,15841,5308
+KA_Bidar,3,109826,5071
+KA_Bidar,4,72818,56611
+KA_Bidar,5,120517,11592
+KA_Bidar,6,156765,25052
+KA_Bidar,7,130524,50206
+KA_Chamarajanagara,1,4796,349
+KA_Chamarajanagara,2,5785,3135
+KA_Chamarajanagara,3,98186,3629
+KA_Chamarajanagara,4,41286,21654
+KA_Chamarajanagara,5,61946,11826
+KA_Chamarajanagara,6,87733,22938
+KA_Chamarajanagara,7,111362,48205
+KA_Chikkamagaluru,1,8551,490
+KA_Chikkamagaluru,2,16581,5779
+KA_Chikkamagaluru,3,115620,5363
+KA_Chikkamagaluru,4,48667,39116
+KA_Chikkamagaluru,5,80161,7150
+KA_Chikkamagaluru,6,71565,35612
+KA_Chikkamagaluru,7,52771,73625
+KA_Chikkaballapura,1,9160,228
+KA_Chikkaballapura,2,9433,5775
+KA_Chikkaballapura,3,123011,4781
+KA_Chikkaballapura,4,84731,37157
+KA_Chikkaballapura,5,60999,11952
+KA_Chikkaballapura,6,140248,32346
+KA_Chikkaballapura,7,92144,69037
+KA_Chitradurga,1,12228,3106
+KA_Chitradurga,2,16652,5286
+KA_Chitradurga,3,131745,8649
+KA_Chitradurga,4,82636,55871
+KA_Chitradurga,5,115659,16983
+KA_Chitradurga,6,150134,37648
+KA_Chitradurga,7,126218,91912
+KA_Dakshina Kannada,1,30015,930
+KA_Dakshina Kannada,2,21219,23108
+KA_Dakshina Kannada,3,158457,16125
+KA_Dakshina Kannada,4,81572,56315
+KA_Dakshina Kannada,5,190940,31800
+KA_Dakshina Kannada,6,314169,93423
+KA_Dakshina Kannada,7,205802,94596
+KA_Davanagere,1,10017,495
+KA_Davanagere,2,19526,6958
+KA_Davanagere,3,104748,8359
+KA_Davanagere,4,55576,38323
+KA_Davanagere,5,142188,18418
+KA_Davanagere,6,180669,31069
+KA_Davanagere,7,114518,55082
+KA_Dharwad,1,15221,2565
+KA_Dharwad,2,20055,8369
+KA_Dharwad,3,143043,8563
+KA_Dharwad,4,60398,49848
+KA_Dharwad,5,97204,6865
+KA_Dharwad,6,245515,61181
+KA_Dharwad,7,162155,68487
+KA_Gadag,1,8456,1279
+KA_Gadag,2,12830,3219
+KA_Gadag,3,92469,6878
+KA_Gadag,4,41925,36361
+KA_Gadag,5,60186,14667
+KA_Gadag,6,86995,24441
+KA_Gadag,7,70288,38357
+KA_Kalaburagi,1,13170,828
+KA_Kalaburagi,2,14029,7532
+KA_Kalaburagi,3,127333,7733
+KA_Kalaburagi,4,66150,38633
+KA_Kalaburagi,5,108204,11705
+KA_Kalaburagi,6,249504,51334
+KA_Kalaburagi,7,186121,72367
+KA_Hassan,1,13473,553
+KA_Hassan,2,23345,8404
+KA_Hassan,3,148292,11426
+KA_Hassan,4,112402,51607
+KA_Hassan,5,105996,22280
+KA_Hassan,6,168114,35720
+KA_Hassan,7,134344,103553
+KA_Haveri,1,6306,880
+KA_Haveri,2,8538,3429
+KA_Haveri,3,91020,4108
+KA_Haveri,4,34719,20849
+KA_Haveri,5,50913,9055
+KA_Haveri,6,136303,31032
+KA_Haveri,7,149959,48515
+KA_Kodagu,1,4984,1192
+KA_Kodagu,2,7191,2985
+KA_Kodagu,3,50258,2696
+KA_Kodagu,4,31335,23630
+KA_Kodagu,5,55578,4643
+KA_Kodagu,6,50447,17375
+KA_Kodagu,7,45309,37872
+KA_Kolar,1,10863,232
+KA_Kolar,2,13001,7388
+KA_Kolar,3,115092,6897
+KA_Kolar,4,65119,44243
+KA_Kolar,5,247778,21082
+KA_Kolar,6,131473,29256
+KA_Kolar,7,107479,56186
+KA_Koppal,1,8335,748
+KA_Koppal,2,9296,3263
+KA_Koppal,3,132932,5667
+KA_Koppal,4,57181,42327
+KA_Koppal,5,87844,9339
+KA_Koppal,6,100423,30037
+KA_Koppal,7,93139,48307
+KA_Mandya,1,11027,1378
+KA_Mandya,2,20232,7334
+KA_Mandya,3,172076,8886
+KA_Mandya,4,74818,57654
+KA_Mandya,5,126001,17820
+KA_Mandya,6,192979,43465
+KA_Mandya,7,165751,79474
+KA_Mysuru,1,26263,583
+KA_Mysuru,2,35666,19858
+KA_Mysuru,3,371058,21806
+KA_Mysuru,4,236995,109843
+KA_Mysuru,5,183309,12802
+KA_Mysuru,6,338850,137054
+KA_Mysuru,7,261914,210482
+KA_Raichur,1,11107,1220
+KA_Raichur,2,14166,6989
+KA_Raichur,3,110969,5370
+KA_Raichur,4,41962,36060
+KA_Raichur,5,119976,22771
+KA_Raichur,6,155945,26898
+KA_Raichur,7,123520,45746
+KA_Ramanagara,1,6949,343
+KA_Ramanagara,2,11055,4651
+KA_Ramanagara,3,125956,5711
+KA_Ramanagara,4,57074,36045
+KA_Ramanagara,5,99929,19637
+KA_Ramanagara,6,115237,47655
+KA_Ramanagara,7,73664,73449
+KA_Shivamogga,1,13706,550
+KA_Shivamogga,2,14729,9441
+KA_Shivamogga,3,129167,7458
+KA_Shivamogga,4,89538,45138
+KA_Shivamogga,5,146579,13514
+KA_Shivamogga,6,164226,51408
+KA_Shivamogga,7,109826,89077
+KA_Tumakuru,1,16706,774
+KA_Tumakuru,2,53840,15818
+KA_Tumakuru,3,171735,19293
+KA_Tumakuru,4,110346,73712
+KA_Tumakuru,5,212690,13149
+KA_Tumakuru,6,276434,52060
+KA_Tumakuru,7,192076,108352
+KA_Udupi,1,17563,335
+KA_Udupi,2,19181,14409
+KA_Udupi,3,124797,10504
+KA_Udupi,4,45178,42442
+KA_Udupi,5,133542,26505
+KA_Udupi,6,148518,76784
+KA_Udupi,7,118072,55194
+KA_Uttara Kannada,1,14525,1747
+KA_Uttara Kannada,2,20616,9396
+KA_Uttara Kannada,3,136962,10204
+KA_Uttara Kannada,4,53292,39670
+KA_Uttara Kannada,5,125258,9513
+KA_Uttara Kannada,6,120066,47320
+KA_Uttara Kannada,7,117977,82906
+KA_Vijayapura,1,13745,2272
+KA_Vijayapura,2,12551,4559
+KA_Vijayapura,3,153451,5908
+KA_Vijayapura,4,68291,41740
+KA_Vijayapura,5,84725,22202
+KA_Vijayapura,6,223556,45274
+KA_Vijayapura,7,181879,61314
+KA_Yadgir,1,5101,341
+KA_Yadgir,2,11838,2960
+KA_Yadgir,3,76639,2988
+KA_Yadgir,4,35904,25832
+KA_Yadgir,5,72749,9327
+KA_Yadgir,6,87475,21373
+KA_Yadgir,7,83458,62175
+KL_Alappuzha,1,17925,597
+KL_Alappuzha,2,72092,15733
+KL_Alappuzha,3,275780,21723
+KL_Alappuzha,4,72217,102738
+KL_Alappuzha,5,148611,25362
+KL_Alappuzha,6,105678,171000
+KL_Alappuzha,7,382985,114488
+KL_Ernakulam,1,63235,0
+KL_Ernakulam,2,61054,43053
+KL_Ernakulam,3,475188,46024
+KL_Ernakulam,4,122522,125545
+KL_Ernakulam,5,381265,52894
+KL_Ernakulam,6,536734,216087
+KL_Ernakulam,7,632768,270235
+KL_Idukki,1,8857,1189
+KL_Idukki,2,21621,6145
+KL_Idukki,3,117362,12562
+KL_Idukki,4,80012,40247
+KL_Idukki,5,110349,12451
+KL_Idukki,6,82780,63750
+KL_Idukki,7,229075,83952
+KL_Kannur,1,31137,1301
+KL_Kannur,2,56472,22815
+KL_Kannur,3,280428,26138
+KL_Kannur,4,80742,94361
+KL_Kannur,5,247277,27427
+KL_Kannur,6,108607,194946
+KL_Kannur,7,491867,140977
+KL_Kasaragod,1,8861,711
+KL_Kasaragod,2,44092,5556
+KL_Kasaragod,3,121909,12943
+KL_Kasaragod,4,101585,63241
+KL_Kasaragod,5,128075,12131
+KL_Kasaragod,6,83278,80877
+KL_Kasaragod,7,175150,109902
+KL_Kollam,1,21205,875
+KL_Kollam,2,35752,17791
+KL_Kollam,3,311884,18893
+KL_Kollam,4,125531,127918
+KL_Kollam,5,225196,24044
+KL_Kollam,6,168683,185891
+KL_Kollam,7,485016,137663
+KL_Kottayam,1,27088,860
+KL_Kottayam,2,40508,20735
+KL_Kottayam,3,277883,27634
+KL_Kottayam,4,84620,69969
+KL_Kottayam,5,167324,33461
+KL_Kottayam,6,116160,129427
+KL_Kottayam,7,396184,142049
+KL_Kozhikode,1,31285,258
+KL_Kozhikode,2,66142,25502
+KL_Kozhikode,3,309018,33277
+KL_Kozhikode,4,153163,111060
+KL_Kozhikode,5,282035,22543
+KL_Kozhikode,6,223877,187333
+KL_Kozhikode,7,485772,214721
+KL_Malappuram,1,23318,621
+KL_Malappuram,2,55207,17830
+KL_Malappuram,3,300104,18190
+KL_Malappuram,4,127540,90523
+KL_Malappuram,5,271827,30152
+KL_Malappuram,6,233706,200384
+KL_Malappuram,7,424727,213987
+KL_Palakkad,1,24422,1081
+KL_Palakkad,2,53075,17797
+KL_Palakkad,3,262042,27509
+KL_Palakkad,4,66485,97589
+KL_Palakkad,5,173681,21803
+KL_Palakkad,6,185709,154984
+KL_Palakkad,7,494090,104241
+KL_Pathanamthitta,1,18162,1500
+KL_Pathanamthitta,2,66659,15310
+KL_Pathanamthitta,3,218707,21459
+KL_Pathanamthitta,4,71682,94920
+KL_Pathanamthitta,5,126965,16345
+KL_Pathanamthitta,6,117943,127898
+KL_Pathanamthitta,7,290220,107635
+KL_Thiruvananthapuram,1,45686,1236
+KL_Thiruvananthapuram,2,98277,37566
+KL_Thiruvananthapuram,3,467027,34172
+KL_Thiruvananthapuram,4,123573,185720
+KL_Thiruvananthapuram,5,350168,36262
+KL_Thiruvananthapuram,6,303658,259460
+KL_Thiruvananthapuram,7,623786,196682
+KL_Thrissur,1,36181,757
+KL_Thrissur,2,39081,29461
+KL_Thrissur,3,417403,27093
+KL_Thrissur,4,127573,103171
+KL_Thrissur,5,215947,35167
+KL_Thrissur,6,190247,179258
+KL_Thrissur,7,628042,262773
+KL_Wayanad,1,11438,1162
+KL_Wayanad,2,35777,9450
+KL_Wayanad,3,89782,14798
+KL_Wayanad,4,76085,51034
+KL_Wayanad,5,103209,13485
+KL_Wayanad,6,75478,55221
+KL_Wayanad,7,226628,69067
+LA_Kargil,1,1337,42
+LA_Kargil,2,9839,1159
+LA_Kargil,3,15778,1718
+LA_Kargil,4,8563,11654
+LA_Kargil,5,32442,43
+LA_Kargil,6,13031,10932
+LA_Kargil,7,1914,4770
+LA_Leh,1,2087,127
+LA_Leh,2,20414,1604
+LA_Leh,3,17541,5313
+LA_Leh,4,11077,15635
+LA_Leh,5,37994,125
+LA_Leh,6,14645,13667
+LA_Leh,7,3096,6717
+LD_Lakshadweep,1,1578,19
+LD_Lakshadweep,2,1576,985
+LD_Lakshadweep,3,10359,1913
+LD_Lakshadweep,4,7943,3893
+LD_Lakshadweep,5,21311,311
+LD_Lakshadweep,6,6110,5623
+LD_Lakshadweep,7,2864,5410
+MP_Agar Malwa,1,3258,1
+MP_Agar Malwa,2,3426,2276
+MP_Agar Malwa,3,29052,1487
+MP_Agar Malwa,4,7196,5552
+MP_Agar Malwa,5,30943,1056
+MP_Agar Malwa,6,67520,12718
+MP_Agar Malwa,7,132025,13529
+MP_Alirajpur,1,6939,0
+MP_Alirajpur,2,2179,4696
+MP_Alirajpur,3,36308,2250
+MP_Alirajpur,4,5503,3551
+MP_Alirajpur,5,21673,1222
+MP_Alirajpur,6,87628,8612
+MP_Alirajpur,7,86523,12056
+MP_Anuppur,1,3859,0
+MP_Anuppur,2,3733,2760
+MP_Anuppur,3,43939,1753
+MP_Anuppur,4,11281,4716
+MP_Anuppur,5,33053,1784
+MP_Anuppur,6,82756,15439
+MP_Anuppur,7,129477,18029
+MP_Ashoknagar,1,5099,0
+MP_Ashoknagar,2,5099,3835
+MP_Ashoknagar,3,52674,2878
+MP_Ashoknagar,4,17081,8590
+MP_Ashoknagar,5,39044,2039
+MP_Ashoknagar,6,71703,16330
+MP_Ashoknagar,7,154782,22380
+MP_Balaghat,1,13391,0
+MP_Balaghat,2,12489,9783
+MP_Balaghat,3,132898,8752
+MP_Balaghat,4,13659,19945
+MP_Balaghat,5,108241,4364
+MP_Balaghat,6,162983,41133
+MP_Balaghat,7,250027,35419
+MP_Barwani,1,8813,0
+MP_Barwani,2,6979,6046
+MP_Barwani,3,42925,5139
+MP_Barwani,4,9467,9705
+MP_Barwani,5,61920,2112
+MP_Barwani,6,137422,21938
+MP_Barwani,7,203175,19128
+MP_Betul,1,10215,0
+MP_Betul,2,13243,6874
+MP_Betul,3,114113,7556
+MP_Betul,4,19711,19921
+MP_Betul,5,64025,5760
+MP_Betul,6,178757,34808
+MP_Betul,7,282806,61510
+MP_Bhind,1,10734,0
+MP_Bhind,2,12495,5849
+MP_Bhind,3,86823,6405
+MP_Bhind,4,25480,12595
+MP_Bhind,5,72737,5122
+MP_Bhind,6,157028,29098
+MP_Bhind,7,252626,37301
+MP_Bhopal,1,43882,0
+MP_Bhopal,2,43620,27424
+MP_Bhopal,3,319915,28374
+MP_Bhopal,4,71521,87943
+MP_Bhopal,5,488070,28693
+MP_Bhopal,6,422359,164256
+MP_Bhopal,7,236605,141505
+MP_Burhanpur,1,4620,0
+MP_Burhanpur,2,3894,3504
+MP_Burhanpur,3,54507,3899
+MP_Burhanpur,4,19077,15889
+MP_Burhanpur,5,54274,4674
+MP_Burhanpur,6,80475,22547
+MP_Burhanpur,7,122220,32912
+MP_Chhatarpur,1,11812,0
+MP_Chhatarpur,2,8129,8152
+MP_Chhatarpur,3,99766,3085
+MP_Chhatarpur,4,29896,12391
+MP_Chhatarpur,5,68357,6733
+MP_Chhatarpur,6,159545,30016
+MP_Chhatarpur,7,275355,37970
+MP_Chhindwara,1,15893,0
+MP_Chhindwara,2,15354,10743
+MP_Chhindwara,3,124901,7742
+MP_Chhindwara,4,17005,32411
+MP_Chhindwara,5,100285,8932
+MP_Chhindwara,6,187398,50514
+MP_Chhindwara,7,374073,46330
+MP_Damoh,1,8632,0
+MP_Damoh,2,7692,5513
+MP_Damoh,3,60407,4487
+MP_Damoh,4,12375,9275
+MP_Damoh,5,48372,2743
+MP_Damoh,6,119626,16680
+MP_Damoh,7,278315,34016
+MP_Datia,1,6775,0
+MP_Datia,2,10187,4403
+MP_Datia,3,47681,2727
+MP_Datia,4,14355,8737
+MP_Datia,5,43645,3051
+MP_Datia,6,83829,17750
+MP_Datia,7,155526,20602
+MP_Dewas,1,10516,0
+MP_Dewas,2,10690,7644
+MP_Dewas,3,105576,7450
+MP_Dewas,4,14159,20522
+MP_Dewas,5,117011,5943
+MP_Dewas,6,199703,37478
+MP_Dewas,7,235383,42505
+MP_Dhar,1,15193,0
+MP_Dhar,2,22701,10752
+MP_Dhar,3,100653,9775
+MP_Dhar,4,19867,21922
+MP_Dhar,5,134688,5533
+MP_Dhar,6,224264,48170
+MP_Dhar,7,278470,38856
+MP_Dindori,1,8105,1
+MP_Dindori,2,5919,6860
+MP_Dindori,3,43446,1057
+MP_Dindori,4,6228,3252
+MP_Dindori,5,34746,1330
+MP_Dindori,6,75912,12749
+MP_Dindori,7,142593,20125
+MP_Guna,1,7044,0
+MP_Guna,2,13044,4928
+MP_Guna,3,77069,5086
+MP_Guna,4,17382,14677
+MP_Guna,5,57483,4179
+MP_Guna,6,115321,23487
+MP_Guna,7,220510,23639
+MP_Gwalior,1,19277,0
+MP_Gwalior,2,24176,13061
+MP_Gwalior,3,197391,15702
+MP_Gwalior,4,60908,41966
+MP_Gwalior,5,240508,17686
+MP_Gwalior,6,231465,77846
+MP_Gwalior,7,262495,94511
+MP_Harda,1,3530,0
+MP_Harda,2,3461,1943
+MP_Harda,3,35914,2161
+MP_Harda,4,6795,5695
+MP_Harda,5,31813,1526
+MP_Harda,6,61535,15867
+MP_Harda,7,199499,29140
+MP_Hoshangabad,1,9790,0
+MP_Hoshangabad,2,11306,7444
+MP_Hoshangabad,3,83222,3825
+MP_Hoshangabad,4,15560,17219
+MP_Hoshangabad,5,80021,4300
+MP_Hoshangabad,6,107014,37443
+MP_Hoshangabad,7,237274,44755
+MP_Indore,1,48088,0
+MP_Indore,2,41120,30408
+MP_Indore,3,502965,35046
+MP_Indore,4,85567,137404
+MP_Indore,5,851444,49611
+MP_Indore,6,722807,262842
+MP_Indore,7,373791,212718
+MP_Jabalpur,1,26572,0
+MP_Jabalpur,2,27198,15801
+MP_Jabalpur,3,272276,18417
+MP_Jabalpur,4,58442,63298
+MP_Jabalpur,5,311117,30839
+MP_Jabalpur,6,322988,96444
+MP_Jabalpur,7,299719,124252
+MP_Jhabua,1,9132,0
+MP_Jhabua,2,4605,6547
+MP_Jhabua,3,34423,4388
+MP_Jhabua,4,6146,6388
+MP_Jhabua,5,37507,1761
+MP_Jhabua,6,112379,14428
+MP_Jhabua,7,142526,19518
+MP_Katni,1,7873,0
+MP_Katni,2,5343,5811
+MP_Katni,3,92267,2839
+MP_Katni,4,16697,11743
+MP_Katni,5,63600,2914
+MP_Katni,6,136501,26640
+MP_Katni,7,179036,31843
+MP_Khandwa,1,7896,0
+MP_Khandwa,2,9035,5247
+MP_Khandwa,3,75231,6375
+MP_Khandwa,4,17284,16703
+MP_Khandwa,5,74610,8379
+MP_Khandwa,6,139789,22329
+MP_Khandwa,7,256914,37518
+MP_Khargone,1,11916,0
+MP_Khargone,2,11452,7003
+MP_Khargone,3,85984,6708
+MP_Khargone,4,17950,17045
+MP_Khargone,5,105446,4786
+MP_Khargone,6,158482,37759
+MP_Khargone,7,312554,39954
+MP_Mandla,1,9406,0
+MP_Mandla,2,6729,6630
+MP_Mandla,3,64752,3816
+MP_Mandla,4,6274,6848
+MP_Mandla,5,35528,2771
+MP_Mandla,6,112584,18054
+MP_Mandla,7,151859,18525
+MP_Mandsaur,1,7299,0
+MP_Mandsaur,2,12581,4787
+MP_Mandsaur,3,68270,6092
+MP_Mandsaur,4,18842,13186
+MP_Mandsaur,5,60617,3933
+MP_Mandsaur,6,160197,32394
+MP_Mandsaur,7,222628,32622
+MP_Morena,1,11977,2
+MP_Morena,2,10525,6848
+MP_Morena,3,95070,7495
+MP_Morena,4,26557,11872
+MP_Morena,5,91091,8066
+MP_Morena,6,197344,33743
+MP_Morena,7,274291,45864
+MP_Narsinghpur,1,8854,0
+MP_Narsinghpur,2,12588,6420
+MP_Narsinghpur,3,66575,6774
+MP_Narsinghpur,4,14520,13659
+MP_Narsinghpur,5,54861,2248
+MP_Narsinghpur,6,113115,26882
+MP_Narsinghpur,7,228772,32108
+MP_Neemuch,1,7430,0
+MP_Neemuch,2,8474,4913
+MP_Neemuch,3,51314,7824
+MP_Neemuch,4,16922,8467
+MP_Neemuch,5,52230,3049
+MP_Neemuch,6,87366,25342
+MP_Neemuch,7,176357,32568
+MP_Panna,1,6226,0
+MP_Panna,2,4753,3958
+MP_Panna,3,40137,2978
+MP_Panna,4,6446,4300
+MP_Panna,5,32864,2250
+MP_Panna,6,103381,13734
+MP_Panna,7,205559,13088
+MP_Raisen,1,6475,0
+MP_Raisen,2,7145,4287
+MP_Raisen,3,74623,5376
+MP_Raisen,4,18288,10125
+MP_Raisen,5,74935,2851
+MP_Raisen,6,168048,23100
+MP_Raisen,7,206182,37905
+MP_Rajgarh,1,9842,0
+MP_Rajgarh,2,11589,6856
+MP_Rajgarh,3,87050,5992
+MP_Rajgarh,4,16762,13009
+MP_Rajgarh,5,119952,4685
+MP_Rajgarh,6,202667,28591
+MP_Rajgarh,7,250247,47573
+MP_Ratlam,1,9671,0
+MP_Ratlam,2,13856,6368
+MP_Ratlam,3,86424,6185
+MP_Ratlam,4,16966,19014
+MP_Ratlam,5,85611,5833
+MP_Ratlam,6,156491,40724
+MP_Ratlam,7,277227,46689
+MP_Rewa,1,15172,0
+MP_Rewa,2,34235,11239
+MP_Rewa,3,197125,12312
+MP_Rewa,4,32083,29584
+MP_Rewa,5,146110,7246
+MP_Rewa,6,177284,51335
+MP_Rewa,7,270168,59373
+MP_Sagar,1,13661,0
+MP_Sagar,2,19154,9152
+MP_Sagar,3,252613,10215
+MP_Sagar,4,51511,33043
+MP_Sagar,5,178619,14233
+MP_Sagar,6,186709,83378
+MP_Sagar,7,366200,84896
+MP_Satna,1,12366,1
+MP_Satna,2,14893,9010
+MP_Satna,3,143942,7773
+MP_Satna,4,29159,22556
+MP_Satna,5,84648,5626
+MP_Satna,6,174519,38894
+MP_Satna,7,289465,62902
+MP_Sehore,1,9123,0
+MP_Sehore,2,16559,6609
+MP_Sehore,3,120150,7827
+MP_Sehore,4,20623,20882
+MP_Sehore,5,105495,4773
+MP_Sehore,6,209177,36871
+MP_Sehore,7,225485,59065
+MP_Seoni,1,10007,0
+MP_Seoni,2,11416,7268
+MP_Seoni,3,88699,6228
+MP_Seoni,4,7543,14856
+MP_Seoni,5,62607,4615
+MP_Seoni,6,139958,29801
+MP_Seoni,7,238400,34901
+MP_Shahdol,1,7418,0
+MP_Shahdol,2,9500,4979
+MP_Shahdol,3,97896,4442
+MP_Shahdol,4,19670,7934
+MP_Shahdol,5,129088,2706
+MP_Shahdol,6,158717,28930
+MP_Shahdol,7,90400,30053
+MP_Shajapur,1,7057,0
+MP_Shajapur,2,9685,5204
+MP_Shajapur,3,55601,2733
+MP_Shajapur,4,15622,10935
+MP_Shajapur,5,48103,3647
+MP_Shajapur,6,92491,23067
+MP_Shajapur,7,199052,33216
+MP_Sheopur,1,4006,0
+MP_Sheopur,2,6116,2808
+MP_Sheopur,3,28058,2656
+MP_Sheopur,4,10377,4444
+MP_Sheopur,5,38768,2156
+MP_Sheopur,6,69294,8868
+MP_Sheopur,7,44406,7739
+MP_Shivpuri,1,9958,0
+MP_Shivpuri,2,12900,6901
+MP_Shivpuri,3,79024,7426
+MP_Shivpuri,4,27864,11976
+MP_Shivpuri,5,120311,3621
+MP_Shivpuri,6,153302,25468
+MP_Shivpuri,7,193636,26968
+MP_Sidhi,1,6904,0
+MP_Sidhi,2,6112,5447
+MP_Sidhi,3,61217,2510
+MP_Sidhi,4,8729,4959
+MP_Sidhi,5,37015,2222
+MP_Sidhi,6,108571,15184
+MP_Sidhi,7,173815,18140
+MP_Singrauli,1,6860,0
+MP_Singrauli,2,8927,5070
+MP_Singrauli,3,61633,2695
+MP_Singrauli,4,10407,6666
+MP_Singrauli,5,56886,1538
+MP_Singrauli,6,125759,24123
+MP_Singrauli,7,146027,20136
+MP_Tikamgarh,1,7557,0
+MP_Tikamgarh,2,6704,5142
+MP_Tikamgarh,3,77075,2614
+MP_Tikamgarh,4,25286,8387
+MP_Tikamgarh,5,47338,5984
+MP_Tikamgarh,6,144992,32450
+MP_Tikamgarh,7,252642,42584
+MP_Ujjain,1,17330,0
+MP_Ujjain,2,23745,11529
+MP_Ujjain,3,219975,9029
+MP_Ujjain,4,35683,45640
+MP_Ujjain,5,218455,17671
+MP_Ujjain,6,327295,82069
+MP_Ujjain,7,277092,107716
+MP_Umaria,1,3313,0
+MP_Umaria,2,2714,2355
+MP_Umaria,3,37657,1933
+MP_Umaria,4,6754,3568
+MP_Umaria,5,30975,680
+MP_Umaria,6,76320,12282
+MP_Umaria,7,96289,14475
+MP_Vidisha,1,11385,0
+MP_Vidisha,2,19288,7254
+MP_Vidisha,3,89323,8126
+MP_Vidisha,4,20932,13565
+MP_Vidisha,5,55253,4441
+MP_Vidisha,6,171164,33033
+MP_Vidisha,7,217718,36776
+MH_Ahmednagar,1,23829,4
+MH_Ahmednagar,2,45863,15925
+MH_Ahmednagar,3,239562,19851
+MH_Ahmednagar,4,155113,91412
+MH_Ahmednagar,5,153733,50846
+MH_Ahmednagar,6,223407,93850
+MH_Ahmednagar,7,190308,133599
+MH_Akola,1,9774,129
+MH_Akola,2,17575,4733
+MH_Akola,3,97661,12594
+MH_Akola,4,83977,39851
+MH_Akola,5,65116,21483
+MH_Akola,6,120708,42938
+MH_Akola,7,39782,49626
+MH_Amravati,1,16778,170
+MH_Amravati,2,29832,9286
+MH_Amravati,3,152772,12652
+MH_Amravati,4,105717,69576
+MH_Amravati,5,118356,43720
+MH_Amravati,6,145817,48444
+MH_Amravati,7,128011,71604
+MH_Aurangabad,1,17222,30
+MH_Aurangabad,2,48761,11047
+MH_Aurangabad,3,235087,15931
+MH_Aurangabad,4,127571,93445
+MH_Aurangabad,5,100609,14339
+MH_Aurangabad,6,271700,103951
+MH_Aurangabad,7,211462,99479
+MH_Beed,1,8388,66
+MH_Beed,2,26863,5076
+MH_Beed,3,113247,14166
+MH_Beed,4,103546,53397
+MH_Beed,5,91880,20360
+MH_Beed,6,165021,39909
+MH_Beed,7,106360,60106
+MH_Bhandara,1,8251,330
+MH_Bhandara,2,26722,6108
+MH_Bhandara,3,123356,16259
+MH_Bhandara,4,52748,37994
+MH_Bhandara,5,16784,26999
+MH_Bhandara,6,133512,33326
+MH_Bhandara,7,110921,33985
+MH_Buldhana,1,9326,103
+MH_Buldhana,2,22812,6042
+MH_Buldhana,3,158767,12667
+MH_Buldhana,4,103784,57347
+MH_Buldhana,5,92540,32819
+MH_Buldhana,6,147312,54075
+MH_Buldhana,7,126780,68565
+MH_Chandrapur,1,15691,155
+MH_Chandrapur,2,23284,10518
+MH_Chandrapur,3,128434,8798
+MH_Chandrapur,4,92191,43902
+MH_Chandrapur,5,89029,16468
+MH_Chandrapur,6,107001,32131
+MH_Chandrapur,7,151358,67776
+MH_Dhule,1,9305,129
+MH_Dhule,2,19213,4972
+MH_Dhule,3,99463,8972
+MH_Dhule,4,88209,36897
+MH_Dhule,5,74037,31096
+MH_Dhule,6,158538,37676
+MH_Dhule,7,88591,51890
+MH_Gadchiroli,1,9483,106
+MH_Gadchiroli,2,9752,4739
+MH_Gadchiroli,3,38465,6604
+MH_Gadchiroli,4,46128,14474
+MH_Gadchiroli,5,48045,14739
+MH_Gadchiroli,6,104326,9215
+MH_Gadchiroli,7,31323,19857
+MH_Gondia,1,8115,189
+MH_Gondia,2,23299,5024
+MH_Gondia,3,89556,9402
+MH_Gondia,4,54327,28141
+MH_Gondia,5,100205,36220
+MH_Gondia,6,177171,26590
+MH_Gondia,7,104102,38669
+MH_Hingoli,1,4946,106
+MH_Hingoli,2,12495,3020
+MH_Hingoli,3,31102,4409
+MH_Hingoli,4,41757,17601
+MH_Hingoli,5,32876,6838
+MH_Hingoli,6,80412,10128
+MH_Hingoli,7,41851,17715
+MH_Jalgaon,1,14777,308
+MH_Jalgaon,2,42896,9076
+MH_Jalgaon,3,153591,18494
+MH_Jalgaon,4,153377,84729
+MH_Jalgaon,5,141891,28247
+MH_Jalgaon,6,195577,60294
+MH_Jalgaon,7,140615,78183
+MH_Jalna,1,9951,120
+MH_Jalna,2,21554,5991
+MH_Jalna,3,88339,10771
+MH_Jalna,4,107884,30377
+MH_Jalna,5,66381,22301
+MH_Jalna,6,159506,30953
+MH_Jalna,7,71996,58689
+MH_Kolhapur,1,22592,285
+MH_Kolhapur,2,74801,13228
+MH_Kolhapur,3,562508,34629
+MH_Kolhapur,4,260900,168500
+MH_Kolhapur,5,93411,26108
+MH_Kolhapur,6,102284,241206
+MH_Kolhapur,7,192770,224674
+MH_Latur,1,10274,114
+MH_Latur,2,28501,6880
+MH_Latur,3,133470,9989
+MH_Latur,4,100496,50645
+MH_Latur,5,80273,29361
+MH_Latur,6,164657,45497
+MH_Latur,7,101470,64222
+MH_Mumbai,1,124361,243
+MH_Mumbai,2,225966,82590
+MH_Mumbai,3,1329827,159249
+MH_Mumbai,4,476144,489717
+MH_Mumbai,5,1426451,123437
+MH_Mumbai,6,1499596,651629
+MH_Mumbai,7,1186471,607875
+MH_Nagpur,1,30791,767
+MH_Nagpur,2,114238,20482
+MH_Nagpur,3,578242,37747
+MH_Nagpur,4,227278,201204
+MH_Nagpur,5,126114,39427
+MH_Nagpur,6,473879,206351
+MH_Nagpur,7,442623,202133
+MH_Nanded,1,10119,172
+MH_Nanded,2,29113,6291
+MH_Nanded,3,191757,10800
+MH_Nanded,4,101522,46601
+MH_Nanded,5,34326,40789
+MH_Nanded,6,192155,50595
+MH_Nanded,7,121576,73889
+MH_Nandurbar,1,9416,336
+MH_Nandurbar,2,13520,6207
+MH_Nandurbar,3,48362,10646
+MH_Nandurbar,4,93874,26022
+MH_Nandurbar,5,112991,12965
+MH_Nandurbar,6,107216,15937
+MH_Nandurbar,7,42606,38211
+MH_Nashik,1,31716,419
+MH_Nashik,2,86018,19243
+MH_Nashik,3,350250,36728
+MH_Nashik,4,235328,141652
+MH_Nashik,5,189685,39669
+MH_Nashik,6,388791,141386
+MH_Nashik,7,285465,174426
+MH_Osmanabad,1,7195,282
+MH_Osmanabad,2,12855,4435
+MH_Osmanabad,3,74700,7081
+MH_Osmanabad,4,65520,24788
+MH_Osmanabad,5,86646,18605
+MH_Osmanabad,6,85053,26960
+MH_Osmanabad,7,41313,48274
+MH_Palghar,1,19451,395
+MH_Palghar,2,27364,11224
+MH_Palghar,3,94821,10874
+MH_Palghar,4,113523,43841
+MH_Palghar,5,115379,16591
+MH_Palghar,6,123169,45933
+MH_Palghar,7,131911,97490
+MH_Parbhani,1,6086,110
+MH_Parbhani,2,19576,3306
+MH_Parbhani,3,80198,6063
+MH_Parbhani,4,88119,31400
+MH_Parbhani,5,47910,21661
+MH_Parbhani,6,142322,33146
+MH_Parbhani,7,69679,55022
+MH_Pune,1,65541,893
+MH_Pune,2,154587,39140
+MH_Pune,3,1324887,103819
+MH_Pune,4,526072,400822
+MH_Pune,5,821450,109370
+MH_Pune,6,1365913,607956
+MH_Pune,7,923233,546131
+MH_Raigad,1,11147,215
+MH_Raigad,2,26432,6301
+MH_Raigad,3,122715,12872
+MH_Raigad,4,126972,54565
+MH_Raigad,5,185042,16051
+MH_Raigad,6,149089,54788
+MH_Raigad,7,151752,114529
+MH_Ratnagiri,1,10417,233
+MH_Ratnagiri,2,17492,7230
+MH_Ratnagiri,3,72617,8660
+MH_Ratnagiri,4,78880,32296
+MH_Ratnagiri,5,96618,25713
+MH_Ratnagiri,6,88587,21018
+MH_Ratnagiri,7,55901,51889
+MH_Sangli,1,18280,334
+MH_Sangli,2,37380,11271
+MH_Sangli,3,308581,14725
+MH_Sangli,4,195909,88527
+MH_Sangli,5,87378,17994
+MH_Sangli,6,143304,131905
+MH_Sangli,7,261997,171748
+MH_Satara,1,27784,470
+MH_Satara,2,38690,17092
+MH_Satara,3,302506,26886
+MH_Satara,4,222376,64238
+MH_Satara,5,104572,25848
+MH_Satara,6,143790,124327
+MH_Satara,7,217196,199082
+MH_Sindhudurg,1,6138,43
+MH_Sindhudurg,2,14220,4277
+MH_Sindhudurg,3,46458,5861
+MH_Sindhudurg,4,67986,24565
+MH_Sindhudurg,5,54369,17240
+MH_Sindhudurg,6,66806,18819
+MH_Sindhudurg,7,37163,39301
+MH_Solapur,1,27547,301
+MH_Solapur,2,34505,14182
+MH_Solapur,3,161512,18262
+MH_Solapur,4,155045,67247
+MH_Solapur,5,149300,21628
+MH_Solapur,6,123637,70817
+MH_Solapur,7,175333,109676
+MH_Thane,1,68834,826
+MH_Thane,2,110001,42247
+MH_Thane,3,590830,66579
+MH_Thane,4,409679,237591
+MH_Thane,5,469246,57982
+MH_Thane,6,692306,292719
+MH_Thane,7,647639,386025
+MH_Wardha,1,14502,245
+MH_Wardha,2,16820,9427
+MH_Wardha,3,117508,10454
+MH_Wardha,4,59746,31703
+MH_Wardha,5,48428,13390
+MH_Wardha,6,87140,27000
+MH_Wardha,7,110728,55951
+MH_Washim,1,5492,123
+MH_Washim,2,13656,3019
+MH_Washim,3,86739,6704
+MH_Washim,4,55254,29204
+MH_Washim,5,55420,31900
+MH_Washim,6,112609,31107
+MH_Washim,7,63450,44659
+MH_Yavatmal,1,11798,150
+MH_Yavatmal,2,23945,6530
+MH_Yavatmal,3,129368,11670
+MH_Yavatmal,4,120979,47452
+MH_Yavatmal,5,108987,31381
+MH_Yavatmal,6,168667,46588
+MH_Yavatmal,7,119710,78314
+MN_Bishnupur,1,1270,0
+MN_Bishnupur,2,3147,433
+MN_Bishnupur,3,1250,2317
+MN_Bishnupur,4,20140,1442
+MN_Bishnupur,5,12283,75
+MN_Bishnupur,6,39278,1244
+MN_Bishnupur,7,45110,16295
+MN_Chandel,1,1203,0
+MN_Chandel,2,3786,584
+MN_Chandel,3,596,2709
+MN_Chandel,4,3284,833
+MN_Chandel,5,3269,28
+MN_Chandel,6,8306,1092
+MN_Chandel,7,4453,2523
+MN_Churachandpur,1,2632,42
+MN_Churachandpur,2,4968,903
+MN_Churachandpur,3,2639,4086
+MN_Churachandpur,4,16876,1582
+MN_Churachandpur,5,19011,159
+MN_Churachandpur,6,25779,3675
+MN_Churachandpur,7,26729,14633
+MN_Imphal East,1,4190,0
+MN_Imphal East,2,6200,2095
+MN_Imphal East,3,7647,6580
+MN_Imphal East,4,57306,5040
+MN_Imphal East,5,31072,756
+MN_Imphal East,6,88102,5803
+MN_Imphal East,7,44701,42201
+MN_Imphal West,1,7721,273
+MN_Imphal West,2,8658,4228
+MN_Imphal West,3,6763,6875
+MN_Imphal West,4,51284,4748
+MN_Imphal West,5,50865,439
+MN_Imphal West,6,106407,6781
+MN_Imphal West,7,60179,48464
+MN_Jiribam,1,579,0
+MN_Jiribam,2,716,23
+MN_Jiribam,3,1059,1226
+MN_Jiribam,4,1715,443
+MN_Jiribam,5,3418,32
+MN_Jiribam,6,10338,331
+MN_Jiribam,7,7375,1776
+MN_Kakching,1,688,0
+MN_Kakching,2,1930,211
+MN_Kakching,3,1019,1839
+MN_Kakching,4,12316,647
+MN_Kakching,5,12951,77
+MN_Kakching,6,28811,1670
+MN_Kakching,7,19526,11140
+MN_Kamjong,1,365,0
+MN_Kamjong,2,300,97
+MN_Kamjong,3,521,178
+MN_Kamjong,4,1030,256
+MN_Kamjong,5,1887,13
+MN_Kamjong,6,2695,136
+MN_Kamjong,7,2834,1101
+MN_Kangpokpi,1,821,0
+MN_Kangpokpi,2,1319,101
+MN_Kangpokpi,3,1410,1187
+MN_Kangpokpi,4,4769,898
+MN_Kangpokpi,5,5370,93
+MN_Kangpokpi,6,11857,1648
+MN_Kangpokpi,7,10794,3238
+MN_Noney,1,473,0
+MN_Noney,2,1819,216
+MN_Noney,3,922,748
+MN_Noney,4,1637,964
+MN_Noney,5,2425,4
+MN_Noney,6,4023,987
+MN_Noney,7,4797,1465
+MN_Pherzawl,1,453,0
+MN_Pherzawl,2,234,202
+MN_Pherzawl,3,808,256
+MN_Pherzawl,4,1392,244
+MN_Pherzawl,5,2748,29
+MN_Pherzawl,6,2580,798
+MN_Pherzawl,7,2405,1834
+MN_Senapati,1,636,20
+MN_Senapati,2,2385,261
+MN_Senapati,3,335,1631
+MN_Senapati,4,1960,656
+MN_Senapati,5,4518,33
+MN_Senapati,6,9368,570
+MN_Senapati,7,6112,1881
+MN_Tamenglong,1,494,0
+MN_Tamenglong,2,1949,270
+MN_Tamenglong,3,21,910
+MN_Tamenglong,4,3053,720
+MN_Tamenglong,5,2249,7
+MN_Tamenglong,6,5358,562
+MN_Tamenglong,7,5358,2502
+MN_Tengnoupal,1,602,0
+MN_Tengnoupal,2,1963,102
+MN_Tengnoupal,3,1234,1897
+MN_Tengnoupal,4,2195,734
+MN_Tengnoupal,5,2969,49
+MN_Tengnoupal,6,8505,476
+MN_Tengnoupal,7,5905,1876
+MN_Thoubal,1,4222,62
+MN_Thoubal,2,2690,1451
+MN_Thoubal,3,1499,3439
+MN_Thoubal,4,25714,874
+MN_Thoubal,5,16126,134
+MN_Thoubal,6,62960,2171
+MN_Thoubal,7,24295,19273
+MN_Ukhrul,1,561,18
+MN_Ukhrul,2,2009,318
+MN_Ukhrul,3,994,917
+MN_Ukhrul,4,3033,941
+MN_Ukhrul,5,3790,52
+MN_Ukhrul,6,4468,522
+MN_Ukhrul,7,4091,3044
+ML_East Garo Hills,1,988,0
+ML_East Garo Hills,2,1795,590
+ML_East Garo Hills,3,2876,1712
+ML_East Garo Hills,4,8335,2056
+ML_East Garo Hills,5,3486,57
+ML_East Garo Hills,6,8544,657
+ML_East Garo Hills,7,13377,5482
+ML_East Jaintia Hills,1,611,58
+ML_East Jaintia Hills,2,909,534
+ML_East Jaintia Hills,3,5638,904
+ML_East Jaintia Hills,4,9356,1229
+ML_East Jaintia Hills,5,6362,6
+ML_East Jaintia Hills,6,13634,3086
+ML_East Jaintia Hills,7,17837,7765
+ML_East Khasi Hills,1,4989,183
+ML_East Khasi Hills,2,15020,3601
+ML_East Khasi Hills,3,20461,11071
+ML_East Khasi Hills,4,57227,8174
+ML_East Khasi Hills,5,58439,137
+ML_East Khasi Hills,6,95881,18665
+ML_East Khasi Hills,7,35496,42730
+ML_North Garo Hills,1,980,0
+ML_North Garo Hills,2,1584,604
+ML_North Garo Hills,3,3085,1384
+ML_North Garo Hills,4,7802,1643
+ML_North Garo Hills,5,2273,18
+ML_North Garo Hills,6,13735,1763
+ML_North Garo Hills,7,22670,5858
+ML_Ribhoi,1,723,25
+ML_Ribhoi,2,2518,420
+ML_Ribhoi,3,2793,2039
+ML_Ribhoi,4,17653,1675
+ML_Ribhoi,5,14527,34
+ML_Ribhoi,6,25911,1801
+ML_Ribhoi,7,15453,11324
+ML_South Garo Hills,1,858,0
+ML_South Garo Hills,2,1427,404
+ML_South Garo Hills,3,2687,1818
+ML_South Garo Hills,4,7644,1388
+ML_South Garo Hills,5,4053,29
+ML_South Garo Hills,6,6179,743
+ML_South Garo Hills,7,9110,5105
+ML_South West Garo Hills,1,1079,74
+ML_South West Garo Hills,2,1459,777
+ML_South West Garo Hills,3,5099,1325
+ML_South West Garo Hills,4,13042,2184
+ML_South West Garo Hills,5,5806,64
+ML_South West Garo Hills,6,22638,2199
+ML_South West Garo Hills,7,14382,9069
+ML_South West Khasi Hills,1,395,0
+ML_South West Khasi Hills,2,655,201
+ML_South West Khasi Hills,3,1428,711
+ML_South West Khasi Hills,4,6452,438
+ML_South West Khasi Hills,5,8520,12
+ML_South West Khasi Hills,6,6685,824
+ML_South West Khasi Hills,7,6465,4373
+ML_West Garo Hills,1,4281,77
+ML_West Garo Hills,2,12298,2769
+ML_West Garo Hills,3,10095,6018
+ML_West Garo Hills,4,35844,7306
+ML_West Garo Hills,5,17328,167
+ML_West Garo Hills,6,72186,6513
+ML_West Garo Hills,7,38569,24607
+ML_West Jaintia Hills,1,1615,50
+ML_West Jaintia Hills,2,1782,1174
+ML_West Jaintia Hills,3,5673,1988
+ML_West Jaintia Hills,4,20030,1912
+ML_West Jaintia Hills,5,7855,32
+ML_West Jaintia Hills,6,22969,3264
+ML_West Jaintia Hills,7,16672,13380
+ML_West Khasi Hills,1,858,23
+ML_West Khasi Hills,2,2615,682
+ML_West Khasi Hills,3,4702,2239
+ML_West Khasi Hills,4,22219,2601
+ML_West Khasi Hills,5,11620,213
+ML_West Khasi Hills,6,11356,2276
+ML_West Khasi Hills,7,13849,13932
+MZ_Aizawl,1,3026,105
+MZ_Aizawl,2,8868,3064
+MZ_Aizawl,3,17994,5749
+MZ_Aizawl,4,36055,4111
+MZ_Aizawl,5,34670,395
+MZ_Aizawl,6,69416,22642
+MZ_Aizawl,7,9602,25806
+MZ_Champhai,1,1038,0
+MZ_Champhai,2,3359,979
+MZ_Champhai,3,2309,2659
+MZ_Champhai,4,20468,917
+MZ_Champhai,5,4371,302
+MZ_Champhai,6,31155,1757
+MZ_Champhai,7,7119,18610
+MZ_Kolasib,1,591,0
+MZ_Kolasib,2,2820,625
+MZ_Kolasib,3,4656,2667
+MZ_Kolasib,4,8692,996
+MZ_Kolasib,5,6382,24
+MZ_Kolasib,6,18044,3184
+MZ_Kolasib,7,3684,6989
+MZ_Lawngtlai,1,520,0
+MZ_Lawngtlai,2,1607,586
+MZ_Lawngtlai,3,4452,602
+MZ_Lawngtlai,4,6470,1658
+MZ_Lawngtlai,5,4747,20
+MZ_Lawngtlai,6,15268,3031
+MZ_Lawngtlai,7,7099,4717
+MZ_Lunglei,1,1518,120
+MZ_Lunglei,2,7036,1287
+MZ_Lunglei,3,10582,1205
+MZ_Lunglei,4,12688,5037
+MZ_Lunglei,5,10741,633
+MZ_Lunglei,6,37385,11818
+MZ_Lunglei,7,7303,11024
+MZ_Mamit,1,698,0
+MZ_Mamit,2,3322,567
+MZ_Mamit,3,4577,1789
+MZ_Mamit,4,6924,1574
+MZ_Mamit,5,4494,9
+MZ_Mamit,6,17466,4368
+MZ_Mamit,7,4492,4730
+MZ_Serchhip,1,1211,0
+MZ_Serchhip,2,2192,804
+MZ_Serchhip,3,4639,1857
+MZ_Serchhip,4,7560,1654
+MZ_Serchhip,5,6484,19
+MZ_Serchhip,6,17161,4725
+MZ_Serchhip,7,1400,5834
+MZ_Saiha,1,531,0
+MZ_Saiha,2,1618,409
+MZ_Saiha,3,3717,1819
+MZ_Saiha,4,3466,409
+MZ_Saiha,5,3564,7
+MZ_Saiha,6,14669,2504
+MZ_Saiha,7,5540,3100
+NL_Dimapur,1,2744,426
+NL_Dimapur,2,7460,1512
+NL_Dimapur,3,16925,7419
+NL_Dimapur,4,24727,5149
+NL_Dimapur,5,41206,198
+NL_Dimapur,6,94271,16404
+NL_Dimapur,7,43470,18304
+NL_Kiphire,1,419,0
+NL_Kiphire,2,1765,308
+NL_Kiphire,3,806,1005
+NL_Kiphire,4,1501,677
+NL_Kiphire,5,1656,11
+NL_Kiphire,6,3643,413
+NL_Kiphire,7,2500,1239
+NL_Kohima,1,3004,125
+NL_Kohima,2,5097,2106
+NL_Kohima,3,7541,2878
+NL_Kohima,4,10684,3278
+NL_Kohima,5,26299,122
+NL_Kohima,6,33902,8409
+NL_Kohima,7,10927,8601
+NL_Longleng,1,436,82
+NL_Longleng,2,655,140
+NL_Longleng,3,2612,730
+NL_Longleng,4,2902,1169
+NL_Longleng,5,4846,23
+NL_Longleng,6,7330,2052
+NL_Longleng,7,1072,2105
+NL_Mokokchung,1,1738,128
+NL_Mokokchung,2,2330,1538
+NL_Mokokchung,3,9511,999
+NL_Mokokchung,4,8809,1822
+NL_Mokokchung,5,11446,86
+NL_Mokokchung,6,22428,9701
+NL_Mokokchung,7,9022,7804
+NL_Mon,1,1122,0
+NL_Mon,2,1245,1068
+NL_Mon,3,7757,1069
+NL_Mon,4,9734,1404
+NL_Mon,5,14943,32
+NL_Mon,6,18565,7620
+NL_Mon,7,11589,7401
+NL_Peren,1,746,70
+NL_Peren,2,1139,551
+NL_Peren,3,2295,471
+NL_Peren,4,2095,871
+NL_Peren,5,5092,99
+NL_Peren,6,4171,1772
+NL_Peren,7,1971,1840
+NL_Phek,1,685,91
+NL_Phek,2,2507,649
+NL_Phek,3,4995,2142
+NL_Phek,4,2852,1833
+NL_Phek,5,8888,59
+NL_Phek,6,6477,2798
+NL_Phek,7,2955,2195
+NL_Tuensang,1,521,81
+NL_Tuensang,2,2680,432
+NL_Tuensang,3,3814,1611
+NL_Tuensang,4,3954,1282
+NL_Tuensang,5,5356,17
+NL_Tuensang,6,10790,3110
+NL_Tuensang,7,7613,3264
+NL_Wokha,1,477,16
+NL_Wokha,2,1083,686
+NL_Wokha,3,7057,532
+NL_Wokha,4,4382,2551
+NL_Wokha,5,7442,12
+NL_Wokha,6,8175,5083
+NL_Wokha,7,4027,3323
+NL_Zunheboto,1,850,0
+NL_Zunheboto,2,2063,739
+NL_Zunheboto,3,3003,841
+NL_Zunheboto,4,3490,1303
+NL_Zunheboto,5,10980,168
+NL_Zunheboto,6,11552,1851
+NL_Zunheboto,7,4012,3104
+OR_Angul,1,10046,30
+OR_Angul,2,7390,8290
+OR_Angul,3,70103,4484
+OR_Angul,4,22198,16222
+OR_Angul,5,68802,1583
+OR_Angul,6,104259,25208
+OR_Angul,7,98180,27917
+OR_Balangir,1,12154,143
+OR_Balangir,2,10137,8836
+OR_Balangir,3,86108,9089
+OR_Balangir,4,22344,22497
+OR_Balangir,5,48664,1319
+OR_Balangir,6,114335,22207
+OR_Balangir,7,254040,29469
+OR_Balasore,1,11782,344
+OR_Balasore,2,45616,10386
+OR_Balasore,3,208845,21333
+OR_Balasore,4,59043,57556
+OR_Balasore,5,110065,7377
+OR_Balasore,6,102230,74896
+OR_Balasore,7,168801,96368
+OR_Bargarh,1,11185,44
+OR_Bargarh,2,14469,11105
+OR_Bargarh,3,120782,6879
+OR_Bargarh,4,17403,23685
+OR_Bargarh,5,77947,1799
+OR_Bargarh,6,71384,39434
+OR_Bargarh,7,124398,28043
+OR_Bhadrak,1,8119,251
+OR_Bhadrak,2,14348,4668
+OR_Bhadrak,3,115516,8340
+OR_Bhadrak,4,36670,30627
+OR_Bhadrak,5,58822,4971
+OR_Bhadrak,6,115296,39928
+OR_Bhadrak,7,208107,38520
+OR_Boudh,1,3710,90
+OR_Boudh,2,3964,2135
+OR_Boudh,3,34414,1743
+OR_Boudh,4,8819,6336
+OR_Boudh,5,10408,1168
+OR_Boudh,6,30499,9640
+OR_Boudh,7,44170,7402
+OR_Cuttack,1,27412,393
+OR_Cuttack,2,31446,22920
+OR_Cuttack,3,215932,20469
+OR_Cuttack,4,78387,55306
+OR_Cuttack,5,245420,5322
+OR_Cuttack,6,172478,88102
+OR_Cuttack,7,165446,93944
+OR_Deogarh,1,3308,105
+OR_Deogarh,2,2581,2179
+OR_Deogarh,3,24613,1833
+OR_Deogarh,4,5822,5177
+OR_Deogarh,5,11140,1283
+OR_Deogarh,6,26551,6721
+OR_Deogarh,7,45495,5902
+OR_Dhenkanal,1,9221,13
+OR_Dhenkanal,2,8729,6056
+OR_Dhenkanal,3,82652,3839
+OR_Dhenkanal,4,27387,14671
+OR_Dhenkanal,5,47309,2844
+OR_Dhenkanal,6,106747,30546
+OR_Dhenkanal,7,140000,35876
+OR_Gajapati,1,7386,0
+OR_Gajapati,2,6360,5472
+OR_Gajapati,3,39941,4371
+OR_Gajapati,4,12565,10762
+OR_Gajapati,5,21314,799
+OR_Gajapati,6,56450,9634
+OR_Gajapati,7,55484,13357
+OR_Ganjam,1,28768,479
+OR_Ganjam,2,59215,24378
+OR_Ganjam,3,342721,27676
+OR_Ganjam,4,112154,81429
+OR_Ganjam,5,203705,8203
+OR_Ganjam,6,630639,121546
+OR_Ganjam,7,146289,237583
+OR_Jagatsinghpur,1,7596,317
+OR_Jagatsinghpur,2,10856,7511
+OR_Jagatsinghpur,3,90706,5255
+OR_Jagatsinghpur,4,22596,17921
+OR_Jagatsinghpur,5,50602,9662
+OR_Jagatsinghpur,6,57385,54661
+OR_Jagatsinghpur,7,92944,23740
+OR_Jajpur,1,12969,291
+OR_Jajpur,2,18822,4538
+OR_Jajpur,3,129886,10089
+OR_Jajpur,4,25878,20495
+OR_Jajpur,5,64727,9816
+OR_Jajpur,6,114209,50944
+OR_Jajpur,7,176458,53420
+OR_Jharsuguda,1,7273,295
+OR_Jharsuguda,2,8412,5874
+OR_Jharsuguda,3,43688,4879
+OR_Jharsuguda,4,11169,14181
+OR_Jharsuguda,5,45290,748
+OR_Jharsuguda,6,61572,15929
+OR_Jharsuguda,7,80849,15129
+OR_Kalahandi,1,9707,0
+OR_Kalahandi,2,17144,8008
+OR_Kalahandi,3,133930,11552
+OR_Kalahandi,4,19295,28217
+OR_Kalahandi,5,63332,1593
+OR_Kalahandi,6,75076,30486
+OR_Kalahandi,7,153320,44450
+OR_Kandhamal,1,6983,172
+OR_Kandhamal,2,10540,5942
+OR_Kandhamal,3,58819,5557
+OR_Kandhamal,4,17511,11765
+OR_Kandhamal,5,28888,1272
+OR_Kandhamal,6,49364,12184
+OR_Kandhamal,7,56817,20039
+OR_Kendrapara,1,8281,364
+OR_Kendrapara,2,16441,7630
+OR_Kendrapara,3,112430,7172
+OR_Kendrapara,4,24431,22491
+OR_Kendrapara,5,74066,8789
+OR_Kendrapara,6,95727,44940
+OR_Kendrapara,7,168438,44843
+OR_Kendujhar,1,15331,455
+OR_Kendujhar,2,12559,11844
+OR_Kendujhar,3,132642,6036
+OR_Kendujhar,4,26453,23826
+OR_Kendujhar,5,69239,3013
+OR_Kendujhar,6,119478,39030
+OR_Kendujhar,7,206173,40013
+OR_Khordha,1,36409,611
+OR_Khordha,2,45804,24055
+OR_Khordha,3,254718,51893
+OR_Khordha,4,238683,139518
+OR_Khordha,5,279177,215842
+OR_Khordha,6,427554,236859
+OR_Khordha,7,218044,348054
+OR_Koraput,1,17596,314
+OR_Koraput,2,37159,14826
+OR_Koraput,3,118873,14118
+OR_Koraput,4,27698,24863
+OR_Koraput,5,66168,4706
+OR_Koraput,6,90426,18538
+OR_Koraput,7,176224,47757
+OR_Malkangiri,1,7887,129
+OR_Malkangiri,2,9375,6359
+OR_Malkangiri,3,38974,3522
+OR_Malkangiri,4,11857,9215
+OR_Malkangiri,5,16803,454
+OR_Malkangiri,6,43141,6501
+OR_Malkangiri,7,53521,10627
+OR_Mayurbhanj,1,19688,92
+OR_Mayurbhanj,2,19627,15308
+OR_Mayurbhanj,3,159168,13185
+OR_Mayurbhanj,4,43670,37196
+OR_Mayurbhanj,5,56644,2642
+OR_Mayurbhanj,6,163363,43681
+OR_Mayurbhanj,7,210096,51284
+OR_Nabarangapur,1,9297,338
+OR_Nabarangapur,2,15748,7880
+OR_Nabarangapur,3,73250,6494
+OR_Nabarangapur,4,17258,16132
+OR_Nabarangapur,5,40627,1216
+OR_Nabarangapur,6,61064,10967
+OR_Nabarangapur,7,131559,16578
+OR_Nayagarh,1,6791,245
+OR_Nayagarh,2,12966,5984
+OR_Nayagarh,3,68903,1920
+OR_Nayagarh,4,17049,16628
+OR_Nayagarh,5,44147,3828
+OR_Nayagarh,6,63646,33184
+OR_Nayagarh,7,109840,21833
+OR_Nuapada,1,5292,254
+OR_Nuapada,2,3955,3607
+OR_Nuapada,3,52490,3470
+OR_Nuapada,4,4614,8680
+OR_Nuapada,5,9598,1005
+OR_Nuapada,6,64210,10502
+OR_Nuapada,7,137273,16340
+OR_Puri,1,13695,414
+OR_Puri,2,14244,9053
+OR_Puri,3,146668,8329
+OR_Puri,4,39605,27630
+OR_Puri,5,148027,6367
+OR_Puri,6,140810,67214
+OR_Puri,7,169610,48267
+OR_Rayagada,1,10026,163
+OR_Rayagada,2,13194,8028
+OR_Rayagada,3,75947,6688
+OR_Rayagada,4,14350,18638
+OR_Rayagada,5,29618,1312
+OR_Rayagada,6,67451,16294
+OR_Rayagada,7,127571,18861
+OR_Sambalpur,1,16815,41
+OR_Sambalpur,2,16681,11623
+OR_Sambalpur,3,84087,9767
+OR_Sambalpur,4,28573,20296
+OR_Sambalpur,5,156223,2051
+OR_Sambalpur,6,139008,35517
+OR_Sambalpur,7,99293,35573
+OR_Subarnapur,1,4779,484
+OR_Subarnapur,2,11376,4556
+OR_Subarnapur,3,46021,6688
+OR_Subarnapur,4,8806,8819
+OR_Subarnapur,5,21194,602
+OR_Subarnapur,6,45151,12728
+OR_Subarnapur,7,108126,16973
+OR_Sundargarh,1,20241,164
+OR_Sundargarh,2,20221,12514
+OR_Sundargarh,3,149883,11420
+OR_Sundargarh,4,50052,27922
+OR_Sundargarh,5,205850,2063
+OR_Sundargarh,6,105954,69658
+OR_Sundargarh,7,140419,60027
+PY_Karaikal,1,408,5
+PY_Karaikal,2,1953,343
+PY_Karaikal,3,15949,675
+PY_Karaikal,4,3249,3485
+PY_Karaikal,5,16944,332
+PY_Karaikal,6,35496,11140
+PY_Karaikal,7,22249,3597
+PY_Mahe,1,695,171
+PY_Mahe,2,1171,531
+PY_Mahe,3,4491,277
+PY_Mahe,4,7178,2845
+PY_Mahe,5,7067,59
+PY_Mahe,6,6408,4216
+PY_Mahe,7,4024,5111
+PY_Puducherry,1,4798,60
+PY_Puducherry,2,15404,2513
+PY_Puducherry,3,96946,7742
+PY_Puducherry,4,25413,30114
+PY_Puducherry,5,86406,3079
+PY_Puducherry,6,162993,55137
+PY_Puducherry,7,71891,22105
+PY_Yanam,1,204,69
+PY_Yanam,2,731,146
+PY_Yanam,3,1854,340
+PY_Yanam,4,3068,1187
+PY_Yanam,5,5101,26
+PY_Yanam,6,9801,1411
+PY_Yanam,7,5885,2037
+PB_Amritsar,1,13766,126
+PB_Amritsar,2,26818,8551
+PB_Amritsar,3,140832,15548
+PB_Amritsar,4,78901,46277
+PB_Amritsar,5,82577,4930
+PB_Amritsar,6,136520,55985
+PB_Amritsar,7,164461,65303
+PB_Barnala,1,756,13
+PB_Barnala,2,2865,555
+PB_Barnala,3,23628,1370
+PB_Barnala,4,26721,7637
+PB_Barnala,5,15769,2819
+PB_Barnala,6,37004,9212
+PB_Barnala,7,38039,16681
+PB_Bathinda,1,3363,20
+PB_Bathinda,2,10921,2635
+PB_Bathinda,3,43405,5419
+PB_Bathinda,4,51506,17984
+PB_Bathinda,5,38767,3256
+PB_Bathinda,6,82860,23908
+PB_Bathinda,7,77741,37460
+PB_Faridkot,1,2719,13
+PB_Faridkot,2,4734,2119
+PB_Faridkot,3,34369,2793
+PB_Faridkot,4,36770,10811
+PB_Faridkot,5,14288,3396
+PB_Faridkot,6,34943,15287
+PB_Faridkot,7,44471,22571
+PB_Fatehgarh Sahib,1,1215,104
+PB_Fatehgarh Sahib,2,3553,736
+PB_Fatehgarh Sahib,3,17059,2113
+PB_Fatehgarh Sahib,4,25892,6244
+PB_Fatehgarh Sahib,5,13587,3027
+PB_Fatehgarh Sahib,6,81351,9699
+PB_Fatehgarh Sahib,7,52575,20205
+PB_Fazilka,1,988,61
+PB_Fazilka,2,7386,631
+PB_Fazilka,3,30710,3054
+PB_Fazilka,4,37074,8911
+PB_Fazilka,5,16302,4043
+PB_Fazilka,6,52911,11545
+PB_Fazilka,7,58139,21975
+PB_Ferozepur,1,2107,9
+PB_Ferozepur,2,7347,1125
+PB_Ferozepur,3,32686,3990
+PB_Ferozepur,4,32174,11817
+PB_Ferozepur,5,21375,679
+PB_Ferozepur,6,42864,10295
+PB_Ferozepur,7,56442,21657
+PB_Gurdaspur,1,4564,192
+PB_Gurdaspur,2,11701,2564
+PB_Gurdaspur,3,181802,9600
+PB_Gurdaspur,4,83119,59698
+PB_Gurdaspur,5,34474,8485
+PB_Gurdaspur,6,79868,46289
+PB_Gurdaspur,7,146439,71166
+PB_Hoshiarpur,1,5736,134
+PB_Hoshiarpur,2,14137,3894
+PB_Hoshiarpur,3,135995,6409
+PB_Hoshiarpur,4,116128,45684
+PB_Hoshiarpur,5,59917,8570
+PB_Hoshiarpur,6,233652,76188
+PB_Hoshiarpur,7,173469,103009
+PB_Jalandhar,1,12031,109
+PB_Jalandhar,2,16484,8422
+PB_Jalandhar,3,221182,11671
+PB_Jalandhar,4,126881,57927
+PB_Jalandhar,5,82948,13326
+PB_Jalandhar,6,183599,84109
+PB_Jalandhar,7,187241,117371
+PB_Kapurthala,1,2378,61
+PB_Kapurthala,2,4571,1623
+PB_Kapurthala,3,55355,3299
+PB_Kapurthala,4,38095,12348
+PB_Kapurthala,5,24010,4266
+PB_Kapurthala,6,48581,21814
+PB_Kapurthala,7,65391,37376
+PB_Ludhiana,1,22791,472
+PB_Ludhiana,2,37891,16187
+PB_Ludhiana,3,285255,22103
+PB_Ludhiana,4,155814,85753
+PB_Ludhiana,5,156535,18197
+PB_Ludhiana,6,262430,113938
+PB_Ludhiana,7,336224,151766
+PB_Mansa,1,1429,20
+PB_Mansa,2,2448,796
+PB_Mansa,3,14782,1835
+PB_Mansa,4,34280,4313
+PB_Mansa,5,10657,1842
+PB_Mansa,6,39764,6261
+PB_Mansa,7,40553,19288
+PB_Moga,1,1117,37
+PB_Moga,2,5139,725
+PB_Moga,3,35508,4212
+PB_Moga,4,35915,11607
+PB_Moga,5,42165,1347
+PB_Moga,6,59554,14065
+PB_Moga,7,67929,25816
+PB_Pathankot,1,2148,38
+PB_Pathankot,2,6744,1191
+PB_Pathankot,3,85711,3728
+PB_Pathankot,4,41788,22931
+PB_Pathankot,5,20334,3073
+PB_Pathankot,6,52700,23040
+PB_Pathankot,7,69469,36188
+PB_Patiala,1,6674,85
+PB_Patiala,2,14550,3871
+PB_Patiala,3,113781,6558
+PB_Patiala,4,96139,26418
+PB_Patiala,5,52441,5560
+PB_Patiala,6,115625,48440
+PB_Patiala,7,183062,75400
+PB_Rupnagar,1,2028,98
+PB_Rupnagar,2,3471,1514
+PB_Rupnagar,3,26803,2083
+PB_Rupnagar,4,28021,7792
+PB_Rupnagar,5,34581,2762
+PB_Rupnagar,6,73818,14552
+PB_Rupnagar,7,63832,24988
+PB_Sangrur,1,2520,85
+PB_Sangrur,2,6317,1693
+PB_Sangrur,3,49306,2699
+PB_Sangrur,4,54533,11977
+PB_Sangrur,5,27950,4662
+PB_Sangrur,6,88389,23920
+PB_Sangrur,7,85406,41266
+PB_S.A.S. Nagar,1,5050,20
+PB_S.A.S. Nagar,2,17026,3824
+PB_S.A.S. Nagar,3,79289,8559
+PB_S.A.S. Nagar,4,206287,26567
+PB_S.A.S. Nagar,5,152944,18607
+PB_S.A.S. Nagar,6,97651,46177
+PB_S.A.S. Nagar,7,88009,96581
+PB_Shahid Bhagat Singh Nagar,1,1945,79
+PB_Shahid Bhagat Singh Nagar,2,4514,1471
+PB_Shahid Bhagat Singh Nagar,3,51107,2676
+PB_Shahid Bhagat Singh Nagar,4,52878,11730
+PB_Shahid Bhagat Singh Nagar,5,16106,6025
+PB_Shahid Bhagat Singh Nagar,6,41123,18506
+PB_Shahid Bhagat Singh Nagar,7,52284,31054
+PB_Sri Muktsar Sahib,1,1148,58
+PB_Sri Muktsar Sahib,2,3435,742
+PB_Sri Muktsar Sahib,3,37134,2058
+PB_Sri Muktsar Sahib,4,33997,7637
+PB_Sri Muktsar Sahib,5,24021,3034
+PB_Sri Muktsar Sahib,6,89555,16545
+PB_Sri Muktsar Sahib,7,68901,26510
+PB_Tarn Taran,1,3458,154
+PB_Tarn Taran,2,5944,2206
+PB_Tarn Taran,3,52832,3716
+PB_Tarn Taran,4,33743,10600
+PB_Tarn Taran,5,33405,2070
+PB_Tarn Taran,6,62130,16397
+PB_Tarn Taran,7,75221,27601
+RJ_Ajmer,1,26793,1125
+RJ_Ajmer,2,79999,20614
+RJ_Ajmer,3,279700,36494
+RJ_Ajmer,4,145781,87458
+RJ_Ajmer,5,162304,20167
+RJ_Ajmer,6,320766,100335
+RJ_Ajmer,7,268914,163739
+RJ_Alwar,1,31688,835
+RJ_Alwar,2,129159,23593
+RJ_Alwar,3,360429,48274
+RJ_Alwar,4,246397,108531
+RJ_Alwar,5,205249,22806
+RJ_Alwar,6,280200,100915
+RJ_Alwar,7,230228,229890
+RJ_Banswara,1,16093,497
+RJ_Banswara,2,54633,11818
+RJ_Banswara,3,174394,25500
+RJ_Banswara,4,42841,36420
+RJ_Banswara,5,107953,6419
+RJ_Banswara,6,145841,38615
+RJ_Banswara,7,193677,79283
+RJ_Baran,1,12866,421
+RJ_Baran,2,39305,9522
+RJ_Baran,3,112803,20254
+RJ_Baran,4,47385,31666
+RJ_Baran,5,58910,1856
+RJ_Baran,6,101283,24725
+RJ_Baran,7,117142,39600
+RJ_Barmer,1,18820,344
+RJ_Barmer,2,73182,13622
+RJ_Barmer,3,279134,31526
+RJ_Barmer,4,66687,52509
+RJ_Barmer,5,142451,20818
+RJ_Barmer,6,238231,63037
+RJ_Barmer,7,201339,115712
+RJ_Bharatpur,1,16087,364
+RJ_Bharatpur,2,67221,11035
+RJ_Bharatpur,3,230676,21293
+RJ_Bharatpur,4,102242,42284
+RJ_Bharatpur,5,135031,12106
+RJ_Bharatpur,6,189743,61235
+RJ_Bharatpur,7,239122,101459
+RJ_Bhilwara,1,23204,694
+RJ_Bhilwara,2,60526,17588
+RJ_Bhilwara,3,257218,23671
+RJ_Bhilwara,4,80857,40616
+RJ_Bhilwara,5,205861,7342
+RJ_Bhilwara,6,167389,66546
+RJ_Bhilwara,7,184023,132132
+RJ_Bikaner,1,20946,173
+RJ_Bikaner,2,64329,14304
+RJ_Bikaner,3,230481,44289
+RJ_Bikaner,4,156117,86421
+RJ_Bikaner,5,155140,15152
+RJ_Bikaner,6,207908,54730
+RJ_Bikaner,7,188196,152134
+RJ_Bundi,1,11764,562
+RJ_Bundi,2,49900,9258
+RJ_Bundi,3,150078,21505
+RJ_Bundi,4,49204,46982
+RJ_Bundi,5,53493,1938
+RJ_Bundi,6,81586,20406
+RJ_Bundi,7,99985,62663
+RJ_Chittorgarh,1,16690,55
+RJ_Chittorgarh,2,54426,14198
+RJ_Chittorgarh,3,186188,22248
+RJ_Chittorgarh,4,42585,34815
+RJ_Chittorgarh,5,105694,3509
+RJ_Chittorgarh,6,97601,41463
+RJ_Chittorgarh,7,162897,75547
+RJ_Churu,1,13022,432
+RJ_Churu,2,59460,10444
+RJ_Churu,3,169472,30762
+RJ_Churu,4,62691,39740
+RJ_Churu,5,114425,7383
+RJ_Churu,6,167743,44207
+RJ_Churu,7,235452,113435
+RJ_Dausa,1,9292,228
+RJ_Dausa,2,32269,6694
+RJ_Dausa,3,114961,12993
+RJ_Dausa,4,51413,29076
+RJ_Dausa,5,114031,8140
+RJ_Dausa,6,161808,32189
+RJ_Dausa,7,198788,53200
+RJ_Dholpur,1,8743,459
+RJ_Dholpur,2,33421,6005
+RJ_Dholpur,3,130788,15272
+RJ_Dholpur,4,47508,33420
+RJ_Dholpur,5,65773,2873
+RJ_Dholpur,6,109247,15249
+RJ_Dholpur,7,100099,54280
+RJ_Dungarpur,1,11981,383
+RJ_Dungarpur,2,28993,8901
+RJ_Dungarpur,3,128873,21733
+RJ_Dungarpur,4,24137,22103
+RJ_Dungarpur,5,86115,4254
+RJ_Dungarpur,6,111890,34407
+RJ_Dungarpur,7,153394,49054
+RJ_Hanumangarh,1,9807,442
+RJ_Hanumangarh,2,29872,6490
+RJ_Hanumangarh,3,141823,5858
+RJ_Hanumangarh,4,84501,30389
+RJ_Hanumangarh,5,132620,5495
+RJ_Hanumangarh,6,150339,49315
+RJ_Hanumangarh,7,200490,131320
+RJ_Jaipur,1,46339,450
+RJ_Jaipur,2,92643,29910
+RJ_Jaipur,3,377818,44099
+RJ_Jaipur,4,309660,112890
+RJ_Jaipur,5,314423,53060
+RJ_Jaipur,6,347105,100298
+RJ_Jaipur,7,271020,262872
+RJ_Jaisalmer,1,10358,123
+RJ_Jaisalmer,2,16008,7783
+RJ_Jaisalmer,3,54825,10997
+RJ_Jaisalmer,4,20792,16107
+RJ_Jaisalmer,5,59064,3982
+RJ_Jaisalmer,6,61757,14416
+RJ_Jaisalmer,7,60104,26860
+RJ_Jalore,1,11848,266
+RJ_Jalore,2,60982,8760
+RJ_Jalore,3,133774,20809
+RJ_Jalore,4,39852,33423
+RJ_Jalore,5,92035,7713
+RJ_Jalore,6,176977,49989
+RJ_Jalore,7,206851,55950
+RJ_Jhalawar,1,14881,394
+RJ_Jhalawar,2,76468,9640
+RJ_Jhalawar,3,108603,22560
+RJ_Jhalawar,4,30726,21585
+RJ_Jhalawar,5,73309,7739
+RJ_Jhalawar,6,155361,29279
+RJ_Jhalawar,7,178164,56133
+RJ_Jhunjhunu,1,15848,269
+RJ_Jhunjhunu,2,97251,11511
+RJ_Jhunjhunu,3,198678,23270
+RJ_Jhunjhunu,4,130334,84661
+RJ_Jhunjhunu,5,105918,8430
+RJ_Jhunjhunu,6,162111,65481
+RJ_Jhunjhunu,7,271817,164181
+RJ_Jodhpur,1,41261,1341
+RJ_Jodhpur,2,86334,31641
+RJ_Jodhpur,3,341364,44022
+RJ_Jodhpur,4,166662,91642
+RJ_Jodhpur,5,281005,20863
+RJ_Jodhpur,6,291775,142616
+RJ_Jodhpur,7,334822,228809
+RJ_Karauli,1,10068,318
+RJ_Karauli,2,41305,7299
+RJ_Karauli,3,149853,14775
+RJ_Karauli,4,41291,24611
+RJ_Karauli,5,73794,3752
+RJ_Karauli,6,128606,32509
+RJ_Karauli,7,149531,61746
+RJ_Kota,1,24628,422
+RJ_Kota,2,41042,18012
+RJ_Kota,3,250232,23223
+RJ_Kota,4,117895,49389
+RJ_Kota,5,132203,6632
+RJ_Kota,6,113641,56136
+RJ_Kota,7,234157,179654
+RJ_Nagaur,1,25699,948
+RJ_Nagaur,2,132493,20135
+RJ_Nagaur,3,455018,67736
+RJ_Nagaur,4,105216,112841
+RJ_Nagaur,5,141861,10319
+RJ_Nagaur,6,248983,106785
+RJ_Nagaur,7,263716,242885
+RJ_Pali,1,17007,289
+RJ_Pali,2,58147,12242
+RJ_Pali,3,188912,26566
+RJ_Pali,4,103847,54908
+RJ_Pali,5,104027,9214
+RJ_Pali,6,170786,36883
+RJ_Pali,7,187249,127129
+RJ_Pratapgarh,1,7576,170
+RJ_Pratapgarh,2,19159,5007
+RJ_Pratapgarh,3,53360,9698
+RJ_Pratapgarh,4,28793,12467
+RJ_Pratapgarh,5,102856,3638
+RJ_Pratapgarh,6,68308,10618
+RJ_Pratapgarh,7,108927,39513
+RJ_Rajsamand,1,12087,0
+RJ_Rajsamand,2,34283,9803
+RJ_Rajsamand,3,126483,19532
+RJ_Rajsamand,4,36401,29362
+RJ_Rajsamand,5,75015,2823
+RJ_Rajsamand,6,87358,17016
+RJ_Rajsamand,7,107698,36993
+RJ_Sawai Madhopur,1,9980,348
+RJ_Sawai Madhopur,2,30844,7300
+RJ_Sawai Madhopur,3,116395,16183
+RJ_Sawai Madhopur,4,48392,26331
+RJ_Sawai Madhopur,5,87641,5359
+RJ_Sawai Madhopur,6,121788,23229
+RJ_Sawai Madhopur,7,131124,64404
+RJ_Sikar,1,16860,304
+RJ_Sikar,2,80132,12832
+RJ_Sikar,3,243169,17894
+RJ_Sikar,4,153717,65221
+RJ_Sikar,5,165808,13749
+RJ_Sikar,6,247980,129966
+RJ_Sikar,7,271525,204755
+RJ_Sirohi,1,7436,310
+RJ_Sirohi,2,25981,5709
+RJ_Sirohi,3,112710,7221
+RJ_Sirohi,4,23719,21982
+RJ_Sirohi,5,63419,5765
+RJ_Sirohi,6,92553,41679
+RJ_Sirohi,7,107734,60954
+RJ_Ganganagar,1,18732,305
+RJ_Ganganagar,2,53572,13574
+RJ_Ganganagar,3,171365,33970
+RJ_Ganganagar,4,102645,40845
+RJ_Ganganagar,5,110656,9629
+RJ_Ganganagar,6,119393,38411
+RJ_Ganganagar,7,195635,136031
+RJ_Tonk,1,13112,279
+RJ_Tonk,2,31931,9008
+RJ_Tonk,3,98515,12373
+RJ_Tonk,4,53491,21838
+RJ_Tonk,5,104002,13122
+RJ_Tonk,6,161660,42474
+RJ_Tonk,7,157546,71157
+RJ_Udaipur,1,39682,54
+RJ_Udaipur,2,58991,28458
+RJ_Udaipur,3,292682,38335
+RJ_Udaipur,4,98807,55565
+RJ_Udaipur,5,248131,22820
+RJ_Udaipur,6,198199,85286
+RJ_Udaipur,7,270184,145470
+SK_East Sikkim,1,4950,157
+SK_East Sikkim,2,11699,4261
+SK_East Sikkim,3,46741,5498
+SK_East Sikkim,4,17989,18838
+SK_East Sikkim,5,39908,174
+SK_East Sikkim,6,99979,35690
+SK_East Sikkim,7,31494,16781
+SK_North Sikkim,1,904,0
+SK_North Sikkim,2,2674,776
+SK_North Sikkim,3,5845,1403
+SK_North Sikkim,4,1215,2360
+SK_North Sikkim,5,6790,5
+SK_North Sikkim,6,13509,4232
+SK_North Sikkim,7,852,859
+SK_South Sikkim,1,1324,0
+SK_South Sikkim,2,11989,1290
+SK_South Sikkim,3,22142,2691
+SK_South Sikkim,4,4258,10601
+SK_South Sikkim,5,27182,52
+SK_South Sikkim,6,45125,19413
+SK_South Sikkim,7,4862,2630
+SK_West Sikkim,1,1664,0
+SK_West Sikkim,2,6550,1376
+SK_West Sikkim,3,19001,2299
+SK_West Sikkim,4,7610,8044
+SK_West Sikkim,5,17043,25
+SK_West Sikkim,6,45545,15148
+SK_West Sikkim,7,2589,5090
+TN_Pudukkottai,1,1152,19
+TN_Pudukkottai,2,5979,873
+TN_Pudukkottai,3,15423,1062
+TN_Pudukkottai,4,8812,6828
+TN_Pudukkottai,5,33902,1284
+TN_Pudukkottai,6,62003,6935
+TN_Pudukkottai,7,75480,9863
+TN_Ariyalur,1,3420,5
+TN_Ariyalur,2,6641,2165
+TN_Ariyalur,3,15648,3041
+TN_Ariyalur,4,15887,7067
+TN_Ariyalur,5,37752,2142
+TN_Ariyalur,6,63158,9814
+TN_Ariyalur,7,45318,10716
+TN_Salem,1,3708,6
+TN_Salem,2,32951,2667
+TN_Salem,3,63866,11878
+TN_Salem,4,22090,23851
+TN_Salem,5,43030,3206
+TN_Salem,6,62298,12746
+TN_Salem,7,64115,24721
+TN_Chengalpattu,1,6683,22
+TN_Chengalpattu,2,34410,4036
+TN_Chengalpattu,3,122055,16360
+TN_Chengalpattu,4,59492,58564
+TN_Chengalpattu,5,149727,9086
+TN_Chengalpattu,6,176217,50314
+TN_Chengalpattu,7,186696,59706
+TN_Chennai,1,29177,264
+TN_Chennai,2,205111,20541
+TN_Chennai,3,707255,117283
+TN_Chennai,4,258174,394707
+TN_Chennai,5,720273,63741
+TN_Chennai,6,680209,281758
+TN_Chennai,7,619779,331218
+TN_Tiruvannamalai,1,1358,31
+TN_Tiruvannamalai,2,5692,904
+TN_Tiruvannamalai,3,14077,2228
+TN_Tiruvannamalai,4,5574,6961
+TN_Tiruvannamalai,5,42147,2428
+TN_Tiruvannamalai,6,73744,6345
+TN_Tiruvannamalai,7,103676,11234
+TN_Coimbatore,1,8313,17
+TN_Coimbatore,2,65176,8639
+TN_Coimbatore,3,208850,27631
+TN_Coimbatore,4,79591,76555
+TN_Coimbatore,5,284400,23152
+TN_Coimbatore,6,453958,80776
+TN_Coimbatore,7,498405,158928
+TN_Cuddalore,1,3332,34
+TN_Cuddalore,2,25202,2253
+TN_Cuddalore,3,67321,9294
+TN_Cuddalore,4,32230,35587
+TN_Cuddalore,5,94432,8361
+TN_Cuddalore,6,168498,23177
+TN_Cuddalore,7,197645,37770
+TN_Dharmapuri,1,6170,31
+TN_Dharmapuri,2,20485,3704
+TN_Dharmapuri,3,32252,5144
+TN_Dharmapuri,4,19641,16881
+TN_Dharmapuri,5,71857,3584
+TN_Dharmapuri,6,133839,16912
+TN_Dharmapuri,7,142822,23520
+TN_Dindigul,1,3178,51
+TN_Dindigul,2,15709,1880
+TN_Dindigul,3,34847,5959
+TN_Dindigul,4,13416,16746
+TN_Dindigul,5,57955,3373
+TN_Dindigul,6,99913,13190
+TN_Dindigul,7,98452,24357
+TN_Erode,1,4662,70
+TN_Erode,2,18866,1871
+TN_Erode,3,66092,7817
+TN_Erode,4,37343,34192
+TN_Erode,5,126621,6448
+TN_Erode,6,230838,29953
+TN_Erode,7,262843,51085
+TN_Kallakurichi,1,3438,26
+TN_Kallakurichi,2,10892,1603
+TN_Kallakurichi,3,22231,4199
+TN_Kallakurichi,4,12942,11504
+TN_Kallakurichi,5,58974,2055
+TN_Kallakurichi,6,104598,11451
+TN_Kallakurichi,7,105386,15121
+TN_Kancheepuram,1,3804,43
+TN_Kancheepuram,2,11405,2638
+TN_Kancheepuram,3,29004,4836
+TN_Kancheepuram,4,16192,13175
+TN_Kancheepuram,5,74288,3201
+TN_Kancheepuram,6,84090,9555
+TN_Kancheepuram,7,89896,13733
+TN_Kanyakumari,1,3651,46
+TN_Kanyakumari,2,20811,2522
+TN_Kanyakumari,3,55141,8023
+TN_Kanyakumari,4,19244,28850
+TN_Kanyakumari,5,107355,6814
+TN_Kanyakumari,6,144946,27132
+TN_Kanyakumari,7,217993,45115
+TN_Karur,1,4228,44
+TN_Karur,2,10197,2394
+TN_Karur,3,26610,3982
+TN_Karur,4,14742,14162
+TN_Karur,5,68195,2653
+TN_Karur,6,95371,12843
+TN_Karur,7,93475,18553
+TN_Thoothukkudi,1,1152,141
+TN_Thoothukkudi,2,5075,739
+TN_Thoothukkudi,3,18802,3559
+TN_Thoothukkudi,4,6993,7421
+TN_Thoothukkudi,5,40979,1178
+TN_Thoothukkudi,6,69410,11348
+TN_Thoothukkudi,7,59457,12532
+TN_Krishnagiri,1,7386,32
+TN_Krishnagiri,2,35874,4434
+TN_Krishnagiri,3,51282,7703
+TN_Krishnagiri,4,28282,26616
+TN_Krishnagiri,5,116291,6881
+TN_Krishnagiri,6,184137,25120
+TN_Krishnagiri,7,182114,38880
+TN_Madurai,1,10874,97
+TN_Madurai,2,38999,5540
+TN_Madurai,3,107315,17917
+TN_Madurai,4,41206,53935
+TN_Madurai,5,165989,9911
+TN_Madurai,6,218209,51725
+TN_Madurai,7,210685,52156
+TN_Nagapattinam,1,1784,14
+TN_Nagapattinam,2,13185,988
+TN_Nagapattinam,3,22499,4932
+TN_Nagapattinam,4,12795,14963
+TN_Nagapattinam,5,82515,2079
+TN_Nagapattinam,6,129056,12836
+TN_Nagapattinam,7,143506,24115
+TN_Namakkal,1,4839,66
+TN_Namakkal,2,30234,2560
+TN_Namakkal,3,69552,7107
+TN_Namakkal,4,27360,37462
+TN_Namakkal,5,99418,8838
+TN_Namakkal,6,155343,24586
+TN_Namakkal,7,176608,39968
+TN_Nilgiris,1,4724,8
+TN_Nilgiris,2,23010,3099
+TN_Nilgiris,3,60839,9088
+TN_Nilgiris,4,35709,33332
+TN_Nilgiris,5,51392,5576
+TN_Nilgiris,6,111656,15495
+TN_Nilgiris,7,110695,38442
+TN_Ramanathapuram,1,1464,95
+TN_Ramanathapuram,2,5179,1009
+TN_Ramanathapuram,3,19830,1791
+TN_Ramanathapuram,4,11337,6692
+TN_Ramanathapuram,5,31933,1260
+TN_Ramanathapuram,6,66471,11650
+TN_Ramanathapuram,7,61743,11406
+TN_Perambalur,1,2601,136
+TN_Perambalur,2,8323,1537
+TN_Perambalur,3,14387,2124
+TN_Perambalur,4,6159,6468
+TN_Perambalur,5,32139,1359
+TN_Perambalur,6,64922,8259
+TN_Perambalur,7,46294,11764
+TN_Thiruvallur,1,1411,52
+TN_Thiruvallur,2,6928,1206
+TN_Thiruvallur,3,26953,5162
+TN_Thiruvallur,4,15643,12509
+TN_Thiruvallur,5,41552,1473
+TN_Thiruvallur,6,64734,13087
+TN_Thiruvallur,7,67431,19306
+TN_Ranipet,1,1585,34
+TN_Ranipet,2,9107,651
+TN_Ranipet,3,24615,2498
+TN_Ranipet,4,12268,10108
+TN_Ranipet,5,53603,4484
+TN_Ranipet,6,85846,12563
+TN_Ranipet,7,68192,14751
+TN_Sivaganga,1,6293,15
+TN_Sivaganga,2,11457,2521
+TN_Sivaganga,3,26329,4831
+TN_Sivaganga,4,17109,13073
+TN_Sivaganga,5,64940,5030
+TN_Sivaganga,6,113537,11209
+TN_Sivaganga,7,129482,21105
+TN_Virudhunagar,1,2914,15
+TN_Virudhunagar,2,16439,1435
+TN_Virudhunagar,3,44436,6384
+TN_Virudhunagar,4,23793,24736
+TN_Virudhunagar,5,55878,1558
+TN_Virudhunagar,6,84948,13747
+TN_Virudhunagar,7,104234,18982
+TN_Tenkasi,1,1499,22
+TN_Tenkasi,2,11733,815
+TN_Tenkasi,3,27739,5884
+TN_Tenkasi,4,12042,13046
+TN_Tenkasi,5,70246,3115
+TN_Tenkasi,6,96051,14774
+TN_Tenkasi,7,104572,17737
+TN_Thanjavur,1,6356,123
+TN_Thanjavur,2,27411,4538
+TN_Thanjavur,3,56156,12788
+TN_Thanjavur,4,29852,28155
+TN_Thanjavur,5,101524,5151
+TN_Thanjavur,6,194652,21641
+TN_Thanjavur,7,182181,31481
+TN_Theni,1,2576,33
+TN_Theni,2,8878,1757
+TN_Theni,3,29354,3646
+TN_Theni,4,10686,12812
+TN_Theni,5,74869,3780
+TN_Theni,6,106676,11773
+TN_Theni,7,93878,19702
+TN_Tiruchirappalli,1,7500,76
+TN_Tiruchirappalli,2,27278,4406
+TN_Tiruchirappalli,3,109164,16492
+TN_Tiruchirappalli,4,47269,42349
+TN_Tiruchirappalli,5,177779,6806
+TN_Tiruchirappalli,6,217345,52164
+TN_Tiruchirappalli,7,218686,60839
+TN_Tirunelveli,1,3351,32
+TN_Tirunelveli,2,12081,2115
+TN_Tirunelveli,3,32644,6196
+TN_Tirunelveli,4,16955,17951
+TN_Tirunelveli,5,92319,5273
+TN_Tirunelveli,6,118184,20252
+TN_Tirunelveli,7,102918,20861
+TN_Tirupathur,1,2155,76
+TN_Tirupathur,2,12415,1213
+TN_Tirupathur,3,36577,5201
+TN_Tirupathur,4,11138,12202
+TN_Tirupathur,5,68806,4122
+TN_Tirupathur,6,76080,17553
+TN_Tirupathur,7,73738,17519
+TN_Tiruppur,1,5399,32
+TN_Tiruppur,2,18557,3057
+TN_Tiruppur,3,73576,6560
+TN_Tiruppur,4,24892,29502
+TN_Tiruppur,5,155752,7570
+TN_Tiruppur,6,226293,43029
+TN_Tiruppur,7,268398,43487
+TN_Thiruvarur,1,1832,22
+TN_Thiruvarur,2,7589,1178
+TN_Thiruvarur,3,17889,2840
+TN_Thiruvarur,4,10737,10915
+TN_Thiruvarur,5,74649,2680
+TN_Thiruvarur,6,116820,12480
+TN_Thiruvarur,7,107720,16013
+TN_Vellore,1,9602,31
+TN_Vellore,2,24217,4427
+TN_Vellore,3,81652,12778
+TN_Vellore,4,24828,28154
+TN_Vellore,5,65126,14457
+TN_Vellore,6,108910,32497
+TN_Vellore,7,94124,29810
+TN_Viluppuram,1,6128,24
+TN_Viluppuram,2,29525,2058
+TN_Viluppuram,3,44665,5558
+TN_Viluppuram,4,19819,21841
+TN_Viluppuram,5,74903,6982
+TN_Viluppuram,6,120826,15243
+TN_Viluppuram,7,145259,19560
+TG_Adilabad,1,4925,1189
+TG_Adilabad,2,2498,2119
+TG_Adilabad,3,24481,1926
+TG_Adilabad,4,18316,7986
+TG_Adilabad,5,13107,3387
+TG_Adilabad,6,30043,4883
+TG_Adilabad,7,10957,13170
+TG_Bhadradri Kothagudem,1,11396,2482
+TG_Bhadradri Kothagudem,2,6227,9673
+TG_Bhadradri Kothagudem,3,41496,3506
+TG_Bhadradri Kothagudem,4,55616,18785
+TG_Bhadradri Kothagudem,5,34737,8565
+TG_Bhadradri Kothagudem,6,74810,9251
+TG_Bhadradri Kothagudem,7,50047,28947
+TG_Hyderabad,1,54507,2271
+TG_Hyderabad,2,61471,39210
+TG_Hyderabad,3,333167,45091
+TG_Hyderabad,4,215176,154948
+TG_Hyderabad,5,886314,47509
+TG_Hyderabad,6,830861,245260
+TG_Hyderabad,7,192192,379918
+TG_Jagtial,1,5861,1665
+TG_Jagtial,2,3737,4093
+TG_Jagtial,3,45465,2330
+TG_Jagtial,4,68732,16066
+TG_Jagtial,5,31349,8625
+TG_Jagtial,6,47871,11927
+TG_Jagtial,7,13020,49780
+TG_Jangaon,1,2020,914
+TG_Jangaon,2,2787,1298
+TG_Jangaon,3,21218,2079
+TG_Jangaon,4,29569,10782
+TG_Jangaon,5,8789,4109
+TG_Jangaon,6,34247,7386
+TG_Jangaon,7,8103,17164
+TG_Jayashankar Bhupalapally,1,1688,511
+TG_Jayashankar Bhupalapally,2,1341,1548
+TG_Jayashankar Bhupalapally,3,23840,243
+TG_Jayashankar Bhupalapally,4,46838,5251
+TG_Jayashankar Bhupalapally,5,14667,10033
+TG_Jayashankar Bhupalapally,6,25795,1727
+TG_Jayashankar Bhupalapally,7,26941,23658
+TG_Jogulamba Gadwal,1,2699,627
+TG_Jogulamba Gadwal,2,1718,1679
+TG_Jogulamba Gadwal,3,23099,589
+TG_Jogulamba Gadwal,4,22763,6328
+TG_Jogulamba Gadwal,5,9861,877
+TG_Jogulamba Gadwal,6,13054,6888
+TG_Jogulamba Gadwal,7,8908,9542
+TG_Kamareddy,1,5281,1556
+TG_Kamareddy,2,9192,3666
+TG_Kamareddy,3,80334,3808
+TG_Kamareddy,4,48203,23926
+TG_Kamareddy,5,21634,5901
+TG_Kamareddy,6,48821,24168
+TG_Kamareddy,7,13564,30656
+TG_Karimnagar,1,9715,1292
+TG_Karimnagar,2,7678,6893
+TG_Karimnagar,3,53811,2455
+TG_Karimnagar,4,120099,18599
+TG_Karimnagar,5,53697,7063
+TG_Karimnagar,6,90070,12468
+TG_Karimnagar,7,67412,117274
+TG_Khammam,1,9824,1643
+TG_Khammam,2,7056,6733
+TG_Khammam,3,50214,5955
+TG_Khammam,4,50741,25677
+TG_Khammam,5,63310,9013
+TG_Khammam,6,149027,14016
+TG_Khammam,7,103269,42649
+TG_Komaram Bheem,1,3183,1164
+TG_Komaram Bheem,2,1151,1601
+TG_Komaram Bheem,3,17338,385
+TG_Komaram Bheem,4,20210,3006
+TG_Komaram Bheem,5,8047,3172
+TG_Komaram Bheem,6,17179,7216
+TG_Komaram Bheem,7,4190,6736
+TG_Mahabubabad,1,5658,2176
+TG_Mahabubabad,2,3229,3826
+TG_Mahabubabad,3,39709,2017
+TG_Mahabubabad,4,42458,14648
+TG_Mahabubabad,5,14344,7370
+TG_Mahabubabad,6,73660,9135
+TG_Mahabubabad,7,9318,27185
+TG_Mahabubnagar,1,7348,1954
+TG_Mahabubnagar,2,2674,4218
+TG_Mahabubnagar,3,44861,2073
+TG_Mahabubnagar,4,38510,12539
+TG_Mahabubnagar,5,17284,4934
+TG_Mahabubnagar,6,41688,16832
+TG_Mahabubnagar,7,12377,21789
+TG_Mancherial,1,5356,1508
+TG_Mancherial,2,2209,3412
+TG_Mancherial,3,29391,2002
+TG_Mancherial,4,45281,7390
+TG_Mancherial,5,36596,1797
+TG_Mancherial,6,59531,16738
+TG_Mancherial,7,34514,32181
+TG_Medak,1,2703,762
+TG_Medak,2,2748,2174
+TG_Medak,3,42181,1270
+TG_Medak,4,55464,11963
+TG_Medak,5,18621,4488
+TG_Medak,6,42947,11554
+TG_Medak,7,13565,26109
+TG_Medchal Malkajgiri,1,12120,996
+TG_Medchal Malkajgiri,2,34034,8783
+TG_Medchal Malkajgiri,3,208070,15178
+TG_Medchal Malkajgiri,4,125662,95870
+TG_Medchal Malkajgiri,5,370910,27794
+TG_Medchal Malkajgiri,6,634005,153180
+TG_Medchal Malkajgiri,7,202035,241925
+TG_Mulugu,1,2142,730
+TG_Mulugu,2,790,1257
+TG_Mulugu,3,15401,459
+TG_Mulugu,4,34425,2387
+TG_Mulugu,5,5755,7117
+TG_Mulugu,6,23050,3164
+TG_Mulugu,7,14626,14865
+TG_Nagarkurnool,1,3723,858
+TG_Nagarkurnool,2,2401,2325
+TG_Nagarkurnool,3,38492,1543
+TG_Nagarkurnool,4,47491,12083
+TG_Nagarkurnool,5,13395,1350
+TG_Nagarkurnool,6,31984,13315
+TG_Nagarkurnool,7,8441,21954
+TG_Nalgonda,1,8320,2051
+TG_Nalgonda,2,4225,4607
+TG_Nalgonda,3,42127,2956
+TG_Nalgonda,4,63806,19205
+TG_Nalgonda,5,47488,2034
+TG_Nalgonda,6,108158,16497
+TG_Nalgonda,7,67683,34221
+TG_Narayanpet,1,2112,659
+TG_Narayanpet,2,891,1032
+TG_Narayanpet,3,12723,448
+TG_Narayanpet,4,15577,4536
+TG_Narayanpet,5,6826,1481
+TG_Narayanpet,6,15061,3577
+TG_Narayanpet,7,9581,5345
+TG_Nirmal,1,4555,1108
+TG_Nirmal,2,2247,2023
+TG_Nirmal,3,54873,1920
+TG_Nirmal,4,61318,12584
+TG_Nirmal,5,11712,5699
+TG_Nirmal,6,25301,15073
+TG_Nirmal,7,9626,43738
+TG_Nizamabad,1,10174,910
+TG_Nizamabad,2,7264,7471
+TG_Nizamabad,3,68236,2714
+TG_Nizamabad,4,65804,20886
+TG_Nizamabad,5,45834,3247
+TG_Nizamabad,6,81719,31811
+TG_Nizamabad,7,39530,52116
+TG_Peddapalli,1,3667,1138
+TG_Peddapalli,2,2034,2307
+TG_Peddapalli,3,29325,2063
+TG_Peddapalli,4,65138,12967
+TG_Peddapalli,5,53473,5093
+TG_Peddapalli,6,83983,6575
+TG_Peddapalli,7,48565,46957
+TG_Rajanna Sircilla,1,2216,536
+TG_Rajanna Sircilla,2,845,1424
+TG_Rajanna Sircilla,3,21490,167
+TG_Rajanna Sircilla,4,80244,6178
+TG_Rajanna Sircilla,5,15422,5042
+TG_Rajanna Sircilla,6,28197,4707
+TG_Rajanna Sircilla,7,10291,51188
+TG_Ranga Reddy,1,26899,1877
+TG_Ranga Reddy,2,32024,19584
+TG_Ranga Reddy,3,195644,17062
+TG_Ranga Reddy,4,90405,69085
+TG_Ranga Reddy,5,545238,22030
+TG_Ranga Reddy,6,568598,188983
+TG_Ranga Reddy,7,178743,225530
+TG_Sangareddy,1,5967,844
+TG_Sangareddy,2,6343,4111
+TG_Sangareddy,3,63311,4148
+TG_Sangareddy,4,56951,20777
+TG_Sangareddy,5,77529,9849
+TG_Sangareddy,6,111399,26332
+TG_Sangareddy,7,39338,51524
+TG_Siddipet,1,7580,2030
+TG_Siddipet,2,4679,4583
+TG_Siddipet,3,73685,2583
+TG_Siddipet,4,113975,12219
+TG_Siddipet,5,34502,16649
+TG_Siddipet,6,51172,8939
+TG_Siddipet,7,18966,73899
+TG_Suryapet,1,3892,1031
+TG_Suryapet,2,8098,2229
+TG_Suryapet,3,48155,3572
+TG_Suryapet,4,62409,19377
+TG_Suryapet,5,30412,6579
+TG_Suryapet,6,63310,13380
+TG_Suryapet,7,40192,33483
+TG_Vikarabad,1,3565,1076
+TG_Vikarabad,2,2816,2793
+TG_Vikarabad,3,26544,1931
+TG_Vikarabad,4,28275,9410
+TG_Vikarabad,5,16185,816
+TG_Vikarabad,6,34943,9210
+TG_Vikarabad,7,11075,16316
+TG_Wanaparthy,1,2700,769
+TG_Wanaparthy,2,1394,1947
+TG_Wanaparthy,3,20851,856
+TG_Wanaparthy,4,25262,7979
+TG_Wanaparthy,5,11983,945
+TG_Wanaparthy,6,22662,8251
+TG_Wanaparthy,7,6715,13389
+TG_Warangal Rural,1,2999,762
+TG_Warangal Rural,2,1643,2384
+TG_Warangal Rural,3,13256,612
+TG_Warangal Rural,4,34852,5683
+TG_Warangal Rural,5,18404,3263
+TG_Warangal Rural,6,44926,4966
+TG_Warangal Rural,7,27260,16974
+TG_Warangal Urban,1,12211,1408
+TG_Warangal Urban,2,11278,8506
+TG_Warangal Urban,3,65987,6465
+TG_Warangal Urban,4,82378,29999
+TG_Warangal Urban,5,133074,17228
+TG_Warangal Urban,6,129465,28754
+TG_Warangal Urban,7,52043,46863
+TG_Yadadri Bhuvanagiri,1,2670,359
+TG_Yadadri Bhuvanagiri,2,3315,2232
+TG_Yadadri Bhuvanagiri,3,86673,1434
+TG_Yadadri Bhuvanagiri,4,70439,10154
+TG_Yadadri Bhuvanagiri,5,31444,33222
+TG_Yadadri Bhuvanagiri,6,43875,18985
+TG_Yadadri Bhuvanagiri,7,15351,61093
+TR_Dhalai,1,8652,68
+TR_Dhalai,2,8118,6361
+TR_Dhalai,3,50652,5076
+TR_Dhalai,4,21588,33669
+TR_Dhalai,5,21944,597
+TR_Dhalai,6,98907,9448
+TR_Dhalai,7,41145,8525
+TR_Gomati,1,5399,52
+TR_Gomati,2,8386,4187
+TR_Gomati,3,54643,4131
+TR_Gomati,4,22430,38063
+TR_Gomati,5,30064,1859
+TR_Gomati,6,114262,20876
+TR_Gomati,7,35307,8552
+TR_Khowai,1,5025,286
+TR_Khowai,2,5271,4125
+TR_Khowai,3,36483,3069
+TR_Khowai,4,22680,23946
+TR_Khowai,5,5386,218
+TR_Khowai,6,69588,13012
+TR_Khowai,7,45069,14159
+TR_North Tripura,1,5803,375
+TR_North Tripura,2,9012,4432
+TR_North Tripura,3,69968,5745
+TR_North Tripura,4,25736,60911
+TR_North Tripura,5,9203,348
+TR_North Tripura,6,135819,8209
+TR_North Tripura,7,18730,8983
+TR_Sipahijala,1,8723,243
+TR_Sipahijala,2,8097,6132
+TR_Sipahijala,3,84198,4493
+TR_Sipahijala,4,22069,39569
+TR_Sipahijala,5,24306,3231
+TR_Sipahijala,6,132846,34181
+TR_Sipahijala,7,44800,16855
+TR_South Tripura,1,7496,347
+TR_South Tripura,2,18450,7298
+TR_South Tripura,3,78064,14171
+TR_South Tripura,4,25054,62041
+TR_South Tripura,5,44008,166
+TR_South Tripura,6,111299,7240
+TR_South Tripura,7,13033,11412
+TR_Unokoti,1,3143,90
+TR_Unokoti,2,3478,2267
+TR_Unokoti,3,43000,2336
+TR_Unokoti,4,14592,21048
+TR_Unokoti,5,5274,127
+TR_Unokoti,6,70328,14006
+TR_Unokoti,7,29099,8459
+TR_West Tripura,1,22823,49
+TR_West Tripura,2,20590,18200
+TR_West Tripura,3,190827,12520
+TR_West Tripura,4,75294,121467
+TR_West Tripura,5,87830,9145
+TR_West Tripura,6,190822,60533
+TR_West Tripura,7,71510,63776
+UP_Agra,1,18512,337
+UP_Agra,2,33699,12226
+UP_Agra,3,145842,25099
+UP_Agra,4,76166,45676
+UP_Agra,5,274810,10286
+UP_Agra,6,308186,59310
+UP_Agra,7,359905,80457
+UP_Aligarh,1,14143,251
+UP_Aligarh,2,25656,9933
+UP_Aligarh,3,96587,18457
+UP_Aligarh,4,54921,29624
+UP_Aligarh,5,185785,12270
+UP_Aligarh,6,179673,42756
+UP_Aligarh,7,281515,45767
+UP_Ambedkar Nagar,1,11292,182
+UP_Ambedkar Nagar,2,12578,7164
+UP_Ambedkar Nagar,3,59467,7060
+UP_Ambedkar Nagar,4,19685,16114
+UP_Ambedkar Nagar,5,64958,6281
+UP_Ambedkar Nagar,6,161035,27026
+UP_Ambedkar Nagar,7,202631,17072
+UP_Amethi,1,9090,278
+UP_Amethi,2,14342,6706
+UP_Amethi,3,75695,12454
+UP_Amethi,4,18504,16573
+UP_Amethi,5,60182,4309
+UP_Amethi,6,133433,17977
+UP_Amethi,7,185437,42518
+UP_Amroha,1,7713,253
+UP_Amroha,2,7206,4219
+UP_Amroha,3,50530,6521
+UP_Amroha,4,17342,12066
+UP_Amroha,5,63908,6861
+UP_Amroha,6,117921,18975
+UP_Amroha,7,152040,20463
+UP_Auraiya,1,6749,252
+UP_Auraiya,2,10145,4562
+UP_Auraiya,3,37159,11080
+UP_Auraiya,4,8575,8593
+UP_Auraiya,5,40707,1835
+UP_Auraiya,6,84050,15842
+UP_Auraiya,7,131623,9682
+UP_Ayodhya,1,14349,278
+UP_Ayodhya,2,11658,9996
+UP_Ayodhya,3,59338,13651
+UP_Ayodhya,4,37441,16783
+UP_Ayodhya,5,113235,6706
+UP_Ayodhya,6,165214,25517
+UP_Ayodhya,7,185472,38746
+UP_Azamgarh,1,16984,270
+UP_Azamgarh,2,22417,11112
+UP_Azamgarh,3,111715,13215
+UP_Azamgarh,4,34152,23486
+UP_Azamgarh,5,196205,11408
+UP_Azamgarh,6,307758,51473
+UP_Azamgarh,7,388043,53422
+UP_Budaun,1,12977,336
+UP_Budaun,2,18322,9059
+UP_Budaun,3,111746,8513
+UP_Budaun,4,32369,21961
+UP_Budaun,5,51878,4738
+UP_Budaun,6,122582,23545
+UP_Budaun,7,221187,32022
+UP_Baghpat,1,6484,271
+UP_Baghpat,2,9441,4406
+UP_Baghpat,3,74528,4603
+UP_Baghpat,4,28568,19378
+UP_Baghpat,5,110427,4733
+UP_Baghpat,6,131150,25108
+UP_Baghpat,7,120902,32603
+UP_Bahraich,1,12764,278
+UP_Bahraich,2,35221,10053
+UP_Bahraich,3,137067,16296
+UP_Bahraich,4,27010,35322
+UP_Bahraich,5,146651,7054
+UP_Bahraich,6,310945,29965
+UP_Bahraich,7,292809,34669
+UP_Balrampur,1,11556,260
+UP_Balrampur,2,22814,8751
+UP_Balrampur,3,98725,6853
+UP_Balrampur,4,33533,26918
+UP_Balrampur,5,73331,10622
+UP_Balrampur,6,137274,28439
+UP_Balrampur,7,191320,30524
+UP_Ballia,1,9660,208
+UP_Ballia,2,17053,6916
+UP_Ballia,3,80599,13758
+UP_Ballia,4,41123,23656
+UP_Ballia,5,60758,8605
+UP_Ballia,6,128689,29971
+UP_Ballia,7,228186,35888
+UP_Banda,1,7538,210
+UP_Banda,2,8901,4874
+UP_Banda,3,59745,7773
+UP_Banda,4,11099,8929
+UP_Banda,5,70634,1561
+UP_Banda,6,117482,12488
+UP_Banda,7,159762,16071
+UP_Barabanki,1,18810,277
+UP_Barabanki,2,19241,14473
+UP_Barabanki,3,72323,11300
+UP_Barabanki,4,27064,19198
+UP_Barabanki,5,152486,7356
+UP_Barabanki,6,242662,23721
+UP_Barabanki,7,256461,23915
+UP_Bareilly,1,26745,469
+UP_Bareilly,2,26319,18371
+UP_Bareilly,3,151424,20770
+UP_Bareilly,4,94819,41320
+UP_Bareilly,5,238136,22545
+UP_Bareilly,6,252457,53160
+UP_Bareilly,7,323664,72648
+UP_Basti,1,13637,281
+UP_Basti,2,14685,8693
+UP_Basti,3,109412,13313
+UP_Basti,4,18989,15207
+UP_Basti,5,130241,1772
+UP_Basti,6,189342,33058
+UP_Basti,7,216389,31128
+UP_Bhadohi,1,5555,189
+UP_Bhadohi,2,7920,3693
+UP_Bhadohi,3,61676,2932
+UP_Bhadohi,4,23116,19132
+UP_Bhadohi,5,58196,4462
+UP_Bhadohi,6,111990,16402
+UP_Bhadohi,7,135440,19514
+UP_Bijnor,1,15778,259
+UP_Bijnor,2,19471,10731
+UP_Bijnor,3,105711,24755
+UP_Bijnor,4,34811,23062
+UP_Bijnor,5,141062,8971
+UP_Bijnor,6,270993,42308
+UP_Bijnor,7,323015,46157
+UP_Bulandshahr,1,16931,233
+UP_Bulandshahr,2,29171,10715
+UP_Bulandshahr,3,100739,22895
+UP_Bulandshahr,4,46819,33249
+UP_Bulandshahr,5,217296,12968
+UP_Bulandshahr,6,315839,44136
+UP_Bulandshahr,7,331152,45284
+UP_Chandauli,1,6962,96
+UP_Chandauli,2,13437,4903
+UP_Chandauli,3,55833,7404
+UP_Chandauli,4,22745,12586
+UP_Chandauli,5,55087,4220
+UP_Chandauli,6,111459,15878
+UP_Chandauli,7,167187,16091
+UP_Chitrakoot,1,3679,119
+UP_Chitrakoot,2,5534,2138
+UP_Chitrakoot,3,30878,4302
+UP_Chitrakoot,4,7356,4038
+UP_Chitrakoot,5,26143,496
+UP_Chitrakoot,6,84719,5672
+UP_Chitrakoot,7,112139,8081
+UP_Deoria,1,13222,261
+UP_Deoria,2,20091,9852
+UP_Deoria,3,93092,11663
+UP_Deoria,4,36545,25977
+UP_Deoria,5,79291,6352
+UP_Deoria,6,187620,34497
+UP_Deoria,7,245264,47395
+UP_Etah,1,7336,240
+UP_Etah,2,10860,4580
+UP_Etah,3,42101,6625
+UP_Etah,4,14376,8986
+UP_Etah,5,41354,1800
+UP_Etah,6,101762,14497
+UP_Etah,7,150775,17540
+UP_Etawah,1,10970,137
+UP_Etawah,2,11780,7137
+UP_Etawah,3,54733,10659
+UP_Etawah,4,12411,11534
+UP_Etawah,5,49649,4027
+UP_Etawah,6,100546,15523
+UP_Etawah,7,138650,15500
+UP_Farrukhabad,1,6580,135
+UP_Farrukhabad,2,15034,3404
+UP_Farrukhabad,3,55233,14213
+UP_Farrukhabad,4,15430,18457
+UP_Farrukhabad,5,50871,3680
+UP_Farrukhabad,6,101006,11053
+UP_Farrukhabad,7,158669,15793
+UP_Fatehpur,1,11610,260
+UP_Fatehpur,2,19507,8836
+UP_Fatehpur,3,77003,14699
+UP_Fatehpur,4,17567,13940
+UP_Fatehpur,5,49129,6407
+UP_Fatehpur,6,163572,23566
+UP_Fatehpur,7,269899,32869
+UP_Firozabad,1,9139,161
+UP_Firozabad,2,16459,4363
+UP_Firozabad,3,74020,11633
+UP_Firozabad,4,38465,15368
+UP_Firozabad,5,84778,6093
+UP_Firozabad,6,120648,20068
+UP_Firozabad,7,215459,31305
+UP_Gautam Buddha Nagar,1,22572,265
+UP_Gautam Buddha Nagar,2,27881,14433
+UP_Gautam Buddha Nagar,3,175580,19115
+UP_Gautam Buddha Nagar,4,103151,61222
+UP_Gautam Buddha Nagar,5,480064,17009
+UP_Gautam Buddha Nagar,6,371364,114277
+UP_Gautam Buddha Nagar,7,276033,143167
+UP_Ghaziabad,1,22572,253
+UP_Ghaziabad,2,28332,15360
+UP_Ghaziabad,3,182421,22392
+UP_Ghaziabad,4,98661,50529
+UP_Ghaziabad,5,340716,24432
+UP_Ghaziabad,6,345338,106065
+UP_Ghaziabad,7,382425,108699
+UP_Ghazipur,1,12952,276
+UP_Ghazipur,2,23390,8976
+UP_Ghazipur,3,77909,10756
+UP_Ghazipur,4,28462,23666
+UP_Ghazipur,5,150779,9254
+UP_Ghazipur,6,240751,32483
+UP_Ghazipur,7,350715,31201
+UP_Gonda,1,15665,379
+UP_Gonda,2,22649,10739
+UP_Gonda,3,89253,8504
+UP_Gonda,4,44185,22514
+UP_Gonda,5,241826,13576
+UP_Gonda,6,288005,33780
+UP_Gonda,7,324100,43586
+UP_Gorakhpur,1,22393,234
+UP_Gorakhpur,2,40505,15473
+UP_Gorakhpur,3,143675,14754
+UP_Gorakhpur,4,98529,46500
+UP_Gorakhpur,5,256487,26722
+UP_Gorakhpur,6,359337,70649
+UP_Gorakhpur,7,362916,86603
+UP_Hamirpur,1,6418,206
+UP_Hamirpur,2,4419,4795
+UP_Hamirpur,3,58040,4315
+UP_Hamirpur,4,12511,8374
+UP_Hamirpur,5,47282,2499
+UP_Hamirpur,6,92921,13457
+UP_Hamirpur,7,103589,16515
+UP_Hapur,1,6797,238
+UP_Hapur,2,7846,5109
+UP_Hapur,3,50622,5573
+UP_Hapur,4,19974,12623
+UP_Hapur,5,60942,4016
+UP_Hapur,6,104788,24165
+UP_Hapur,7,125958,21370
+UP_Hardoi,1,15338,239
+UP_Hardoi,2,21045,10599
+UP_Hardoi,3,88211,16698
+UP_Hardoi,4,23665,16787
+UP_Hardoi,5,77293,6006
+UP_Hardoi,6,286731,23951
+UP_Hardoi,7,371994,31124
+UP_Hathras,1,7060,207
+UP_Hathras,2,8123,3829
+UP_Hathras,3,64734,6347
+UP_Hathras,4,19851,14380
+UP_Hathras,5,49471,3075
+UP_Hathras,6,102566,20001
+UP_Hathras,7,153449,22386
+UP_Jalaun,1,7230,152
+UP_Jalaun,2,10957,4458
+UP_Jalaun,3,62460,5664
+UP_Jalaun,4,16248,11587
+UP_Jalaun,5,83747,1857
+UP_Jalaun,6,128358,20942
+UP_Jalaun,7,131724,22589
+UP_Jaunpur,1,15816,268
+UP_Jaunpur,2,28599,12347
+UP_Jaunpur,3,140908,9474
+UP_Jaunpur,4,52855,46322
+UP_Jaunpur,5,88177,11462
+UP_Jaunpur,6,282049,46551
+UP_Jaunpur,7,394234,58905
+UP_Jhansi,1,13768,352
+UP_Jhansi,2,15822,9284
+UP_Jhansi,3,60425,11810
+UP_Jhansi,4,33628,21229
+UP_Jhansi,5,127393,3222
+UP_Jhansi,6,139760,39654
+UP_Jhansi,7,200436,33860
+UP_Kannauj,1,7542,348
+UP_Kannauj,2,8318,5084
+UP_Kannauj,3,40525,7900
+UP_Kannauj,4,6032,6564
+UP_Kannauj,5,56522,1177
+UP_Kannauj,6,130527,10981
+UP_Kannauj,7,154010,9904
+UP_Kanpur Dehat,1,8281,229
+UP_Kanpur Dehat,2,13034,5411
+UP_Kanpur Dehat,3,61159,9592
+UP_Kanpur Dehat,4,12060,12045
+UP_Kanpur Dehat,5,58206,2975
+UP_Kanpur Dehat,6,103573,15295
+UP_Kanpur Dehat,7,159374,14227
+UP_Kanpur Nagar,1,21030,411
+UP_Kanpur Nagar,2,32853,12415
+UP_Kanpur Nagar,3,179819,29095
+UP_Kanpur Nagar,4,117259,50092
+UP_Kanpur Nagar,5,272384,25870
+UP_Kanpur Nagar,6,240036,83406
+UP_Kanpur Nagar,7,316388,92498
+UP_Kasganj,1,6098,297
+UP_Kasganj,2,8168,4209
+UP_Kasganj,3,41155,7568
+UP_Kasganj,4,8008,6337
+UP_Kasganj,5,26580,2348
+UP_Kasganj,6,80325,10217
+UP_Kasganj,7,135805,12915
+UP_Kaushambi,1,6461,352
+UP_Kaushambi,2,12493,4672
+UP_Kaushambi,3,43928,7112
+UP_Kaushambi,4,8380,8124
+UP_Kaushambi,5,34358,2689
+UP_Kaushambi,6,85538,12271
+UP_Kaushambi,7,119977,20331
+UP_Kushinagar,1,12762,186
+UP_Kushinagar,2,19634,9206
+UP_Kushinagar,3,98234,14123
+UP_Kushinagar,4,38742,21032
+UP_Kushinagar,5,74271,11479
+UP_Kushinagar,6,197956,33186
+UP_Kushinagar,7,293902,52050
+UP_Lakhimpur Kheri,1,14957,271
+UP_Lakhimpur Kheri,2,21246,9203
+UP_Lakhimpur Kheri,3,93449,12024
+UP_Lakhimpur Kheri,4,20351,16120
+UP_Lakhimpur Kheri,5,100031,8458
+UP_Lakhimpur Kheri,6,229297,26792
+UP_Lakhimpur Kheri,7,287436,24215
+UP_Lalitpur,1,5060,222
+UP_Lalitpur,2,11073,3583
+UP_Lalitpur,3,44694,3107
+UP_Lalitpur,4,6431,6874
+UP_Lalitpur,5,30106,2193
+UP_Lalitpur,6,87406,8861
+UP_Lalitpur,7,119894,10155
+UP_Lucknow,1,46345,689
+UP_Lucknow,2,55244,32688
+UP_Lucknow,3,279134,51272
+UP_Lucknow,4,141574,99116
+UP_Lucknow,5,427894,40443
+UP_Lucknow,6,364683,159897
+UP_Lucknow,7,436661,176706
+UP_Maharajganj,1,11401,128
+UP_Maharajganj,2,11790,6979
+UP_Maharajganj,3,84528,7498
+UP_Maharajganj,4,27533,21320
+UP_Maharajganj,5,51044,3821
+UP_Maharajganj,6,170007,20225
+UP_Maharajganj,7,206119,38684
+UP_Mahoba,1,3438,203
+UP_Mahoba,2,6220,2298
+UP_Mahoba,3,61710,5147
+UP_Mahoba,4,13543,9475
+UP_Mahoba,5,39211,1291
+UP_Mahoba,6,83816,13010
+UP_Mahoba,7,105725,18279
+UP_Mainpuri,1,9955,154
+UP_Mainpuri,2,12247,7407
+UP_Mainpuri,3,61213,4141
+UP_Mainpuri,4,12094,10767
+UP_Mainpuri,5,33368,3543
+UP_Mainpuri,6,97461,15437
+UP_Mainpuri,7,163015,16559
+UP_Mathura,1,13513,507
+UP_Mathura,2,25490,8132
+UP_Mathura,3,84175,7540
+UP_Mathura,4,60282,28488
+UP_Mathura,5,163576,16419
+UP_Mathura,6,198151,37761
+UP_Mathura,7,186797,49425
+UP_Mau,1,10043,244
+UP_Mau,2,12671,7167
+UP_Mau,3,52235,7098
+UP_Mau,4,23228,17866
+UP_Mau,5,50091,5383
+UP_Mau,6,123613,28101
+UP_Mau,7,193426,26733
+UP_Meerut,1,22798,522
+UP_Meerut,2,32824,15421
+UP_Meerut,3,183579,20429
+UP_Meerut,4,113225,52243
+UP_Meerut,5,302223,31452
+UP_Meerut,6,268169,102317
+UP_Meerut,7,305628,100068
+UP_Mirzapur,1,11955,284
+UP_Mirzapur,2,24017,8734
+UP_Mirzapur,3,82875,7672
+UP_Mirzapur,4,30471,23992
+UP_Mirzapur,5,146091,6532
+UP_Mirzapur,6,206358,28116
+UP_Mirzapur,7,227848,32557
+UP_Moradabad,1,20426,437
+UP_Moradabad,2,17706,14612
+UP_Moradabad,3,91748,12856
+UP_Moradabad,4,41766,21233
+UP_Moradabad,5,174216,8267
+UP_Moradabad,6,149360,46659
+UP_Moradabad,7,210230,51929
+UP_Muzaffarnagar,1,9482,260
+UP_Muzaffarnagar,2,21029,6465
+UP_Muzaffarnagar,3,96248,12718
+UP_Muzaffarnagar,4,30553,26236
+UP_Muzaffarnagar,5,127531,10821
+UP_Muzaffarnagar,6,207453,38289
+UP_Muzaffarnagar,7,230985,32290
+UP_Pilibhit,1,9643,261
+UP_Pilibhit,2,11186,6557
+UP_Pilibhit,3,101188,9030
+UP_Pilibhit,4,35812,21184
+UP_Pilibhit,5,51485,7589
+UP_Pilibhit,6,113915,19178
+UP_Pilibhit,7,169830,25898
+UP_Pratapgarh,1,12035,126
+UP_Pratapgarh,2,15838,7708
+UP_Pratapgarh,3,77677,11342
+UP_Pratapgarh,4,33873,21606
+UP_Pratapgarh,5,64126,13407
+UP_Pratapgarh,6,142588,23111
+UP_Pratapgarh,7,270384,30168
+UP_Prayagraj,1,30303,310
+UP_Prayagraj,2,41557,20656
+UP_Prayagraj,3,168428,33663
+UP_Prayagraj,4,106123,44497
+UP_Prayagraj,5,243432,23320
+UP_Prayagraj,6,241378,71116
+UP_Prayagraj,7,376688,90035
+UP_Rae Bareli,1,12252,243
+UP_Rae Bareli,2,14575,8182
+UP_Rae Bareli,3,84758,7033
+UP_Rae Bareli,4,13697,12260
+UP_Rae Bareli,5,49940,3742
+UP_Rae Bareli,6,131817,24227
+UP_Rae Bareli,7,221271,26426
+UP_Rampur,1,9398,204
+UP_Rampur,2,14708,6723
+UP_Rampur,3,57551,11581
+UP_Rampur,4,22418,14202
+UP_Rampur,5,41231,5597
+UP_Rampur,6,107116,15072
+UP_Rampur,7,174789,27441
+UP_Saharanpur,1,14628,355
+UP_Saharanpur,2,24593,10910
+UP_Saharanpur,3,114810,9462
+UP_Saharanpur,4,70850,34477
+UP_Saharanpur,5,233395,8759
+UP_Saharanpur,6,272270,62989
+UP_Saharanpur,7,241633,72329
+UP_Sambhal,1,6850,223
+UP_Sambhal,2,10908,3546
+UP_Sambhal,3,51738,8186
+UP_Sambhal,4,19800,10618
+UP_Sambhal,5,35134,5345
+UP_Sambhal,6,102722,14944
+UP_Sambhal,7,162036,22137
+UP_Sant Kabir Nagar,1,7625,183
+UP_Sant Kabir Nagar,2,7921,5341
+UP_Sant Kabir Nagar,3,44958,5293
+UP_Sant Kabir Nagar,4,18797,11673
+UP_Sant Kabir Nagar,5,38043,2498
+UP_Sant Kabir Nagar,6,77253,13995
+UP_Sant Kabir Nagar,7,137759,15737
+UP_Shahjahanpur,1,16035,299
+UP_Shahjahanpur,2,21426,10644
+UP_Shahjahanpur,3,93136,13337
+UP_Shahjahanpur,4,38363,18067
+UP_Shahjahanpur,5,111917,6330
+UP_Shahjahanpur,6,146720,25004
+UP_Shahjahanpur,7,218467,33679
+UP_Shamli,1,4768,204
+UP_Shamli,2,11205,2815
+UP_Shamli,3,40948,8396
+UP_Shamli,4,24266,9697
+UP_Shamli,5,51710,4803
+UP_Shamli,6,86549,19766
+UP_Shamli,7,114532,20257
+UP_Shrawasti,1,5290,186
+UP_Shrawasti,2,5367,4260
+UP_Shrawasti,3,33425,3356
+UP_Shrawasti,4,8866,7003
+UP_Shrawasti,5,54136,2430
+UP_Shrawasti,6,117380,7495
+UP_Shrawasti,7,111176,11453
+UP_Siddharthnagar,1,13098,392
+UP_Siddharthnagar,2,17590,9866
+UP_Siddharthnagar,3,108187,9977
+UP_Siddharthnagar,4,30302,19268
+UP_Siddharthnagar,5,98699,4879
+UP_Siddharthnagar,6,242848,28918
+UP_Siddharthnagar,7,239554,31441
+UP_Sitapur,1,17070,293
+UP_Sitapur,2,26192,11413
+UP_Sitapur,3,124630,10033
+UP_Sitapur,4,36112,26982
+UP_Sitapur,5,65885,5892
+UP_Sitapur,6,196650,29439
+UP_Sitapur,7,350983,39493
+UP_Sonbhadra,1,8399,133
+UP_Sonbhadra,2,10819,5512
+UP_Sonbhadra,3,51027,7275
+UP_Sonbhadra,4,15631,10473
+UP_Sonbhadra,5,45735,3687
+UP_Sonbhadra,6,96597,20124
+UP_Sonbhadra,7,136482,29601
+UP_Sultanpur,1,13552,177
+UP_Sultanpur,2,18870,9986
+UP_Sultanpur,3,82468,10778
+UP_Sultanpur,4,24165,24362
+UP_Sultanpur,5,76673,5067
+UP_Sultanpur,6,131953,24445
+UP_Sultanpur,7,178838,33354
+UP_Unnao,1,13947,272
+UP_Unnao,2,21194,9845
+UP_Unnao,3,114963,7207
+UP_Unnao,4,24734,20528
+UP_Unnao,5,48449,12793
+UP_Unnao,6,158784,24162
+UP_Unnao,7,256090,38059
+UP_Varanasi,1,22095,359
+UP_Varanasi,2,35395,14601
+UP_Varanasi,3,140588,19919
+UP_Varanasi,4,108325,52782
+UP_Varanasi,5,250121,37220
+UP_Varanasi,6,286646,78907
+UP_Varanasi,7,298557,89442
+UT_Almora,1,7033,200
+UT_Almora,2,12664,5534
+UT_Almora,3,61197,8823
+UT_Almora,4,56796,29015
+UT_Almora,5,43254,4751
+UT_Almora,6,64732,27055
+UT_Almora,7,75518,42973
+UT_Bageshwar,1,3509,224
+UT_Bageshwar,2,3001,3102
+UT_Bageshwar,3,37785,3442
+UT_Bageshwar,4,23757,20019
+UT_Bageshwar,5,30979,1326
+UT_Bageshwar,6,53462,14521
+UT_Bageshwar,7,24128,16527
+UT_Chamoli,1,5689,135
+UT_Chamoli,2,7924,4013
+UT_Chamoli,3,58439,6493
+UT_Chamoli,4,30706,27559
+UT_Chamoli,5,29479,1203
+UT_Chamoli,6,57698,17788
+UT_Chamoli,7,49657,30464
+UT_Champawat,1,4520,0
+UT_Champawat,2,3843,3479
+UT_Champawat,3,27937,2468
+UT_Champawat,4,32024,13160
+UT_Champawat,5,31683,1868
+UT_Champawat,6,43477,13308
+UT_Champawat,7,24926,21557
+UT_Dehradun,1,27941,420
+UT_Dehradun,2,32800,18525
+UT_Dehradun,3,217533,31667
+UT_Dehradun,4,129815,102910
+UT_Dehradun,5,150386,10541
+UT_Dehradun,6,195278,109941
+UT_Dehradun,7,334320,131378
+UT_Haridwar,1,21009,508
+UT_Haridwar,2,34021,15318
+UT_Haridwar,3,149202,26149
+UT_Haridwar,4,75158,48488
+UT_Haridwar,5,121664,4537
+UT_Haridwar,6,226189,46637
+UT_Haridwar,7,294775,82688
+UT_Nainital,1,13083,0
+UT_Nainital,2,9639,9411
+UT_Nainital,3,90685,12379
+UT_Nainital,4,83919,44773
+UT_Nainital,5,67103,5557
+UT_Nainital,6,163041,39969
+UT_Nainital,7,137879,71608
+UT_Pauri Garhwal,1,6476,204
+UT_Pauri Garhwal,2,13206,5336
+UT_Pauri Garhwal,3,85250,8662
+UT_Pauri Garhwal,4,50904,32201
+UT_Pauri Garhwal,5,33145,1670
+UT_Pauri Garhwal,6,63602,32123
+UT_Pauri Garhwal,7,81312,46865
+UT_Pithoragarh,1,7072,200
+UT_Pithoragarh,2,6177,5576
+UT_Pithoragarh,3,35761,7007
+UT_Pithoragarh,4,37579,15841
+UT_Pithoragarh,5,43661,1496
+UT_Pithoragarh,6,59675,16370
+UT_Pithoragarh,7,60993,33682
+UT_Rudraprayag,1,2391,209
+UT_Rudraprayag,2,3920,1858
+UT_Rudraprayag,3,25071,2660
+UT_Rudraprayag,4,30816,14918
+UT_Rudraprayag,5,34098,1062
+UT_Rudraprayag,6,46629,9846
+UT_Rudraprayag,7,19502,16663
+UT_Tehri Garhwal,1,6785,217
+UT_Tehri Garhwal,2,5976,5621
+UT_Tehri Garhwal,3,68354,5479
+UT_Tehri Garhwal,4,39453,29783
+UT_Tehri Garhwal,5,33957,909
+UT_Tehri Garhwal,6,72962,23947
+UT_Tehri Garhwal,7,84587,36522
+UT_Udham Singh Nagar,1,11836,527
+UT_Udham Singh Nagar,2,11867,7534
+UT_Udham Singh Nagar,3,105521,9989
+UT_Udham Singh Nagar,4,78498,43837
+UT_Udham Singh Nagar,5,92819,2407
+UT_Udham Singh Nagar,6,182379,50768
+UT_Udham Singh Nagar,7,345226,68548
+UT_Uttarkashi,1,5307,198
+UT_Uttarkashi,2,10921,4440
+UT_Uttarkashi,3,49656,9710
+UT_Uttarkashi,4,21593,30335
+UT_Uttarkashi,5,30747,1266
+UT_Uttarkashi,6,59687,9482
+UT_Uttarkashi,7,34136,17846
+WB_Alipurduar,1,11467,278
+WB_Alipurduar,2,28708,7753
+WB_Alipurduar,3,88068,16295
+WB_Alipurduar,4,21911,39640
+WB_Alipurduar,5,92146,4845
+WB_Alipurduar,6,65959,52017
+WB_Alipurduar,7,113314,40693
+WB_Bankura,1,17481,346
+WB_Bankura,2,53539,13334
+WB_Bankura,3,127862,20872
+WB_Bankura,4,18402,81897
+WB_Bankura,5,98305,9507
+WB_Bankura,6,59451,71329
+WB_Bankura,7,190931,24418
+WB_North 24 Parganas,1,8835,113
+WB_North 24 Parganas,2,33850,6927
+WB_North 24 Parganas,3,163001,14030
+WB_North 24 Parganas,4,30433,75183
+WB_North 24 Parganas,5,90308,9211
+WB_North 24 Parganas,6,66836,74601
+WB_North 24 Parganas,7,145119,45916
+WB_Birbhum,1,10304,0
+WB_Birbhum,2,36672,5956
+WB_Birbhum,3,140573,17293
+WB_Birbhum,4,32573,58773
+WB_Birbhum,5,95851,7971
+WB_Birbhum,6,132105,83237
+WB_Birbhum,7,193992,58287
+WB_Cooch Behar,1,12486,183
+WB_Cooch Behar,2,37784,7765
+WB_Cooch Behar,3,149621,14919
+WB_Cooch Behar,4,25236,62346
+WB_Cooch Behar,5,108009,6919
+WB_Cooch Behar,6,56186,72316
+WB_Cooch Behar,7,118394,47531
+WB_Dakshin Dinajpur,1,11978,269
+WB_Dakshin Dinajpur,2,31736,9092
+WB_Dakshin Dinajpur,3,119081,12690
+WB_Dakshin Dinajpur,4,13181,55043
+WB_Dakshin Dinajpur,5,86172,9221
+WB_Dakshin Dinajpur,6,52839,54033
+WB_Dakshin Dinajpur,7,85688,39949
+WB_Darjeeling,1,16150,87
+WB_Darjeeling,2,49714,11023
+WB_Darjeeling,3,133950,25798
+WB_Darjeeling,4,45118,72562
+WB_Darjeeling,5,154619,13737
+WB_Darjeeling,6,156386,83037
+WB_Darjeeling,7,216654,65658
+WB_South 24 Parganas,1,14277,504
+WB_South 24 Parganas,2,73340,11035
+WB_South 24 Parganas,3,163443,20760
+WB_South 24 Parganas,4,35017,103567
+WB_South 24 Parganas,5,155864,8585
+WB_South 24 Parganas,6,122008,97905
+WB_South 24 Parganas,7,222298,78888
+WB_Purba Bardhaman,1,23399,383
+WB_Purba Bardhaman,2,87756,17957
+WB_Purba Bardhaman,3,281299,34431
+WB_Purba Bardhaman,4,71330,127892
+WB_Purba Bardhaman,5,180873,21549
+WB_Purba Bardhaman,6,112843,162609
+WB_Purba Bardhaman,7,195530,94621
+WB_Hooghly,1,25687,85
+WB_Hooghly,2,107346,19986
+WB_Hooghly,3,409760,41503
+WB_Hooghly,4,75644,212021
+WB_Hooghly,5,264145,24183
+WB_Hooghly,6,162728,241125
+WB_Hooghly,7,402318,108282
+WB_Howrah,1,21946,332
+WB_Howrah,2,87610,17268
+WB_Howrah,3,270296,35825
+WB_Howrah,4,78414,141402
+WB_Howrah,5,245612,18796
+WB_Howrah,6,282890,153754
+WB_Howrah,7,331189,94935
+WB_Jalpaiguri,1,10371,104
+WB_Jalpaiguri,2,29452,7788
+WB_Jalpaiguri,3,77701,17441
+WB_Jalpaiguri,4,32231,37556
+WB_Jalpaiguri,5,106555,3953
+WB_Jalpaiguri,6,92271,41613
+WB_Jalpaiguri,7,167741,47406
+WB_Jhargram,1,7912,83
+WB_Jhargram,2,16679,6812
+WB_Jhargram,3,31738,14920
+WB_Jhargram,4,8165,15643
+WB_Jhargram,5,55105,3091
+WB_Jhargram,6,63250,18963
+WB_Jhargram,7,74508,12305
+WB_Kalimpong,1,2790,0
+WB_Kalimpong,2,11620,2255
+WB_Kalimpong,3,28027,5048
+WB_Kalimpong,4,10784,21116
+WB_Kalimpong,5,26445,470
+WB_Kalimpong,6,29502,12417
+WB_Kalimpong,7,40604,14995
+WB_Kolkata,1,84545,132
+WB_Kolkata,2,145515,60239
+WB_Kolkata,3,543216,83883
+WB_Kolkata,4,411086,309327
+WB_Kolkata,5,878210,85632
+WB_Kolkata,6,911542,401801
+WB_Kolkata,7,837738,428474
+WB_Malda,1,16865,47
+WB_Malda,2,56493,11197
+WB_Malda,3,158645,24159
+WB_Malda,4,55369,65913
+WB_Malda,5,148045,21517
+WB_Malda,6,112464,70615
+WB_Malda,7,164957,78445
+WB_Murshidabad,1,27319,298
+WB_Murshidabad,2,122189,19004
+WB_Murshidabad,3,297868,45191
+WB_Murshidabad,4,36991,131577
+WB_Murshidabad,5,216999,20156
+WB_Murshidabad,6,141390,148755
+WB_Murshidabad,7,353901,131647
+WB_Nadia,1,25884,233
+WB_Nadia,2,78187,19519
+WB_Nadia,3,242569,37953
+WB_Nadia,4,55267,98241
+WB_Nadia,5,192165,11339
+WB_Nadia,6,134252,170230
+WB_Nadia,7,286844,90855
+WB_Purba Medinipur,1,6857,600
+WB_Purba Medinipur,2,43208,6479
+WB_Purba Medinipur,3,184842,14311
+WB_Purba Medinipur,4,23586,65861
+WB_Purba Medinipur,5,121398,14896
+WB_Purba Medinipur,6,88109,127910
+WB_Purba Medinipur,7,190574,74686
+WB_Paschim Medinipur,1,25789,598
+WB_Paschim Medinipur,2,69387,18434
+WB_Paschim Medinipur,3,244123,39137
+WB_Paschim Medinipur,4,54048,108187
+WB_Paschim Medinipur,5,213044,17105
+WB_Paschim Medinipur,6,121061,129989
+WB_Paschim Medinipur,7,236383,68559
+WB_Purulia,1,18443,222
+WB_Purulia,2,45147,13184
+WB_Purulia,3,122213,28302
+WB_Purulia,4,16362,46514
+WB_Purulia,5,120706,7330
+WB_Purulia,6,77337,55767
+WB_Purulia,7,195939,59134
+WB_Uttar Dinajpur,1,10716,120
+WB_Uttar Dinajpur,2,40151,7988
+WB_Uttar Dinajpur,3,98779,18593
+WB_Uttar Dinajpur,4,19631,48205
+WB_Uttar Dinajpur,5,123851,7314
+WB_Uttar Dinajpur,6,89990,62199
+WB_Uttar Dinajpur,7,162874,30024
+WB_Paschim Bardhaman,1,15362,0
+WB_Paschim Bardhaman,2,43017,12498
+WB_Paschim Bardhaman,3,142302,17596
+WB_Paschim Bardhaman,4,29262,60871
+WB_Paschim Bardhaman,5,178461,10356
+WB_Paschim Bardhaman,6,149631,98420
+WB_Paschim Bardhaman,7,239025,60861

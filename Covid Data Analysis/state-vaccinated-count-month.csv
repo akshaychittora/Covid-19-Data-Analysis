@@ -1,0 +1,253 @@
+state,monthid,dose1,dose2
+Andaman and Nicobar Islands,1,4567,164
+Andaman and Nicobar Islands,2,10451,3363
+Andaman and Nicobar Islands,3,55587,7321
+Andaman and Nicobar Islands,4,24131,15039
+Andaman and Nicobar Islands,5,163495,721
+Andaman and Nicobar Islands,6,247496,38817
+Andaman and Nicobar Islands,7,94433,28206
+Andhra Pradesh,1,4567,164
+Andhra Pradesh,2,10451,3363
+Andhra Pradesh,3,55587,7321
+Andhra Pradesh,4,24131,15039
+Andhra Pradesh,5,163495,721
+Andhra Pradesh,6,247496,38817
+Andhra Pradesh,7,94433,28206
+Arunachal Pradesh,1,4567,164
+Arunachal Pradesh,2,10451,3363
+Arunachal Pradesh,3,55587,7321
+Arunachal Pradesh,4,24131,15039
+Arunachal Pradesh,5,163495,721
+Arunachal Pradesh,6,247496,38817
+Arunachal Pradesh,7,94433,28206
+Assam,1,4567,164
+Assam,2,10451,3363
+Assam,3,55587,7321
+Assam,4,24131,15039
+Assam,5,163495,721
+Assam,6,247496,38817
+Assam,7,94433,28206
+Bihar,1,4567,164
+Bihar,2,10451,3363
+Bihar,3,55587,7321
+Bihar,4,24131,15039
+Bihar,5,163495,721
+Bihar,6,247496,38817
+Bihar,7,94433,28206
+Chandigarh,1,4567,164
+Chandigarh,2,10451,3363
+Chandigarh,3,55587,7321
+Chandigarh,4,24131,15039
+Chandigarh,5,163495,721
+Chandigarh,6,247496,38817
+Chandigarh,7,94433,28206
+Chhattisgarh,1,4567,164
+Chhattisgarh,2,10451,3363
+Chhattisgarh,3,55587,7321
+Chhattisgarh,4,24131,15039
+Chhattisgarh,5,163495,721
+Chhattisgarh,6,247496,38817
+Chhattisgarh,7,94433,28206
+Dadra and Nagar Haveli and Daman and Diu,1,4567,164
+Dadra and Nagar Haveli and Daman and Diu,2,10451,3363
+Dadra and Nagar Haveli and Daman and Diu,3,55587,7321
+Dadra and Nagar Haveli and Daman and Diu,4,24131,15039
+Dadra and Nagar Haveli and Daman and Diu,5,163495,721
+Dadra and Nagar Haveli and Daman and Diu,6,247496,38817
+Dadra and Nagar Haveli and Daman and Diu,7,94433,28206
+Delhi,1,4567,164
+Delhi,2,10451,3363
+Delhi,3,55587,7321
+Delhi,4,24131,15039
+Delhi,5,163495,721
+Delhi,6,247496,38817
+Delhi,7,94433,28206
+Goa,1,4567,164
+Goa,2,10451,3363
+Goa,3,55587,7321
+Goa,4,24131,15039
+Goa,5,163495,721
+Goa,6,247496,38817
+Goa,7,94433,28206
+Gujarat,1,4567,164
+Gujarat,2,10451,3363
+Gujarat,3,55587,7321
+Gujarat,4,24131,15039
+Gujarat,5,163495,721
+Gujarat,6,247496,38817
+Gujarat,7,94433,28206
+Haryana,1,4567,164
+Haryana,2,10451,3363
+Haryana,3,55587,7321
+Haryana,4,24131,15039
+Haryana,5,163495,721
+Haryana,6,247496,38817
+Haryana,7,94433,28206
+Himachal Pradesh,1,4567,164
+Himachal Pradesh,2,10451,3363
+Himachal Pradesh,3,55587,7321
+Himachal Pradesh,4,24131,15039
+Himachal Pradesh,5,163495,721
+Himachal Pradesh,6,247496,38817
+Himachal Pradesh,7,94433,28206
+Jammu and Kashmir,1,4567,164
+Jammu and Kashmir,2,10451,3363
+Jammu and Kashmir,3,55587,7321
+Jammu and Kashmir,4,24131,15039
+Jammu and Kashmir,5,163495,721
+Jammu and Kashmir,6,247496,38817
+Jammu and Kashmir,7,94433,28206
+Jharkhand,1,4567,164
+Jharkhand,2,10451,3363
+Jharkhand,3,55587,7321
+Jharkhand,4,24131,15039
+Jharkhand,5,163495,721
+Jharkhand,6,247496,38817
+Jharkhand,7,94433,28206
+Karnataka,1,4567,164
+Karnataka,2,10451,3363
+Karnataka,3,55587,7321
+Karnataka,4,24131,15039
+Karnataka,5,163495,721
+Karnataka,6,247496,38817
+Karnataka,7,94433,28206
+Kerala,1,4567,164
+Kerala,2,10451,3363
+Kerala,3,55587,7321
+Kerala,4,24131,15039
+Kerala,5,163495,721
+Kerala,6,247496,38817
+Kerala,7,94433,28206
+Ladakh,1,4567,164
+Ladakh,2,10451,3363
+Ladakh,3,55587,7321
+Ladakh,4,24131,15039
+Ladakh,5,163495,721
+Ladakh,6,247496,38817
+Ladakh,7,94433,28206
+Lakshadweep,1,4567,164
+Lakshadweep,2,10451,3363
+Lakshadweep,3,55587,7321
+Lakshadweep,4,24131,15039
+Lakshadweep,5,163495,721
+Lakshadweep,6,247496,38817
+Lakshadweep,7,94433,28206
+Madhya Pradesh,1,4567,164
+Madhya Pradesh,2,10451,3363
+Madhya Pradesh,3,55587,7321
+Madhya Pradesh,4,24131,15039
+Madhya Pradesh,5,163495,721
+Madhya Pradesh,6,247496,38817
+Madhya Pradesh,7,94433,28206
+Maharashtra,1,4567,164
+Maharashtra,2,10451,3363
+Maharashtra,3,55587,7321
+Maharashtra,4,24131,15039
+Maharashtra,5,163495,721
+Maharashtra,6,247496,38817
+Maharashtra,7,94433,28206
+Manipur,1,4567,164
+Manipur,2,10451,3363
+Manipur,3,55587,7321
+Manipur,4,24131,15039
+Manipur,5,163495,721
+Manipur,6,247496,38817
+Manipur,7,94433,28206
+Meghalaya,1,4567,164
+Meghalaya,2,10451,3363
+Meghalaya,3,55587,7321
+Meghalaya,4,24131,15039
+Meghalaya,5,163495,721
+Meghalaya,6,247496,38817
+Meghalaya,7,94433,28206
+Mizoram,1,4567,164
+Mizoram,2,10451,3363
+Mizoram,3,55587,7321
+Mizoram,4,24131,15039
+Mizoram,5,163495,721
+Mizoram,6,247496,38817
+Mizoram,7,94433,28206
+Nagaland,1,4567,164
+Nagaland,2,10451,3363
+Nagaland,3,55587,7321
+Nagaland,4,24131,15039
+Nagaland,5,163495,721
+Nagaland,6,247496,38817
+Nagaland,7,94433,28206
+Odisha,1,4567,164
+Odisha,2,10451,3363
+Odisha,3,55587,7321
+Odisha,4,24131,15039
+Odisha,5,163495,721
+Odisha,6,247496,38817
+Odisha,7,94433,28206
+Puducherry,1,4567,164
+Puducherry,2,10451,3363
+Puducherry,3,55587,7321
+Puducherry,4,24131,15039
+Puducherry,5,163495,721
+Puducherry,6,247496,38817
+Puducherry,7,94433,28206
+Punjab,1,4567,164
+Punjab,2,10451,3363
+Punjab,3,55587,7321
+Punjab,4,24131,15039
+Punjab,5,163495,721
+Punjab,6,247496,38817
+Punjab,7,94433,28206
+Rajasthan,1,4567,164
+Rajasthan,2,10451,3363
+Rajasthan,3,55587,7321
+Rajasthan,4,24131,15039
+Rajasthan,5,163495,721
+Rajasthan,6,247496,38817
+Rajasthan,7,94433,28206
+Sikkim,1,4567,164
+Sikkim,2,10451,3363
+Sikkim,3,55587,7321
+Sikkim,4,24131,15039
+Sikkim,5,163495,721
+Sikkim,6,247496,38817
+Sikkim,7,94433,28206
+Tamil Nadu,1,4567,164
+Tamil Nadu,2,10451,3363
+Tamil Nadu,3,55587,7321
+Tamil Nadu,4,24131,15039
+Tamil Nadu,5,163495,721
+Tamil Nadu,6,247496,38817
+Tamil Nadu,7,94433,28206
+Telangana,1,4567,164
+Telangana,2,10451,3363
+Telangana,3,55587,7321
+Telangana,4,24131,15039
+Telangana,5,163495,721
+Telangana,6,247496,38817
+Telangana,7,94433,28206
+Tripura,1,4567,164
+Tripura,2,10451,3363
+Tripura,3,55587,7321
+Tripura,4,24131,15039
+Tripura,5,163495,721
+Tripura,6,247496,38817
+Tripura,7,94433,28206
+Uttar Pradesh,1,4567,164
+Uttar Pradesh,2,10451,3363
+Uttar Pradesh,3,55587,7321
+Uttar Pradesh,4,24131,15039
+Uttar Pradesh,5,163495,721
+Uttar Pradesh,6,247496,38817
+Uttar Pradesh,7,94433,28206
+Uttarakhand,1,4567,164
+Uttarakhand,2,10451,3363
+Uttarakhand,3,55587,7321
+Uttarakhand,4,24131,15039
+Uttarakhand,5,163495,721
+Uttarakhand,6,247496,38817
+Uttarakhand,7,94433,28206
+West Bengal,1,4567,164
+West Bengal,2,10451,3363
+West Bengal,3,55587,7321
+West Bengal,4,24131,15039
+West Bengal,5,163495,721
+West Bengal,6,247496,38817
+West Bengal,7,94433,28206
